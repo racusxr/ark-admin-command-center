@@ -1,0 +1,82 @@
+{
+  "_doc": {
+    "statOrder": [
+      "Health",
+      "Stamina",
+      "Oxygen",
+      "Food",
+      "Weight",
+      "Melee Damage",
+      "Movement Speed",
+      "Crafting Skill"
+    ],
+    "notes": [
+      "SpawnExactDino espera BaseStats y AddedStats como 8 valores separados por coma en el orden de statOrder.",
+      "El wiki de ARK indica que BaseLevel debe ser la suma de BaseStats + 1 y ExtraLevels la suma de AddedStats; si no coincide, las stats de la criatura pueden quedar rotas.",
+      "Por eso cada preset 'Flex N' reparte N puntos en los 7 primeros stats (Crafting Skill no se usa en criaturas salvajes) y el nivel resultante es N*7+1.",
+      "Para agregar presets nuevos basta con anadir objetos a levelPresets o colorPresets: la interfaz los lee de este archivo."
+    ]
+  },
+  "levelPresets": [
+    {
+      "id": "flex-254",
+      "label": "Flex 254",
+      "statPoints": 254,
+      "statSlots": 7,
+      "description": "254 puntos en cada stat salvaje (7 stats) -> nivel 1779"
+    },
+    {
+      "id": "flex-200",
+      "label": "Flex 200",
+      "statPoints": 200,
+      "statSlots": 7,
+      "description": "200 puntos en cada stat salvaje (7 stats) -> nivel 1401"
+    },
+    {
+      "id": "flex-100",
+      "label": "Flex 100",
+      "statPoints": 100,
+      "statSlots": 7,
+      "description": "100 puntos en cada stat salvaje (7 stats) -> nivel 701"
+    },
+    {
+      "id": "custom",
+      "label": "Custom",
+      "statPoints": null,
+      "statSlots": 7,
+      "description": "Nivel y puntos de stats totalmente manuales"
+    }
+  ],
+  "colorPresets": [
+    {
+      "id": "default",
+      "label": "Default",
+      "colors": [0, 0, 0, 0, 0, 0],
+      "description": "Todas las regiones en 0: la criatura conserva sus colores aleatorios"
+    },
+    {
+      "id": "all-black",
+      "label": "All Black",
+      "colors": [14, 14, 14, 14, 14, 14],
+      "description": "Color 14 (Black) en las 6 regiones"
+    },
+    {
+      "id": "all-white",
+      "label": "All White",
+      "colors": [18, 18, 18, 18, 18, 18],
+      "description": "Color 18 (White) en las 6 regiones"
+    },
+    {
+      "id": "rainbow",
+      "label": "Rainbow",
+      "colors": [1, 75, 4, 3, 2, 6],
+      "description": "Red, Orange, Yellow, Green, Blue, Magenta (IDs reales 1/75/4/3/2/6)"
+    },
+    {
+      "id": "custom",
+      "label": "Custom",
+      "colors": null,
+      "description": "Elige cada region manualmente"
+    }
+  ]
+}

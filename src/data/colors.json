@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "unset",
+    "colorId": 0,
+    "name": "Unset (no color)",
+    "hex": "#000000",
+    "group": "Special",
+    "search": "unset none default 0",
+    "note": "ID 0 indica que la region no se actualiza. Solo tiene efecto tras meter y sacar a la criatura de una criopod."
+  },
+  {
+    "id": "red",
+    "colorId": 1,
+    "name": "Red",
+    "hex": "#FF0000",
+    "group": "Base",
+    "search": "red 1"
+  },
+  {
+    "id": "blue",
+    "colorId": 2,
+    "name": "Blue",
+    "hex": "#0000FF",
+    "group": "Base",
+    "search": "blue 2"
+  },
+  {
+    "id": "green",
+    "colorId": 3,
+    "name": "Green",
+    "hex": "#00FF00",
+    "group": "Base",
+    "search": "green 3"
+  },
+  {
+    "id": "yellow",
+    "colorId": 4,
+    "name": "Yellow",
+    "hex": "#FFFF00",
+    "group": "Base",
+    "search": "yellow 4"
+  },
+  {
+    "id": "cyan",
+    "colorId": 5,
+    "name": "Cyan",
+    "hex": "#00FFFF",
+    "group": "Base",
+    "search": "cyan 5"
+  },
+  {
+    "id": "magenta",
+    "colorId": 6,
+    "name": "Magenta",
+    "hex": "#FF00FF",
+    "group": "Base",
+    "search": "magenta 6"
+  },
+  {
+    "id": "light-green",
+    "colorId": 7,
+    "name": "Light Green",
+    "hex": "#C0FFBA",
+    "group": "Base",
+    "search": "light green 7"
+  },
+  {
+    "id": "light-grey",
+    "colorId": 8,
+    "name": "Light Grey",
+    "hex": "#C8CACA",
+    "group": "Base",
+    "search": "light grey 8"
+  },
+  {
+    "id": "light-brown",
+    "colorId": 9,
+    "name": "Light Brown",
+    "hex": "#786759",
+    "group": "Base",
+    "search": "light brown 9"
+  },
+  {
+    "id": "light-orange",
+    "colorId": 10,
+    "name": "Light Orange",
+    "hex": "#FFB46C",
+    "group": "Base",
+    "search": "light orange 10"
+  },
+  {
+    "id": "light-yellow",
+    "colorId": 11,
+    "name": "Light Yellow",
+    "hex": "#FFFA8A",
+    "group": "Base",
+    "search": "light yellow 11"
+  },
+  {
+    "id": "light-red",
+    "colorId": 12,
+    "name": "Light Red",
+    "hex": "#FF756C",
+    "group": "Base",
+    "search": "light red 12"
+  },
+  {
+    "id": "dark-grey",
+    "colorId": 13,
+    "name": "Dark Grey",
+    "hex": "#7B7B7B",
+    "group": "Base",
+    "search": "dark grey 13"
+  },
+  {
+    "id": "black",
+    "colorId": 14,
+    "name": "Black",
+    "hex": "#3B3B3B",
+    "group": "Base",
+    "search": "black 14"
+  },
+  {
+    "id": "brown",
+    "colorId": 15,
+    "name": "Brown",
+    "hex": "#593A2A",
+    "group": "Base",
+    "search": "brown 15"
+  },
+  {
+    "id": "dark-green",
+    "colorId": 16,
+    "name": "Dark Green",
+    "hex": "#224900",
+    "group": "Base",
+    "search": "dark green 16"
+  },
+  {
+    "id": "dark-red",
+    "colorId": 17,
+    "name": "Dark Red",
+    "hex": "#812118",
+    "group": "Base",
+    "search": "dark red 17"
+  },
+  {
+    "id": "white",
+    "colorId": 18,
+    "name": "White",
+    "hex": "#FFFFFF",
+    "group": "Base",
+    "search": "white 18"
+  },
+  {
+    "id": "dino-light-red",
+    "colorId": 19,
+    "name": "Dino Light Red",
+    "hex": "#FFA8A8",
+    "group": "Base",
+    "search": "dino light red 19"
+  },
+  {
+    "id": "dino-dark-red",
+    "colorId": 20,
+    "name": "Dino Dark Red",
+    "hex": "#592B2B",
+    "group": "Base",
+    "search": "dino dark red 20"
+  },
+  {
+    "id": "dino-light-orange",
+    "colorId": 21,
+    "name": "Dino Light Orange",
+    "hex": "#FFB694",
+    "group": "Base",
+    "search": "dino light orange 21"
+  },
+  {
+    "id": "dino-dark-orange",
+    "colorId": 22,
+    "name": "Dino Dark Orange",
+    "hex": "#88532F",
+    "group": "Base",
+    "search": "dino dark orange 22"
+  },
+  {
+    "id": "dino-light-yellow",
+    "colorId": 23,
+    "name": "Dino Light Yellow",
+    "hex": "#CACAA0",
+    "group": "Base",
+    "search": "dino light yellow 23"
+  },
+  {
+    "id": "dino-dark-yellow",
+    "colorId": 24,
+    "name": "Dino Dark Yellow",
+    "hex": "#94946C",
+    "group": "Base",
+    "search": "dino dark yellow 24"
+  },
+  {
+    "id": "dino-light-green",
+    "colorId": 25,
+    "name": "Dino Light Green",
+    "hex": "#E0FFE0",
+    "group": "Base",
+    "search": "dino light green 25"
+  },
+  {
+    "id": "dino-medium-green",
+    "colorId": 26,
+    "name": "Dino Medium Green",
+    "hex": "#799479",
+    "group": "Base",
+    "search": "dino medium green 26"
+  },
+  {
+    "id": "dino-dark-green",
+    "colorId": 27,
+    "name": "Dino Dark Green",
+    "hex": "#224122",
+    "group": "Base",
+    "search": "dino dark green 27"
+  },
+  {
+    "id": "dino-light-blue",
+    "colorId": 28,
+    "name": "Dino Light Blue",
+    "hex": "#D9E0FF",
+    "group": "Base",
+    "search": "dino light blue 28"
+  },
+  {
+    "id": "dino-dark-blue",
+    "colorId": 29,
+    "name": "Dino Dark Blue",
+    "hex": "#394263",
+    "group": "Base",
+    "search": "dino dark blue 29"
+  },
+  {
+    "id": "dino-light-purple",
+    "colorId": 30,
+    "name": "Dino Light Purple",
+    "hex": "#E4D9FF",
+    "group": "Base",
+    "search": "dino light purple 30"
+  },
+  {
+    "id": "dino-dark-purple",
+    "colorId": 31,
+    "name": "Dino Dark Purple",
+    "hex": "#403459",
+    "group": "Base",
+    "search": "dino dark purple 31"
+  },
+  {
+    "id": "dino-light-brown",
+    "colorId": 32,
+    "name": "Dino Light Brown",
+    "hex": "#FFE0BA",
+    "group": "Base",
+    "search": "dino light brown 32"
+  },
+  {
+    "id": "dino-medium-brown",
+    "colorId": 33,
+    "name": "Dino Medium Brown",
+    "hex": "#948575",
+    "group": "Base",
+    "search": "dino medium brown 33"
+  },
+  {
+    "id": "dino-dark-brown",
+    "colorId": 34,
+    "name": "Dino Dark Brown",
+    "hex": "#594E41",
+    "group": "Base",
+    "search": "dino dark brown 34"
+  },
+  {
+    "id": "dino-darker-grey",
+    "colorId": 35,
+    "name": "Dino Darker Grey",
+    "hex": "#595959",
+    "group": "Base",
+    "search": "dino darker grey 35"
+  },
+  {
+    "id": "dino-albino",
+    "colorId": 36,
+    "name": "Dino Albino",
+    "hex": "#FFFFFF",
+    "group": "Base",
+    "search": "dino albino 36"
+  },
+  {
+    "id": "big-foot-0",
+    "colorId": 37,
+    "name": "BigFoot0",
+    "hex": "#B79683",
+    "group": "Base",
+    "search": "big foot 0 37"
+  },
+  {
+    "id": "big-foot-4",
+    "colorId": 38,
+    "name": "BigFoot4",
+    "hex": "#EADAD5",
+    "group": "Base",
+    "search": "big foot 4 38"
+  },
+  {
+    "id": "big-foot-5",
+    "colorId": 39,
+    "name": "BigFoot5",
+    "hex": "#D0A794",
+    "group": "Base",
+    "search": "big foot 5 39"
+  },
+  {
+    "id": "wolf-fur",
+    "colorId": 40,
+    "name": "WolfFur",
+    "hex": "#C3B39F",
+    "group": "Base",
+    "search": "wolf fur 40"
+  },
+  {
+    "id": "dark-wolf-fur",
+    "colorId": 41,
+    "name": "DarkWolfFur",
+    "hex": "#887666",
+    "group": "Base",
+    "search": "dark wolf fur 41"
+  },
+  {
+    "id": "dragon-base-0",
+    "colorId": 42,
+    "name": "DragonBase0",
+    "hex": "#A0664B",
+    "group": "Base",
+    "search": "dragon base 0 42"
+  },
+  {
+    "id": "dragon-base-1",
+    "colorId": 43,
+    "name": "DragonBase1",
+    "hex": "#CB7956",
+    "group": "Base",
+    "search": "dragon base 1 43"
+  },
+  {
+    "id": "dragon-fire",
+    "colorId": 44,
+    "name": "DragonFire",
+    "hex": "#BC4F00",
+    "group": "Base",
+    "search": "dragon fire 44"
+  },
+  {
+    "id": "dragon-green-0",
+    "colorId": 45,
+    "name": "DragonGreen0",
+    "hex": "#79846C",
+    "group": "Base",
+    "search": "dragon green 0 45"
+  },
+  {
+    "id": "dragon-green-1",
+    "colorId": 46,
+    "name": "DragonGreen1",
+    "hex": "#909C79",
+    "group": "Base",
+    "search": "dragon green 1 46"
+  },
+  {
+    "id": "dragon-green-2",
+    "colorId": 47,
+    "name": "DragonGreen2",
+    "hex": "#A5A48B",
+    "group": "Base",
+    "search": "dragon green 2 47"
+  },
+  {
+    "id": "dragon-green-3",
+    "colorId": 48,
+    "name": "DragonGreen3",
+    "hex": "#74939C",
+    "group": "Base",
+    "search": "dragon green 3 48"
+  },
+  {
+    "id": "wyvern-purple-0",
+    "colorId": 49,
+    "name": "WyvernPurple0",
+    "hex": "#787496",
+    "group": "Base",
+    "search": "wyvern purple 0 49"
+  },
+  {
+    "id": "wyvern-purple-1",
+    "colorId": 50,
+    "name": "WyvernPurple1",
+    "hex": "#B0A2C0",
+    "group": "Base",
+    "search": "wyvern purple 1 50"
+  },
+  {
+    "id": "wyvern-blue-0",
+    "colorId": 51,
+    "name": "WyvernBlue0",
+    "hex": "#6281A7",
+    "group": "Base",
+    "search": "wyvern blue 0 51"
+  },
+  {
+    "id": "wyvern-blue-1",
+    "colorId": 52,
+    "name": "WyvernBlue1",
+    "hex": "#485C75",
+    "group": "Base",
+    "search": "wyvern blue 1 52"
+  },
+  {
+    "id": "dino-medium-blue",
+    "colorId": 53,
+    "name": "Dino Medium Blue",
+    "hex": "#5FA4EA",
+    "group": "Base",
+    "search": "dino medium blue 53"
+  },
+  {
+    "id": "dino-deep-blue",
+    "colorId": 54,
+    "name": "Dino Deep Blue",
+    "hex": "#4568D4",
+    "group": "Base",
+    "search": "dino deep blue 54"
+  },
+  {
+    "id": "near-white",
+    "colorId": 55,
+    "name": "NearWhite",
+    "hex": "#EDEDED",
+    "group": "Base",
+    "search": "near white 55"
+  },
+  {
+    "id": "near-black",
+    "colorId": 56,
+    "name": "NearBlack",
+    "hex": "#515151",
+    "group": "Base",
+    "search": "near black 56"
+  },
+  {
+    "id": "dark-turquoise",
+    "colorId": 57,
+    "name": "DarkTurquoise",
+    "hex": "#184546",
+    "group": "Base",
+    "search": "dark turquoise 57"
+  },
+  {
+    "id": "medium-turquoise",
+    "colorId": 58,
+    "name": "MediumTurquoise",
+    "hex": "#007060",
+    "group": "Base",
+    "search": "medium turquoise 58"
+  },
+  {
+    "id": "turquoise",
+    "colorId": 59,
+    "name": "Turquoise",
+    "hex": "#00C5AB",
+    "group": "Base",
+    "search": "turquoise 59"
+  },
+  {
+    "id": "green-slate",
+    "colorId": 60,
+    "name": "GreenSlate",
+    "hex": "#40594C",
+    "group": "Base",
+    "search": "green slate 60"
+  },
+  {
+    "id": "sage",
+    "colorId": 61,
+    "name": "Sage",
+    "hex": "#3E4F40",
+    "group": "Base",
+    "search": "sage 61"
+  },
+  {
+    "id": "dark-warm-gray",
+    "colorId": 62,
+    "name": "DarkWarmGray",
+    "hex": "#3B3938",
+    "group": "Base",
+    "search": "dark warm gray 62"
+  },
+  {
+    "id": "medium-warm-gray",
+    "colorId": 63,
+    "name": "MediumWarmGray",
+    "hex": "#585554",
+    "group": "Base",
+    "search": "medium warm gray 63"
+  },
+  {
+    "id": "light-warm-gray",
+    "colorId": 64,
+    "name": "LightWarmGray",
+    "hex": "#9B9290",
+    "group": "Base",
+    "search": "light warm gray 64"
+  },
+  {
+    "id": "dark-cement",
+    "colorId": 65,
+    "name": "DarkCement",
+    "hex": "#525B56",
+    "group": "Base",
+    "search": "dark cement 65"
+  },
+  {
+    "id": "light-cement",
+    "colorId": 66,
+    "name": "LightCement",
+    "hex": "#8AA196",
+    "group": "Base",
+    "search": "light cement 66"
+  },
+  {
+    "id": "light-pink",
+    "colorId": 67,
+    "name": "LightPink",
+    "hex": "#E8B0FF",
+    "group": "Base",
+    "search": "light pink 67"
+  },
+  {
+    "id": "deep-pink",
+    "colorId": 68,
+    "name": "DeepPink",
+    "hex": "#FF119A",
+    "group": "Base",
+    "search": "deep pink 68"
+  },
+  {
+    "id": "dark-violet",
+    "colorId": 69,
+    "name": "DarkViolet",
+    "hex": "#730046",
+    "group": "Base",
+    "search": "dark violet 69"
+  },
+  {
+    "id": "dark-magenta",
+    "colorId": 70,
+    "name": "DarkMagenta",
+    "hex": "#B70042",
+    "group": "Base",
+    "search": "dark magenta 70"
+  },
+  {
+    "id": "burnt-sienna",
+    "colorId": 71,
+    "name": "BurntSienna",
+    "hex": "#7E331E",
+    "group": "Base",
+    "search": "burnt sienna 71"
+  },
+  {
+    "id": "medium-autumn",
+    "colorId": 72,
+    "name": "MediumAutumn",
+    "hex": "#A93000",
+    "group": "Base",
+    "search": "medium autumn 72"
+  },
+  {
+    "id": "vermillion",
+    "colorId": 73,
+    "name": "Vermillion",
+    "hex": "#EF3100",
+    "group": "Base",
+    "search": "vermillion 73"
+  },
+  {
+    "id": "coral",
+    "colorId": 74,
+    "name": "Coral",
+    "hex": "#FF5834",
+    "group": "Base",
+    "search": "coral 74"
+  },
+  {
+    "id": "orange",
+    "colorId": 75,
+    "name": "Orange",
+    "hex": "#FF7F00",
+    "group": "Base",
+    "search": "orange 75"
+  },
+  {
+    "id": "peach",
+    "colorId": 76,
+    "name": "Peach",
+    "hex": "#FFA73A",
+    "group": "Base",
+    "search": "peach 76"
+  },
+  {
+    "id": "light-autumn",
+    "colorId": 77,
+    "name": "LightAutumn",
+    "hex": "#AE7000",
+    "group": "Base",
+    "search": "light autumn 77"
+  },
+  {
+    "id": "mustard",
+    "colorId": 78,
+    "name": "Mustard",
+    "hex": "#949427",
+    "group": "Base",
+    "search": "mustard 78"
+  },
+  {
+    "id": "actual-black",
+    "colorId": 79,
+    "name": "ActualBlack",
+    "hex": "#171717",
+    "group": "Base",
+    "search": "actual black 79"
+  },
+  {
+    "id": "midnight-blue",
+    "colorId": 80,
+    "name": "MidnightBlue",
+    "hex": "#191D36",
+    "group": "Base",
+    "search": "midnight blue 80"
+  },
+  {
+    "id": "dark-blue",
+    "colorId": 81,
+    "name": "DarkBlue",
+    "hex": "#152B3A",
+    "group": "Base",
+    "search": "dark blue 81"
+  },
+  {
+    "id": "black-sands",
+    "colorId": 82,
+    "name": "BlackSands",
+    "hex": "#302531",
+    "group": "Base",
+    "search": "black sands 82"
+  },
+  {
+    "id": "lemon-lime",
+    "colorId": 83,
+    "name": "LemonLime",
+    "hex": "#A8FF44",
+    "group": "Base",
+    "search": "lemon lime 83"
+  },
+  {
+    "id": "mint",
+    "colorId": 84,
+    "name": "Mint",
+    "hex": "#38E985",
+    "group": "Base",
+    "search": "mint 84"
+  },
+  {
+    "id": "jade",
+    "colorId": 85,
+    "name": "Jade",
+    "hex": "#008840",
+    "group": "Base",
+    "search": "jade 85"
+  },
+  {
+    "id": "pine-green",
+    "colorId": 86,
+    "name": "PineGreen",
+    "hex": "#0F552E",
+    "group": "Base",
+    "search": "pine green 86"
+  },
+  {
+    "id": "spruce-green",
+    "colorId": 87,
+    "name": "SpruceGreen",
+    "hex": "#005B45",
+    "group": "Base",
+    "search": "spruce green 87"
+  },
+  {
+    "id": "leaf-green",
+    "colorId": 88,
+    "name": "LeafGreen",
+    "hex": "#5B9725",
+    "group": "Base",
+    "search": "leaf green 88"
+  },
+  {
+    "id": "dark-lavender",
+    "colorId": 89,
+    "name": "DarkLavender",
+    "hex": "#5E275F",
+    "group": "Base",
+    "search": "dark lavender 89"
+  },
+  {
+    "id": "medium-lavender",
+    "colorId": 90,
+    "name": "MediumLavender",
+    "hex": "#853587",
+    "group": "Base",
+    "search": "medium lavender 90"
+  },
+  {
+    "id": "lavender",
+    "colorId": 91,
+    "name": "Lavender",
+    "hex": "#BD77BE",
+    "group": "Base",
+    "search": "lavender 91"
+  },
+  {
+    "id": "dark-teal",
+    "colorId": 92,
+    "name": "DarkTeal",
+    "hex": "#0E404A",
+    "group": "Base",
+    "search": "dark teal 92"
+  },
+  {
+    "id": "medium-teal",
+    "colorId": 93,
+    "name": "MediumTeal",
+    "hex": "#105563",
+    "group": "Base",
+    "search": "medium teal 93"
+  },
+  {
+    "id": "teal",
+    "colorId": 94,
+    "name": "Teal",
+    "hex": "#14849C",
+    "group": "Base",
+    "search": "teal 94"
+  },
+  {
+    "id": "powder-blue",
+    "colorId": 95,
+    "name": "PowderBlue",
+    "hex": "#82A7FF",
+    "group": "Base",
+    "search": "powder blue 95"
+  },
+  {
+    "id": "glacial",
+    "colorId": 96,
+    "name": "Glacial",
+    "hex": "#ACEAFF",
+    "group": "Base",
+    "search": "glacial 96"
+  },
+  {
+    "id": "cammo",
+    "colorId": 97,
+    "name": "Cammo",
+    "hex": "#505118",
+    "group": "Base",
+    "search": "cammo 97"
+  },
+  {
+    "id": "dry-moss",
+    "colorId": 98,
+    "name": "DryMoss",
+    "hex": "#766E3F",
+    "group": "Base",
+    "search": "dry moss 98"
+  },
+  {
+    "id": "custard",
+    "colorId": 99,
+    "name": "Custard",
+    "hex": "#C0BD5E",
+    "group": "Base",
+    "search": "custard 99"
+  },
+  {
+    "id": "cream",
+    "colorId": 100,
+    "name": "Cream",
+    "hex": "#F4FFC0",
+    "group": "Base",
+    "search": "cream 100"
+  },
+  {
+    "id": "black-coloring-dye",
+    "colorId": 201,
+    "name": "Black Coloring",
+    "hex": "#1F1F1F",
+    "group": "Dye",
+    "search": "black coloring 201"
+  },
+  {
+    "id": "blue-coloring-dye",
+    "colorId": 202,
+    "name": "Blue Coloring",
+    "hex": "#0000FF",
+    "group": "Dye",
+    "search": "blue coloring 202"
+  },
+  {
+    "id": "brown-coloring-dye",
+    "colorId": 203,
+    "name": "Brown Coloring",
+    "hex": "#756147",
+    "group": "Dye",
+    "search": "brown coloring 203"
+  },
+  {
+    "id": "cyan-coloring-dye",
+    "colorId": 204,
+    "name": "Cyan Coloring",
+    "hex": "#00FFFF",
+    "group": "Dye",
+    "search": "cyan coloring 204"
+  },
+  {
+    "id": "forest-coloring-dye",
+    "colorId": 205,
+    "name": "Forest Coloring",
+    "hex": "#006C00",
+    "group": "Dye",
+    "search": "forest coloring 205"
+  },
+  {
+    "id": "green-coloring-dye",
+    "colorId": 206,
+    "name": "Green Coloring",
+    "hex": "#00FF00",
+    "group": "Dye",
+    "search": "green coloring 206"
+  },
+  {
+    "id": "purple-coloring-mutation-only-dye",
+    "colorId": 207,
+    "name": "Purple Coloring (mutation only)",
+    "hex": "#6C00BA",
+    "group": "Dye",
+    "search": "purple coloring (mutation only) 207"
+  },
+  {
+    "id": "orange-coloring-dye",
+    "colorId": 208,
+    "name": "Orange Coloring",
+    "hex": "#FF8800",
+    "group": "Dye",
+    "search": "orange coloring 208"
+  },
+  {
+    "id": "parchement-coloring-dye",
+    "colorId": 209,
+    "name": "Parchement Coloring",
+    "hex": "#FFFFBA",
+    "group": "Dye",
+    "search": "parchement coloring 209"
+  },
+  {
+    "id": "pink-coloring-dye",
+    "colorId": 210,
+    "name": "Pink Coloring",
+    "hex": "#FF7BE1",
+    "group": "Dye",
+    "search": "pink coloring 210"
+  },
+  {
+    "id": "purple-coloring-dye",
+    "colorId": 211,
+    "name": "Purple Coloring",
+    "hex": "#7B00E0",
+    "group": "Dye",
+    "search": "purple coloring 211"
+  },
+  {
+    "id": "red-coloring-dye",
+    "colorId": 212,
+    "name": "Red Coloring",
+    "hex": "#FF0000",
+    "group": "Dye",
+    "search": "red coloring 212"
+  },
+  {
+    "id": "royalty-coloring-dye",
+    "colorId": 213,
+    "name": "Royalty Coloring",
+    "hex": "#7B00A8",
+    "group": "Dye",
+    "search": "royalty coloring 213"
+  },
+  {
+    "id": "silver-coloring-dye",
+    "colorId": 214,
+    "name": "Silver Coloring",
+    "hex": "#E0E0E0",
+    "group": "Dye",
+    "search": "silver coloring 214"
+  },
+  {
+    "id": "sky-coloring-dye",
+    "colorId": 215,
+    "name": "Sky Coloring",
+    "hex": "#BAD4FF",
+    "group": "Dye",
+    "search": "sky coloring 215"
+  },
+  {
+    "id": "tan-coloring-dye",
+    "colorId": 216,
+    "name": "Tan Coloring",
+    "hex": "#FFEDB2",
+    "group": "Dye",
+    "search": "tan coloring 216"
+  },
+  {
+    "id": "tangerine-coloring-dye",
+    "colorId": 217,
+    "name": "Tangerine Coloring",
+    "hex": "#AD652C",
+    "group": "Dye",
+    "search": "tangerine coloring 217"
+  },
+  {
+    "id": "white-coloring-dye",
+    "colorId": 218,
+    "name": "White Coloring",
+    "hex": "#FEFEFE",
+    "group": "Dye",
+    "search": "white coloring 218"
+  },
+  {
+    "id": "yellow-coloring-dye",
+    "colorId": 219,
+    "name": "Yellow Coloring",
+    "hex": "#FFFF00",
+    "group": "Dye",
+    "search": "yellow coloring 219"
+  },
+  {
+    "id": "magenta-coloring-dye",
+    "colorId": 220,
+    "name": "Magenta Coloring",
+    "hex": "#E71FD9",
+    "group": "Dye",
+    "search": "magenta coloring 220"
+  },
+  {
+    "id": "brick-coloring-dye",
+    "colorId": 221,
+    "name": "Brick Coloring",
+    "hex": "#94341F",
+    "group": "Dye",
+    "search": "brick coloring 221"
+  },
+  {
+    "id": "cantaloupe-coloring-dye",
+    "colorId": 222,
+    "name": "Cantaloupe Coloring",
+    "hex": "#FF9A00",
+    "group": "Dye",
+    "search": "cantaloupe coloring 222"
+  },
+  {
+    "id": "mud-coloring-dye",
+    "colorId": 223,
+    "name": "Mud Coloring",
+    "hex": "#473B2B",
+    "group": "Dye",
+    "search": "mud coloring 223"
+  },
+  {
+    "id": "navy-coloring-dye",
+    "colorId": 224,
+    "name": "Navy Coloring",
+    "hex": "#34346C",
+    "group": "Dye",
+    "search": "navy coloring 224"
+  },
+  {
+    "id": "olive-coloring-dye",
+    "colorId": 225,
+    "name": "Olive Coloring",
+    "hex": "#BABA59",
+    "group": "Dye",
+    "search": "olive coloring 225"
+  },
+  {
+    "id": "slate-coloring-dye",
+    "colorId": 226,
+    "name": "Slate Coloring",
+    "hex": "#595959",
+    "group": "Dye",
+    "search": "slate coloring 226"
+  }
+]

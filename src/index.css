@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-ink bg-grain text-bone font-body antialiased;
+    background-size: 18px 18px;
+  }
+
+  ::selection {
+    @apply bg-rust/40 text-bone;
+  }
+
+  * {
+    scrollbar-color: #332C1F #14120F;
+    scrollbar-width: thin;
+  }
+
+  :focus-visible {
+    outline: 2px solid #D3823F;
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .panel {
+    @apply bg-surface border border-surface-line rounded-lg shadow-panel;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-md px-4 py-2 font-display font-semibold tracking-wide text-sm transition-colors duration-150 disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+
+  .btn-primary {
+    @apply btn bg-rust text-ink hover:bg-rust-light active:bg-rust-dim;
+  }
+
+  .btn-secondary {
+    @apply btn bg-surface-raised text-bone border border-surface-line hover:border-rust/60 hover:text-rust-light;
+  }
+
+  .btn-ghost {
+    @apply btn bg-transparent text-bone-dim hover:text-bone hover:bg-surface-raised;
+  }
+
+  .field-label {
+    @apply block text-xs font-display font-semibold tracking-wide text-bone-dim mb-1.5;
+  }
+
+  .field-input {
+    @apply w-full rounded-md bg-ink border border-surface-line px-3 py-2 text-bone placeholder:text-bone-faint focus:border-rust outline-none transition-colors text-sm;
+  }
+
+  .badge {
+    @apply inline-flex items-center rounded px-1.5 py-0.5 text-[11px] font-display font-semibold tracking-wide;
+  }
+
+  .code-box {
+    @apply font-mono text-sm bg-ink border border-surface-line rounded-md px-4 py-3 text-tek-light break-all;
+  }
+}

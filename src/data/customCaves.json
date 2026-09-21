@@ -1,0 +1,50 @@
+[
+  {
+    "type": "tributeTerminal",
+    "icon": "Radio",
+    "commandMethod": "SpawnActor",
+    "supportsPosition": true,
+    "supportsRotation": false,
+    "verified": true,
+    "variants": [
+      {
+        "id": "base",
+        "labelKey": "base",
+        "blueprintPath": "/Game/PrimalEarth/Structures/TributeTerminal_Base.TributeTerminal_Base"
+      },
+      {
+        "id": "red",
+        "labelKey": "red",
+        "blueprintPath": "/Game/PrimalEarth/Structures/TributeTerminal_Red.TributeTerminal_Red"
+      },
+      {
+        "id": "blue",
+        "labelKey": "blue",
+        "blueprintPath": "/Game/PrimalEarth/Structures/TributeTerminal_Blue.TributeTerminal_Blue"
+      },
+      {
+        "id": "green",
+        "labelKey": "green",
+        "blueprintPath": "/Game/PrimalEarth/Structures/TributeTerminal_Green.TributeTerminal_Green"
+      }
+    ]
+  },
+  {
+    "type": "loadoutMannequin",
+    "icon": "Shirt",
+    "commandMethod": "SpawnActor",
+    "supportsPosition": true,
+    "supportsRotation": false,
+    "verified": true,
+    "itemBlueprintPath": "/Game/Genesis2/Structures/LoadoutMannequin/Structure_LoadoutDummy_Hotbar.Structure_LoadoutDummy_Hotbar"
+  },
+  {
+    "type": "waterWell",
+    "icon": "Droplets",
+    "commandMethod": "GiveItem",
+    "supportsPosition": false,
+    "supportsRotation": false,
+    "verified": true,
+    "itemBlueprintPath": "/Game/ScorchedEarth/Structures/WaterWell/PrimalItemStructure_WaterWell.PrimalItemStructure_WaterWell"
+  }
+]

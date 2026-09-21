@@ -1,0 +1,7023 @@
+[
+  {
+    "id": "aberrant-achatina",
+    "name": "Aberrant Achatina",
+    "className": "Achatina_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Achatina_Character_BP_Aberrant",
+      "Invertebrates",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-anglerfish",
+    "name": "Aberrant Anglerfish",
+    "className": "Angler_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Angler_Character_BP_Aberrant",
+      "Aquatic",
+      "Fish"
+    ]
+  },
+  {
+    "id": "aberrant-ankylosaurus",
+    "name": "Aberrant Ankylosaurus",
+    "className": "Ankylo_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Ankylo_Character_BP_Aberrant",
+      "Dinosaurs",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-araneo",
+    "name": "Aberrant Araneo",
+    "className": "SpiderS_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP_Aberrant.SpiderS_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Invertebrates",
+      "Land",
+      "SpiderS_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-arthropluera",
+    "name": "Aberrant Arthropluera",
+    "className": "Arthro_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Arthro_Character_BP_Aberrant",
+      "Invertebrates",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-baryonyx",
+    "name": "Aberrant Baryonyx",
+    "className": "Baryonyx_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Baryonyx_Character_BP_Aberrant",
+      "Dinosaurs",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-beelzebufo",
+    "name": "Aberrant Beelzebufo",
+    "className": "Toad_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP_Aberrant.Toad_Character_BP_Aberrant'",
+    "group": "Reptiles",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Reptiles",
+      "Toad_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-carbonemys",
+    "name": "Aberrant Carbonemys",
+    "className": "Turtle_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant'",
+    "group": "Reptiles",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Reptiles",
+      "Turtle_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-carnotaurus",
+    "name": "Aberrant Carnotaurus",
+    "className": "Carno_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Carno_Character_BP_Aberrant",
+      "Dinosaurs",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-cnidaria",
+    "name": "Aberrant Cnidaria",
+    "className": "Cnidaria_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP_Aberrant.Cnidaria_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Cnidaria_Character_BP_Aberrant",
+      "Invertebrates"
+    ]
+  },
+  {
+    "id": "aberrant-coelacanth",
+    "name": "Aberrant Coelacanth",
+    "className": "Coel_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_Aberrant.Coel_Character_BP_Aberrant'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Coel_Character_BP_Aberrant",
+      "Fish"
+    ]
+  },
+  {
+    "id": "aberrant-dimetrodon",
+    "name": "Aberrant Dimetrodon",
+    "className": "Dimetro_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant'",
+    "group": "Synapsids",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dimetro_Character_BP_Aberrant",
+      "Land",
+      "Synapsids"
+    ]
+  },
+  {
+    "id": "aberrant-dimorphodon",
+    "name": "Aberrant Dimorphodon",
+    "className": "Dimorph_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP_Aberrant.Dimorph_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Flying",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dimorph_Character_BP_Aberrant",
+      "Dinosaurs",
+      "Flying"
+    ]
+  },
+  {
+    "id": "aberrant-diplocaulus",
+    "name": "Aberrant Diplocaulus",
+    "className": "Diplocaulus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP_Aberrant.Diplocaulus_Character_BP_Aberrant'",
+    "group": "Amphibians",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Amphibians",
+      "Aquatic",
+      "Diplocaulus_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-diplodocus",
+    "name": "Aberrant Diplodocus",
+    "className": "Diplodocus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP_Aberrant.Diplodocus_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Diplodocus_Character_BP_Aberrant",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-dire-bear",
+    "name": "Aberrant Dire Bear",
+    "className": "Direbear_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Direbear_Character_BP_Aberrant",
+      "Land",
+      "Mammals"
+    ]
+  },
+  {
+    "id": "aberrant-dodo",
+    "name": "Aberrant Dodo",
+    "className": "Dodo_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Aberrant.Dodo_Character_BP_Aberrant'",
+    "group": "Birds",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Birds",
+      "Dodo_Character_BP_Aberrant",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-doedicurus",
+    "name": "Aberrant Doedicurus",
+    "className": "Doed_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Doed_Character_BP_Aberrant",
+      "Land",
+      "Mammals"
+    ]
+  },
+  {
+    "id": "aberrant-dung-beetle",
+    "name": "Aberrant Dung Beetle",
+    "className": "DungBeetle_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "DungBeetle_Character_BP_Aberrant",
+      "Invertebrates",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-electrophorus",
+    "name": "Aberrant Electrophorus",
+    "className": "Eel_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP_Aberrant.Eel_Character_BP_Aberrant'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Eel_Character_BP_Aberrant",
+      "Fish"
+    ]
+  },
+  {
+    "id": "aberrant-equus",
+    "name": "Aberrant Equus",
+    "className": "Equus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Aberrant.Equus_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Equus_Character_BP_Aberrant",
+      "Land",
+      "Mammals"
+    ]
+  },
+  {
+    "id": "aberrant-gigantopithecus",
+    "name": "Aberrant Gigantopithecus",
+    "className": "Bigfoot_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Bigfoot_Character_BP_Aberrant",
+      "Land",
+      "Mammals"
+    ]
+  },
+  {
+    "id": "aberrant-iguanodon",
+    "name": "Aberrant Iguanodon",
+    "className": "Iguanodon_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Iguanodon_Character_BP_Aberrant",
+      "Land"
+    ]
+  },
+  {
+    "id": "aberrant-lystrosaurus",
+    "name": "Aberrant Lystrosaurus",
+    "className": "Lystro_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP_Aberrant.Lystro_Character_BP_Aberrant'",
+    "group": "Synapsids",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Lystro_Character_BP_Aberrant",
+      "Synapsids"
+    ]
+  },
+  {
+    "id": "aberrant-manta",
+    "name": "Aberrant Manta",
+    "className": "Manta_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP_Aberrant.Manta_Character_BP_Aberrant'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Fish",
+      "Manta_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-megalania",
+    "name": "Aberrant Megalania",
+    "className": "Megalania_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant'",
+    "group": "Reptiles",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Megalania_Character_BP_Aberrant",
+      "Reptiles"
+    ]
+  },
+  {
+    "id": "aberrant-megalosaurus",
+    "name": "Aberrant Megalosaurus",
+    "className": "Megalosaurus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Land",
+      "Megalosaurus_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-meganeura",
+    "name": "Aberrant Meganeura",
+    "className": "Dragonfly_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP_Aberrant.Dragonfly_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Flying",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dragonfly_Character_BP_Aberrant",
+      "Flying",
+      "Invertebrates"
+    ]
+  },
+  {
+    "id": "aberrant-moschops",
+    "name": "Aberrant Moschops",
+    "className": "Moschops_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant'",
+    "group": "Synapsids",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Moschops_Character_BP_Aberrant",
+      "Synapsids"
+    ]
+  },
+  {
+    "id": "aberrant-otter",
+    "name": "Aberrant Otter",
+    "className": "Otter_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Mammals",
+      "Otter_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-ovis",
+    "name": "Aberrant Ovis",
+    "className": "Sheep_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Mammals",
+      "Sheep_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-paraceratherium",
+    "name": "Aberrant Paraceratherium",
+    "className": "Paracer_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant'",
+    "group": "Mammals",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Mammals",
+      "Paracer_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-parasaur",
+    "name": "Aberrant Parasaur",
+    "className": "Para_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP_Aberrant.Para_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Land",
+      "Para_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-piranha",
+    "name": "Aberrant Piranha",
+    "className": "Piranha_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP_Aberrant.Piranha_Character_BP_Aberrant'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Fish",
+      "Piranha_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-pulmonoscorpius",
+    "name": "Aberrant Pulmonoscorpius",
+    "className": "Scorpion_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Invertebrates",
+      "Land",
+      "Scorpion_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-purlovia",
+    "name": "Aberrant Purlovia",
+    "className": "Purlovia_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP_Aberrant.Purlovia_Character_BP_Aberrant'",
+    "group": "Synapsids",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Purlovia_Character_BP_Aberrant",
+      "Synapsids"
+    ]
+  },
+  {
+    "id": "aberrant-raptor",
+    "name": "Aberrant Raptor",
+    "className": "Raptor_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Land",
+      "Raptor_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-sabertooth-salmon",
+    "name": "Aberrant Sabertooth Salmon",
+    "className": "Salmon_Character_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Fish",
+      "Salmon_Character_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-sarco",
+    "name": "Aberrant Sarco",
+    "className": "Sarco_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP_Aberrant.Sarco_Character_BP_Aberrant'",
+    "group": "Reptiles",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Land",
+      "Reptiles",
+      "Sarco_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-spino",
+    "name": "Aberrant Spino",
+    "className": "Spino_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Land",
+      "Spino_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-stegosaurus",
+    "name": "Aberrant Stegosaurus",
+    "className": "Stego_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP_Aberrant.Stego_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Land",
+      "Stego_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-titanoboa",
+    "name": "Aberrant Titanoboa",
+    "className": "BoaFrill_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP_Aberrant.BoaFrill_Character_BP_Aberrant'",
+    "group": "Reptiles",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "BoaFrill_Character_BP_Aberrant",
+      "Land",
+      "Reptiles"
+    ]
+  },
+  {
+    "id": "aberrant-triceratops",
+    "name": "Aberrant Triceratops",
+    "className": "Trike_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant'",
+    "group": "Dinosaurs",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Land",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Dinosaurs",
+      "Land",
+      "Trike_Character_BP_Aberrant"
+    ]
+  },
+  {
+    "id": "aberrant-trilobite",
+    "name": "Aberrant Trilobite",
+    "className": "Trilobite_Character_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character_Aberrant.Trilobite_Character_Aberrant'",
+    "group": "Invertebrates",
+    "dlc": "Aberration",
+    "variant": "Aberrant",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberrant",
+      "Aberration",
+      "Aquatic",
+      "Invertebrates",
+      "Trilobite_Character_Aberrant"
+    ]
+  },
+  {
+    "id": "achatina",
+    "name": "Achatina",
+    "className": "Achatina_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Achatina_Character_BP",
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "allosaurus",
+    "name": "Allosaurus",
+    "className": "Allo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Allo_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-basilisk",
+    "name": "Alpha Basilisk",
+    "className": "MegaBasilisk_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "Aberration",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Alpha",
+      "Alpha Creatures",
+      "Land",
+      "MegaBasilisk_Character_BP"
+    ]
+  },
+  {
+    "id": "alpha-blood-crystal-wyvern",
+    "name": "Alpha Blood Crystal Wyvern",
+    "className": "CrystalWyvern_Character_BP_Mega_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Mega.CrystalWyvern_Character_BP_Mega'",
+    "group": "Alpha Creatures",
+    "dlc": "Crystal Isles",
+    "variant": "Alpha",
+    "movement": "Flying",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_Mega",
+      "Flying"
+    ]
+  },
+  {
+    "id": "alpha-carno",
+    "name": "Alpha Carno",
+    "className": "MegaCarno_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Land",
+      "MegaCarno_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-deathworm",
+    "name": "Alpha Deathworm",
+    "className": "MegaDeathworm_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Alpha",
+      "Invertebrates",
+      "Land",
+      "MegaDeathworm_Character_BP",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "alpha-fire-wyvern",
+    "name": "Alpha Fire Wyvern",
+    "className": "MegaWyvern_Character_BP_Fire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire'",
+    "group": "Alpha Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Alpha",
+    "movement": "Flying",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Flying",
+      "MegaWyvern_Character_BP_Fire",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "alpha-karkinos",
+    "name": "Alpha Karkinos",
+    "className": "MegaCrab_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "Aberration",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Alpha",
+      "Alpha Creatures",
+      "Land",
+      "MegaCrab_Character_BP"
+    ]
+  },
+  {
+    "id": "alpha-king-titan",
+    "name": "Alpha King Titan",
+    "className": "KingKaiju_Character_BP_Alpha_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Alpha.KingKaiju_Character_BP_Alpha'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Extinction",
+      "KingKaiju_Character_BP_Alpha",
+      "Land"
+    ]
+  },
+  {
+    "id": "alpha-leedsichthys",
+    "name": "Alpha Leedsichthys",
+    "className": "Alpha_Leedsichthys_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leedsichthys/Alpha_Leedsichthys_Character_BP.Alpha_Leedsichthys_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Aquatic",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Alpha_Leedsichthys_Character_BP",
+      "Aquatic",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-megalodon",
+    "name": "Alpha Megalodon",
+    "className": "MegaMegalodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Aquatic",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Aquatic",
+      "MegaMegalodon_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-mosasaur",
+    "name": "Alpha Mosasaur",
+    "className": "Mosa_Character_BP_Mega_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Aquatic",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Aquatic",
+      "Mosa_Character_BP_Mega",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-raptor",
+    "name": "Alpha Raptor",
+    "className": "MegaRaptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Land",
+      "MegaRaptor_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-surface-reaper-king",
+    "name": "Alpha Surface Reaper King",
+    "className": "MegaXenomorph_Character_BP_Male_Surface_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface'",
+    "group": "Alpha Creatures",
+    "dlc": "Aberration",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Alpha",
+      "Alpha Creatures",
+      "Land",
+      "MegaXenomorph_Character_BP_Male_Surface"
+    ]
+  },
+  {
+    "id": "alpha-t-rex",
+    "name": "Alpha T-Rex",
+    "className": "MegaRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Land",
+      "MegaRex_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-tusoteuthis",
+    "name": "Alpha Tusoteuthis",
+    "className": "Mega_Tusoteuthis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP'",
+    "group": "Alpha Creatures",
+    "dlc": "The Island",
+    "variant": "Alpha",
+    "movement": "Aquatic",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Aquatic",
+      "Mega_Tusoteuthis_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "alpha-x-triceratops",
+    "name": "Alpha X-Triceratops",
+    "className": "Volcano_Trike_Character_BP_Retrieve_Alpha_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Retrieve/Volcanic/Volcano_Trike_Character_BP_Retrieve_Alpha.Volcano_Trike_Character_BP_Retrieve_Alpha'",
+    "group": "Alpha Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Alpha",
+    "movement": "Land",
+    "tags": [
+      "Alpha",
+      "Alpha Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Trike_Character_BP_Retrieve_Alpha"
+    ]
+  },
+  {
+    "id": "amargasaurus",
+    "name": "Amargasaurus",
+    "className": "Amargasaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/LostIsland/Dinos/Amargasaurus/Amargasaurus_Character_BP.Amargasaurus_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "Lost Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Amargasaurus_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Lost Island",
+      "Normal"
+    ]
+  },
+  {
+    "id": "ammonite",
+    "name": "Ammonite",
+    "className": "Ammonite_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ammonite/Ammonite_Character.Ammonite_Character'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Ammonite_Character",
+      "Aquatic",
+      "Invertebrates",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "andrewsarchus",
+    "name": "Andrewsarchus",
+    "className": "Andrewsarchus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Fjordur/Dinos/Andrewsarchus/Andrewsarchus_Character_BP.Andrewsarchus_Character_BP'",
+    "group": "Mammals",
+    "dlc": "Fjordur",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Andrewsarchus_Character_BP",
+      "Fjordur",
+      "Land",
+      "Mammals",
+      "Normal"
+    ]
+  },
+  {
+    "id": "anglerfish",
+    "name": "Anglerfish",
+    "className": "Angler_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Angler_Character_BP",
+      "Aquatic",
+      "Fish",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "ankylosaurus",
+    "name": "Ankylosaurus",
+    "className": "Ankylo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Ankylo_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "araneo",
+    "name": "Araneo",
+    "className": "SpiderS_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "SpiderS_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "archaeopteryx",
+    "name": "Archaeopteryx",
+    "className": "Archa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Archa_Character_BP",
+      "Birds",
+      "Flying",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "argentavis",
+    "name": "Argentavis",
+    "className": "Argent_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Argent_Character_BP",
+      "Birds",
+      "Flying",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "arthropluera",
+    "name": "Arthropluera",
+    "className": "Arthro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Arthro_Character_BP",
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "astrocetus",
+    "name": "Astrocetus",
+    "className": "SpaceWhale_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/SpaceWhale/SpaceWhale_Character_BP.SpaceWhale_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Genesis: Part 1",
+      "Normal",
+      "SpaceWhale_Character_BP"
+    ]
+  },
+  {
+    "id": "astrodelphis",
+    "name": "Astrodelphis",
+    "className": "SpaceDolphin_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/SpaceDolphin/SpaceDolphin_Character_BP.SpaceDolphin_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Genesis: Part 2",
+      "Normal",
+      "SpaceDolphin_Character_BP"
+    ]
+  },
+  {
+    "id": "baryonyx",
+    "name": "Baryonyx",
+    "className": "Baryonyx_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Baryonyx_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "basilisk",
+    "name": "Basilisk",
+    "className": "Basilisk_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Basilisk_Character_BP",
+      "Fantasy Creatures",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "basilisk-ghost",
+    "name": "Basilisk Ghost",
+    "className": "Ghost_Basilisk_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Basilisk/Ghost_Basilisk_Character_BP.Ghost_Basilisk_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Aberration",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Event",
+      "Event Creatures",
+      "Ghost_Basilisk_Character_BP",
+      "Land"
+    ]
+  },
+  {
+    "id": "basilosaurus",
+    "name": "Basilosaurus",
+    "className": "Basilosaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Basilosaurus_Character_BP",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "beelzebufo",
+    "name": "Beelzebufo",
+    "className": "Toad_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Normal",
+      "Reptiles",
+      "The Island",
+      "Toad_Character_BP"
+    ]
+  },
+  {
+    "id": "beta-king-titan",
+    "name": "Beta King Titan",
+    "className": "KingKaiju_Character_BP_Beta_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Beta.KingKaiju_Character_BP_Beta'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Extinction",
+      "KingKaiju_Character_BP_Beta",
+      "Land"
+    ]
+  },
+  {
+    "id": "blood-crystal-wyvern",
+    "name": "Blood Crystal Wyvern",
+    "className": "CrystalWyvern_Character_BP_Blood_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Blood.CrystalWyvern_Character_BP_Blood'",
+    "group": "Fantasy Creatures",
+    "dlc": "Crystal Isles",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_Blood",
+      "Fantasy Creatures",
+      "Flying",
+      "Normal"
+    ]
+  },
+  {
+    "id": "bloodstalker",
+    "name": "Bloodstalker",
+    "className": "BogSpider_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "BogSpider_Character_BP",
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "bone-fire-wyvern",
+    "name": "Bone Fire Wyvern",
+    "className": "Bone_MegaWyvern_Character_BP_Fire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Bone_MegaWyvern_Character_BP_Fire.Bone_MegaWyvern_Character_BP_Fire'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "Bone_MegaWyvern_Character_BP_Fire",
+      "Event",
+      "Event Creatures",
+      "Flying",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "brontosaurus",
+    "name": "Brontosaurus",
+    "className": "Sauropod_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Sauropod_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "broodmother-lysrix",
+    "name": "Broodmother Lysrix",
+    "className": "SpiderL_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP.SpiderL_Character_BP'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Land",
+      "SpiderL_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "broodmother-lysrix-alpha",
+    "name": "Broodmother Lysrix (Alpha)",
+    "className": "SpiderL_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Hard.SpiderL_Character_BP_Hard'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Land",
+      "SpiderL_Character_BP_Hard",
+      "The Island"
+    ]
+  },
+  {
+    "id": "broodmother-lysrix-beta",
+    "name": "Broodmother Lysrix (Beta)",
+    "className": "SpiderL_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Medium.SpiderL_Character_BP_Medium'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Land",
+      "SpiderL_Character_BP_Medium",
+      "The Island"
+    ]
+  },
+  {
+    "id": "broodmother-lysrix-gamma",
+    "name": "Broodmother Lysrix (Gamma)",
+    "className": "SpiderL_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Easy.SpiderL_Character_BP_Easy'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Land",
+      "SpiderL_Character_BP_Easy",
+      "The Island"
+    ]
+  },
+  {
+    "id": "brute-araneo",
+    "name": "Brute Araneo",
+    "className": "SpiderS_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Bog/SpiderS_Character_BP_Hunt.SpiderS_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "SpiderS_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-astrocetus",
+    "name": "Brute Astrocetus",
+    "className": "SpaceWhale_Character_BP_Brute_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Lunar/SpaceWhale_Character_BP_Brute.SpaceWhale_Character_BP_Brute'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Flying",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Flying",
+      "Genesis: Part 1",
+      "SpaceWhale_Character_BP_Brute"
+    ]
+  },
+  {
+    "id": "brute-basilosaurus",
+    "name": "Brute Basilosaurus",
+    "className": "Basilosaurus_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Ocean/Basilosaurus_Character_BP_Hunt.Basilosaurus_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Basilosaurus_Character_BP_Hunt",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1"
+    ]
+  },
+  {
+    "id": "brute-bloodstalker",
+    "name": "Brute Bloodstalker",
+    "className": "BogSpider_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Bog/BogSpider_Character_BP_Hunt.BogSpider_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "BogSpider_Character_BP_Hunt",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land"
+    ]
+  },
+  {
+    "id": "brute-ferox",
+    "name": "Brute Ferox",
+    "className": "Shapeshifter_Large_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Arctic/Shapeshifter_Large_Character_BP_Hunt.Shapeshifter_Large_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Shapeshifter_Large_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-fire-wyvern",
+    "name": "Brute Fire Wyvern",
+    "className": "Wyvern_Character_BP_Fire_GauntletBoss_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Gauntlet/Volcanic/Wyvern_Character_BP_Fire_GauntletBoss.Wyvern_Character_BP_Fire_GauntletBoss'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Flying",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Flying",
+      "Genesis: Part 1",
+      "Wyvern_Character_BP_Fire_GauntletBoss"
+    ]
+  },
+  {
+    "id": "brute-leedsichthys",
+    "name": "Brute Leedsichthys",
+    "className": "Leedsichthys_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Ocean/Leedsichthys_Character_BP_Hunt.Leedsichthys_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Leedsichthys_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-magmasaur",
+    "name": "Brute Magmasaur",
+    "className": "Cherufe_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Volcanic/Cherufe_Character_BP_Hunt.Cherufe_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Cherufe_Character_BP_Hunt",
+      "Genesis: Part 1",
+      "Land"
+    ]
+  },
+  {
+    "id": "brute-mammoth",
+    "name": "Brute Mammoth",
+    "className": "Mammoth_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Arctic/Mammoth_Character_BP_Hunt.Mammoth_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Mammoth_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-megaloceros",
+    "name": "Brute Megaloceros",
+    "className": "Stag_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Arctic/Stag_Character_BP_Hunt.Stag_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Stag_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-plesiosaur",
+    "name": "Brute Plesiosaur",
+    "className": "Plesiosaur_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Ocean/Plesiosaur_Character_BP_Hunt.Plesiosaur_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Plesiosaur_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-sarco",
+    "name": "Brute Sarco",
+    "className": "Sarco_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Bog/Sarco_Character_BP_Hunt.Sarco_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Sarco_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-tusoteuthis",
+    "name": "Brute Tusoteuthis",
+    "className": "Tusoteuthis_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Ocean/Tusoteuthis_Character_BP_Hunt.Tusoteuthis_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Tusoteuthis_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-x-allosaurus",
+    "name": "Brute X-Allosaurus",
+    "className": "Volcano_Allo_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Volcanic/Volcano_Allo_Character_BP_Hunt.Volcano_Allo_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Allo_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-x-megalodon",
+    "name": "Brute X-Megalodon",
+    "className": "Ocean_Megalodon_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Ocean/Ocean_Megalodon_Character_BP_Hunt.Ocean_Megalodon_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Ocean_Megalodon_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-x-mosasaurus",
+    "name": "Brute X-Mosasaurus",
+    "className": "Ocean_Mosa_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Ocean/Ocean_Mosa_Character_BP_Hunt.Ocean_Mosa_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Ocean_Mosa_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-x-raptor",
+    "name": "Brute X-Raptor",
+    "className": "Bog_Raptor_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Bog/Bog_Raptor_Character_BP_Hunt.Bog_Raptor_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Bog_Raptor_Character_BP_Hunt",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land"
+    ]
+  },
+  {
+    "id": "brute-x-rex",
+    "name": "Brute X-Rex",
+    "className": "Volcano_Rex_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Volcanic/Volcano_Rex_Character_BP_Hunt.Volcano_Rex_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Rex_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-x-rock-elemental",
+    "name": "Brute X-Rock Elemental",
+    "className": "Volcano_Golem_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Volcanic/Volcano_Golem_Character_BP_Hunt.Volcano_Golem_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Golem_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "brute-x-spino",
+    "name": "Brute X-Spino",
+    "className": "Bog_Spino_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Bog/Bog_Spino_Character_BP_Hunt.Bog_Spino_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Bog_Spino_Character_BP_Hunt",
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land"
+    ]
+  },
+  {
+    "id": "brute-x-yutyrannus",
+    "name": "Brute X-Yutyrannus",
+    "className": "Snow_Yutyrannus_Character_BP_Hunt_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Hunt/Arctic/Snow_Yutyrannus_Character_BP_Hunt.Snow_Yutyrannus_Character_BP_Hunt'",
+    "group": "Brute Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Brute",
+    "movement": "Land",
+    "tags": [
+      "Brute",
+      "Brute Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Snow_Yutyrannus_Character_BP_Hunt"
+    ]
+  },
+  {
+    "id": "bulbdog",
+    "name": "Bulbdog",
+    "className": "LanternPug_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "LanternPug_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "bulbdog-ghost",
+    "name": "Bulbdog Ghost",
+    "className": "Ghost_LanternPug_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternPug/Ghost_LanternPug_Character_BP.Ghost_LanternPug_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Aberration",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Event",
+      "Event Creatures",
+      "Ghost_LanternPug_Character_BP",
+      "Land"
+    ]
+  },
+  {
+    "id": "bunny-dodo",
+    "name": "Bunny Dodo",
+    "className": "Dodo_Character_BP_Bunny_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Dodo_Character_BP_Bunny",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "bunny-oviraptor",
+    "name": "Bunny Oviraptor",
+    "className": "BunnyOviraptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "BunnyOviraptor_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "carbonemys",
+    "name": "Carbonemys",
+    "className": "Turtle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Normal",
+      "Reptiles",
+      "The Island",
+      "Turtle_Character_BP"
+    ]
+  },
+  {
+    "id": "carnotaurus",
+    "name": "Carnotaurus",
+    "className": "Carno_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Carno_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "castoroides",
+    "name": "Castoroides",
+    "className": "Beaver_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Beaver_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "chalicotherium",
+    "name": "Chalicotherium",
+    "className": "Chalico_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Chalico_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "chalk-golem",
+    "name": "Chalk Golem",
+    "className": "ChalkGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Mods/Valguero/Assets/Dinos/RockGolem/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Valguero",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "ChalkGolem_Character_BP",
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "Valguero"
+    ]
+  },
+  {
+    "id": "cnidaria",
+    "name": "Cnidaria",
+    "className": "Cnidaria_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Cnidaria_Character_BP",
+      "Invertebrates",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "coelacanth",
+    "name": "Coelacanth",
+    "className": "Coel_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Coel_Character_BP",
+      "Fish",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "compy",
+    "name": "Compy",
+    "className": "Compy_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Compy_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "corrupted-arthropluera",
+    "name": "Corrupted Arthropluera",
+    "className": "Arthro_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Arthropluera/Arthro_Character_BP_Corrupt.Arthro_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Arthro_Character_BP_Corrupt",
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land"
+    ]
+  },
+  {
+    "id": "corrupted-avatar",
+    "name": "Corrupted Avatar",
+    "className": "Bot_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/Bots/Bot_Character_BP.Bot_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Bot_Character_BP",
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "corrupted-carnotaurus",
+    "name": "Corrupted Carnotaurus",
+    "className": "Carno_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Carno/Carno_Character_BP_Corrupt.Carno_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Carno_Character_BP_Corrupt",
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land"
+    ]
+  },
+  {
+    "id": "corrupted-chalicotherium",
+    "name": "Corrupted Chalicotherium",
+    "className": "Chalico_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt.Chalico_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Chalico_Character_BP_Corrupt",
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land"
+    ]
+  },
+  {
+    "id": "corrupted-dilophosaur",
+    "name": "Corrupted Dilophosaur",
+    "className": "Dilo_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Dilo/Dilo_Character_BP_Corrupt.Dilo_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Dilo_Character_BP_Corrupt",
+      "Extinction",
+      "Land"
+    ]
+  },
+  {
+    "id": "corrupted-dimorphodon",
+    "name": "Corrupted Dimorphodon",
+    "className": "Dimorph_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt.Dimorph_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Flying",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Dimorph_Character_BP_Corrupt",
+      "Extinction",
+      "Flying"
+    ]
+  },
+  {
+    "id": "corrupted-giganotosaurus",
+    "name": "Corrupted Giganotosaurus",
+    "className": "Gigant_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt.Gigant_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Gigant_Character_BP_Corrupt",
+      "Land"
+    ]
+  },
+  {
+    "id": "corrupted-master-controller-alpha",
+    "name": "Corrupted Master Controller (Alpha)",
+    "className": "VRMainBoss_Character_Hard_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/VRMainBoss/VRMainBoss_Character_Hard.VRMainBoss_Character_Hard'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 1",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Genesis: Part 1",
+      "Land",
+      "VRMainBoss_Character_Hard"
+    ]
+  },
+  {
+    "id": "corrupted-master-controller-beta",
+    "name": "Corrupted Master Controller (Beta)",
+    "className": "VRMainBoss_Character_Medium_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/VRMainBoss/VRMainBoss_Character_Medium.VRMainBoss_Character_Medium'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 1",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Genesis: Part 1",
+      "Land",
+      "VRMainBoss_Character_Medium"
+    ]
+  },
+  {
+    "id": "corrupted-master-controller-gamma",
+    "name": "Corrupted Master Controller (Gamma)",
+    "className": "VRMainBoss_Character_Easy_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/VRMainBoss/VRMainBoss_Character_Easy.VRMainBoss_Character_Easy'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 1",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Genesis: Part 1",
+      "Land",
+      "VRMainBoss_Character_Easy"
+    ]
+  },
+  {
+    "id": "corrupted-paraceratherium",
+    "name": "Corrupted Paraceratherium",
+    "className": "Paracer_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt.Paracer_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Paracer_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-pteranodon",
+    "name": "Corrupted Pteranodon",
+    "className": "Ptero_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Ptero/Ptero_Character_BP_Corrupt.Ptero_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Flying",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Flying",
+      "Ptero_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-raptor",
+    "name": "Corrupted Raptor",
+    "className": "Raptor_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Raptor/Raptor_Character_BP_Corrupt.Raptor_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Raptor_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-reaper-king",
+    "name": "Corrupted Reaper King",
+    "className": "Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Nameless/Xenomorph_Character_BP_Male_Tamed_Corrupt.Xenomorph_Character_BP_Male_Tamed_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Xenomorph_Character_BP_Male_Tamed_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-rex",
+    "name": "Corrupted Rex",
+    "className": "Rex_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Rex/Rex_Character_BP_Corrupt.Rex_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Rex_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-rock-drake",
+    "name": "Corrupted Rock Drake",
+    "className": "RockDrake_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/RockDrake/RockDrake_Character_BP_Corrupt.RockDrake_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Flying",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Flying",
+      "RockDrake_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-spino",
+    "name": "Corrupted Spino",
+    "className": "Spino_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Spino/Spino_Character_BP_Corrupt.Spino_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Spino_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-stegosaurus",
+    "name": "Corrupted Stegosaurus",
+    "className": "Stego_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Stego/Stego_Character_BP_Corrupt.Stego_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Stego_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-triceratops",
+    "name": "Corrupted Triceratops",
+    "className": "Trike_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Trike/Trike_Character_BP_Corrupt.Trike_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "Trike_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "corrupted-wyvern",
+    "name": "Corrupted Wyvern",
+    "className": "Wyvern_Character_BP_Fire_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Wyvern/Wyvern_Character_BP_Fire_Corrupt.Wyvern_Character_BP_Fire_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Flying",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Flying",
+      "Wyvern_Character_BP_Fire_Corrupt"
+    ]
+  },
+  {
+    "id": "crystal-wyvern-queen-alpha",
+    "name": "Crystal Wyvern Queen (Alpha)",
+    "className": "CrystalWyvern_Character_BP_Boss_Hard_C",
+    "blueprintPath": "Blueprint'/Game/Mods/CrystalIsles/Assets/Dinos/CIBoss/CrystalWyvern_Character_BP_Boss_Hard.CrystalWyvern_Character_BP_Boss_Hard'",
+    "group": "Bosses",
+    "dlc": "Crystal Isles",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_Boss_Hard",
+      "Flying"
+    ]
+  },
+  {
+    "id": "crystal-wyvern-queen-beta",
+    "name": "Crystal Wyvern Queen (Beta)",
+    "className": "CrystalWyvern_Character_BP_Boss_Medium_C",
+    "blueprintPath": "Blueprint'/Game/Mods/CrystalIsles/Assets/Dinos/CIBoss/CrystalWyvern_Character_BP_Boss_Medium.CrystalWyvern_Character_BP_Boss_Medium'",
+    "group": "Bosses",
+    "dlc": "Crystal Isles",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_Boss_Medium",
+      "Flying"
+    ]
+  },
+  {
+    "id": "crystal-wyvern-queen-gamma",
+    "name": "Crystal Wyvern Queen (Gamma)",
+    "className": "CrystalWyvern_Character_BP_Boss_Easy_C",
+    "blueprintPath": "Blueprint'/Game/Mods/CrystalIsles/Assets/Dinos/CIBoss/CrystalWyvern_Character_BP_Boss_Easy.CrystalWyvern_Character_BP_Boss_Easy'",
+    "group": "Bosses",
+    "dlc": "Crystal Isles",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_Boss_Easy",
+      "Flying"
+    ]
+  },
+  {
+    "id": "daeodon",
+    "name": "Daeodon",
+    "className": "Daeodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Daeodon_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "deathworm",
+    "name": "Deathworm",
+    "className": "Deathworm_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/DeathWorm/DeathWorm_Character_BP.DeathWorm_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "DeathWorm_Character_BP",
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "defense-unit",
+    "name": "Defense Unit",
+    "className": "Defender_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Tank/Defender_Character_BP.Defender_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Defender_Character_BP",
+      "Extinction",
+      "Land",
+      "Mechanical Creatures",
+      "Normal"
+    ]
+  },
+  {
+    "id": "deinonychus",
+    "name": "Deinonychus",
+    "className": "Deinonychus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "Valguero",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Deinonychus_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Valguero"
+    ]
+  },
+  {
+    "id": "desert-titan",
+    "name": "Desert Titan",
+    "className": "DesertKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "DesertKaiju_Character_BP",
+      "Extinction",
+      "Flying"
+    ]
+  },
+  {
+    "id": "desert-titan-flock",
+    "name": "Desert Titan Flock",
+    "className": "DesertKaiju_FirstFlockChar_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_FirstFlockChar_BP.DesertKaiju_FirstFlockChar_BP'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "DesertKaiju_FirstFlockChar_BP",
+      "Extinction",
+      "Flying"
+    ]
+  },
+  {
+    "id": "desmodus",
+    "name": "Desmodus",
+    "className": "Desmodus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP'",
+    "group": "Mammals",
+    "dlc": "Fjordur",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Desmodus_Character_BP",
+      "Fjordur",
+      "Flying",
+      "Mammals",
+      "Normal"
+    ]
+  },
+  {
+    "id": "dilophosaur",
+    "name": "Dilophosaur",
+    "className": "Dilo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dilo_Character_BP",
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dimetrodon",
+    "name": "Dimetrodon",
+    "className": "Dimetro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP.Dimetro_Character_BP'",
+    "group": "Synapsids",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dimetro_Character_BP",
+      "Land",
+      "Normal",
+      "Synapsids",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dimorphodon",
+    "name": "Dimorphodon",
+    "className": "Dimorph_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Dimorph_Character_BP",
+      "Dinosaurs",
+      "Flying",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dinopithecus",
+    "name": "Dinopithecus",
+    "className": "Dinopithecus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/LostIsland/Dinos/Dinopithecus/Dinopithecus_Character_BP.Dinopithecus_Character_BP'",
+    "group": "Mammals",
+    "dlc": "Lost Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinopithecus_Character_BP",
+      "Land",
+      "Lost Island",
+      "Mammals",
+      "Normal"
+    ]
+  },
+  {
+    "id": "dinopithecus-king-alpha",
+    "name": "Dinopithecus King (Alpha)",
+    "className": "BossDinopithecus_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/LostIsland/Boss/BossDinopithecus_Character_BP_Hard.BossDinopithecus_Character_BP_Hard'",
+    "group": "Bosses",
+    "dlc": "Lost Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "BossDinopithecus_Character_BP_Hard",
+      "Bosses",
+      "Land",
+      "Lost Island"
+    ]
+  },
+  {
+    "id": "dinopithecus-king-beta",
+    "name": "Dinopithecus King (Beta)",
+    "className": "BossDinopithecus_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/LostIsland/Boss/BossDinopithecus_Character_BP_Medium.BossDinopithecus_Character_BP_Medium'",
+    "group": "Bosses",
+    "dlc": "Lost Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "BossDinopithecus_Character_BP_Medium",
+      "Bosses",
+      "Land",
+      "Lost Island"
+    ]
+  },
+  {
+    "id": "dinopithecus-king-gamma",
+    "name": "Dinopithecus King (Gamma)",
+    "className": "BossDinopithecus_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/LostIsland/Boss/BossDinopithecus_Character_BP_Easy.BossDinopithecus_Character_BP_Easy'",
+    "group": "Bosses",
+    "dlc": "Lost Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "BossDinopithecus_Character_BP_Easy",
+      "Bosses",
+      "Land",
+      "Lost Island"
+    ]
+  },
+  {
+    "id": "diplocaulus",
+    "name": "Diplocaulus",
+    "className": "Diplocaulus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP'",
+    "group": "Amphibians",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Amphibians",
+      "Aquatic",
+      "Diplocaulus_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "diplodocus",
+    "name": "Diplodocus",
+    "className": "Diplodocus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Diplodocus_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dire-bear",
+    "name": "Dire Bear",
+    "className": "Direbear_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Direbear_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "direwolf",
+    "name": "Direwolf",
+    "className": "Direwolf_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Direwolf_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "direwolf-ghost",
+    "name": "Direwolf Ghost",
+    "className": "Ghost_Direwolf_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direwolf/Ghost_Direwolf_Character_BP.Ghost_Direwolf_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Ghost_Direwolf_Character_BP",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "diseased-leech",
+    "name": "Diseased Leech",
+    "className": "Leech_Character_Diseased_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leech/Leech_Character_Diseased.Leech_Character_Diseased'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Land",
+      "Leech_Character_Diseased",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dodo",
+    "name": "Dodo",
+    "className": "Dodo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Birds",
+      "Dodo_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dodo-wyvern",
+    "name": "Dodo Wyvern",
+    "className": "DodoWyvern_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "DodoWyvern_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Flying",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "dodorex",
+    "name": "DodoRex",
+    "className": "DodoRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "DodoRex_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "doedicurus",
+    "name": "Doedicurus",
+    "className": "Doed_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Doed_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dragon-alpha",
+    "name": "Dragon (Alpha)",
+    "className": "Dragon_Character_BP_Boss_Hard_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP_Boss_Hard.Dragon_Character_BP_Boss_Hard'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Dragon_Character_BP_Boss_Hard",
+      "Flying",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dragon-beta",
+    "name": "Dragon (Beta)",
+    "className": "Dragon_Character_BP_Boss_Medium_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP_Boss_Medium.Dragon_Character_BP_Boss_Medium'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Dragon_Character_BP_Boss_Medium",
+      "Flying",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dragon-gamma",
+    "name": "Dragon (Gamma)",
+    "className": "Dragon_Character_BP_Boss_Easy_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP_Boss_Easy.Dragon_Character_BP_Boss_Easy'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Dragon_Character_BP_Boss_Easy",
+      "Flying",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dung-beetle",
+    "name": "Dung Beetle",
+    "className": "DungBeetle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "DungBeetle_Character_BP",
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "dunkleosteus",
+    "name": "Dunkleosteus",
+    "className": "Dunkle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Dunkle_Character_BP",
+      "Fish",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "eel-minion",
+    "name": "Eel Minion",
+    "className": "EelMinion_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/EelBoss/EelMinion_Character_BP_Easy.EelMinion_Character_BP_Easy'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "EelMinion_Character_BP_Easy",
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "Normal"
+    ]
+  },
+  {
+    "id": "electrophorus",
+    "name": "Electrophorus",
+    "className": "Eel_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Eel_Character_BP",
+      "Fish",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "ember-crystal-wyvern",
+    "name": "Ember Crystal Wyvern",
+    "className": "CrystalWyvern_Character_BP_Ember_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Ember.CrystalWyvern_Character_BP_Ember'",
+    "group": "Fantasy Creatures",
+    "dlc": "Crystal Isles",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_Ember",
+      "Fantasy Creatures",
+      "Flying",
+      "Normal"
+    ]
+  },
+  {
+    "id": "enforcer",
+    "name": "Enforcer",
+    "className": "Enforcer_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Enforcer_Character_BP",
+      "Extinction",
+      "Land",
+      "Mechanical Creatures",
+      "Normal"
+    ]
+  },
+  {
+    "id": "enraged-corrupted-rex",
+    "name": "Enraged Corrupted Rex",
+    "className": "MegaRex_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Rex/MegaRex_Character_BP_Corrupt.MegaRex_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "MegaRex_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "enraged-triceratops",
+    "name": "Enraged Triceratops",
+    "className": "MegaTrike_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt'",
+    "group": "Corrupted Creatures",
+    "dlc": "Extinction",
+    "variant": "Corrupted",
+    "movement": "Land",
+    "tags": [
+      "Corrupted",
+      "Corrupted Creatures",
+      "Extinction",
+      "Land",
+      "MegaTrike_Character_BP_Corrupt"
+    ]
+  },
+  {
+    "id": "equus",
+    "name": "Equus",
+    "className": "Equus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Equus_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "eurypterid",
+    "name": "Eurypterid",
+    "className": "Euryp_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Euryp_Character",
+      "Invertebrates",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "exo-mek",
+    "name": "Exo-Mek",
+    "className": "Exosuit_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/Exosuit/Exosuit_Character_BP.Exosuit_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Exosuit_Character_BP",
+      "Genesis: Part 2",
+      "Land",
+      "Mechanical Creatures",
+      "Normal"
+    ]
+  },
+  {
+    "id": "featherlight",
+    "name": "Featherlight",
+    "className": "LanternBird_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Flying",
+      "LanternBird_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "fenrir",
+    "name": "Fenrir",
+    "className": "Fenrir_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Fjordur/Dinos/Fenrir/Fenrir_Character_BP.Fenrir_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Fjordur",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Fenrir_Character_BP",
+      "Fjordur",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "ferox",
+    "name": "Ferox",
+    "className": "Shapeshifter_Small_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Normal",
+      "Shapeshifter_Small_Character_BP"
+    ]
+  },
+  {
+    "id": "ferox-large",
+    "name": "Ferox (Large)",
+    "className": "Shapeshifter_Large_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Large/Shapeshifter_Large_Character_BP.Shapeshifter_Large_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Normal",
+      "Shapeshifter_Large_Character_BP"
+    ]
+  },
+  {
+    "id": "fire-wyvern",
+    "name": "Fire Wyvern",
+    "className": "Wyvern_Character_BP_Fire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Scorched Earth",
+      "Wyvern_Character_BP_Fire"
+    ]
+  },
+  {
+    "id": "fjordhawk",
+    "name": "Fjordhawk",
+    "className": "Fjordhawk_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Fjordur/Dinos/Fjordhawk/Fjordhawk_Character_BP.Fjordhawk_Character_BP'",
+    "group": "Birds",
+    "dlc": "Fjordur",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Birds",
+      "Fjordhawk_Character_BP",
+      "Fjordur",
+      "Flying",
+      "Normal"
+    ]
+  },
+  {
+    "id": "forest-titan",
+    "name": "Forest Titan",
+    "className": "ForestKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Extinction",
+      "ForestKaiju_Character_BP",
+      "Land"
+    ]
+  },
+  {
+    "id": "forest-wyvern",
+    "name": "Forest Wyvern",
+    "className": "Wyvern_Character_BP_Fire_Minion_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/ForestKaiju/Minion/Wyvern_Character_BP_Fire_Minion.Wyvern_Character_BP_Fire_Minion'",
+    "group": "Fantasy Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Extinction",
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Wyvern_Character_BP_Fire_Minion"
+    ]
+  },
+  {
+    "id": "gacha",
+    "name": "Gacha",
+    "className": "Gacha_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Extinction",
+      "Fantasy Creatures",
+      "Gacha_Character_BP",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "gachaclaus",
+    "name": "GachaClaus",
+    "className": "Gacha_Claus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Claus_Character_BP.Gacha_Claus_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Extinction",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Extinction",
+      "Gacha_Claus_Character_BP",
+      "Land"
+    ]
+  },
+  {
+    "id": "gallimimus",
+    "name": "Gallimimus",
+    "className": "Galli_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Galli_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "gamma-king-titan",
+    "name": "Gamma King Titan",
+    "className": "KingKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP.KingKaiju_Character_BP'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Extinction",
+      "KingKaiju_Character_BP",
+      "Land"
+    ]
+  },
+  {
+    "id": "gasbags",
+    "name": "Gasbags",
+    "className": "GasBags_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Extinction",
+      "Fantasy Creatures",
+      "GasBags_Character_BP",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "giant-bee",
+    "name": "Giant Bee",
+    "className": "Bee_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Bee_Character_BP",
+      "Flying",
+      "Invertebrates",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "giant-worker-bee",
+    "name": "Giant Worker Bee",
+    "className": "HoneyBee_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Mods/CrystalIsles/Assets/Dinos/HoneyBee/HoneyBee_Character_BP.HoneyBee_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Crystal Isles",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Crystal Isles",
+      "Flying",
+      "HoneyBee_Character_BP",
+      "Invertebrates",
+      "Normal"
+    ]
+  },
+  {
+    "id": "giganotosaurus",
+    "name": "Giganotosaurus",
+    "className": "Gigant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Gigant_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "gigantopithecus",
+    "name": "Gigantopithecus",
+    "className": "Bigfoot_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Bigfoot_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "glowbug",
+    "name": "Glowbug",
+    "className": "Lightbug_Character_BaseBP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Lightbug/Lightbug_Character_BaseBP.Lightbug_Character_BaseBP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Flying",
+      "Lightbug_Character_BaseBP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "glowtail",
+    "name": "Glowtail",
+    "className": "LanternLizard_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "LanternLizard_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "golden-striped-megalodon",
+    "name": "Golden Striped Megalodon",
+    "className": "Ocean_Megalodon_Character_BP_Retrieve_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/MissionVariants/Retrieve/Ocean/Ocean_Megalodon_Character_BP_Retrieve.Ocean_Megalodon_Character_BP_Retrieve'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Ocean_Megalodon_Character_BP_Retrieve",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "griffin",
+    "name": "Griffin",
+    "className": "Griffin_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Ragnarok",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Griffin_Character_BP",
+      "Normal",
+      "Ragnarok"
+    ]
+  },
+  {
+    "id": "hesperornis",
+    "name": "Hesperornis",
+    "className": "Hesperornis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Birds",
+      "Hesperornis_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "hyaenodon",
+    "name": "Hyaenodon",
+    "className": "Hyaenodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Hyaenodon_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "ice-golem",
+    "name": "Ice Golem",
+    "className": "IceGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Valguero",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "IceGolem_Character_BP",
+      "Land",
+      "Normal",
+      "Valguero"
+    ]
+  },
+  {
+    "id": "ice-titan",
+    "name": "Ice Titan",
+    "className": "IceKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP'",
+    "group": "Bosses",
+    "dlc": "Extinction",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Extinction",
+      "IceKaiju_Character_BP",
+      "Land"
+    ]
+  },
+  {
+    "id": "ice-wyvern",
+    "name": "Ice Wyvern",
+    "className": "Ragnarok_Wyvern_Override_Ice_C",
+    "blueprintPath": "Blueprint'/Game/Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice'",
+    "group": "Fantasy Creatures",
+    "dlc": "Ragnarok",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Ragnarok",
+      "Ragnarok_Wyvern_Override_Ice"
+    ]
+  },
+  {
+    "id": "ichthyornis",
+    "name": "Ichthyornis",
+    "className": "Ichthyornis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Birds",
+      "Flying",
+      "Ichthyornis_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "ichthyosaurus",
+    "name": "Ichthyosaurus",
+    "className": "Dolphin_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Dolphin_Character_BP",
+      "Normal",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "iguanodon",
+    "name": "Iguanodon",
+    "className": "Iguanodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Iguanodon_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "insect-swarm",
+    "name": "Insect Swarm",
+    "className": "InsectSwarmChar_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/Swarms/InsectSwarmChar_BP.InsectSwarmChar_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Genesis: Part 1",
+      "InsectSwarmChar_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "jerboa",
+    "name": "Jerboa",
+    "className": "Jerboa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP'",
+    "group": "Mammals",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Jerboa_Character_BP",
+      "Land",
+      "Mammals",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "jug-bug",
+    "name": "Jug Bug",
+    "className": "Jugbug_Character_BaseBP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jugbug/JugBug_Character_BaseBP.JugBug_Character_BaseBP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "JugBug_Character_BaseBP",
+      "Land",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "kairuku",
+    "name": "Kairuku",
+    "className": "Kairuku_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Birds",
+      "Kairuku_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "kaprosuchus",
+    "name": "Kaprosuchus",
+    "className": "Kaprosuchus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Kaprosuchus_Character_BP",
+      "Land",
+      "Normal",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "karkinos",
+    "name": "Karkinos",
+    "className": "Crab_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Crab_Character_BP",
+      "Fantasy Creatures",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "kentrosaurus",
+    "name": "Kentrosaurus",
+    "className": "Kentro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Kentro_Character_BP",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "lamprey",
+    "name": "Lamprey",
+    "className": "Lamprey_Character_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character'",
+    "group": "Fish",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aberration",
+      "Aquatic",
+      "Fish",
+      "Lamprey_Character",
+      "Normal"
+    ]
+  },
+  {
+    "id": "leech",
+    "name": "Leech",
+    "className": "Leech_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Land",
+      "Leech_Character",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "leedsichthys",
+    "name": "Leedsichthys",
+    "className": "Leedsichthys_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leedsichthys/Leedsichthys_Character_BP.Leedsichthys_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fish",
+      "Leedsichthys_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "lightning-wyvern",
+    "name": "Lightning Wyvern",
+    "className": "Wyvern_Character_BP_Lightning_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Scorched Earth",
+      "Wyvern_Character_BP_Lightning"
+    ]
+  },
+  {
+    "id": "liopleurodon",
+    "name": "Liopleurodon",
+    "className": "Liopleurodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Liopleurodon_Character_BP",
+      "Normal",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "lymantria",
+    "name": "Lymantria",
+    "className": "Moth_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Invertebrates",
+      "Moth_Character_BP",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "lystrosaurus",
+    "name": "Lystrosaurus",
+    "className": "Lystro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP'",
+    "group": "Synapsids",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Lystro_Character_BP",
+      "Normal",
+      "Synapsids",
+      "The Island"
+    ]
+  },
+  {
+    "id": "macrophage",
+    "name": "Macrophage",
+    "className": "Macrophage_Swarm_Character_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/Macrophage/Macrophage_Swarm_Character.Macrophage_Swarm_Character'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Genesis: Part 2",
+      "Macrophage_Swarm_Character",
+      "Normal"
+    ]
+  },
+  {
+    "id": "maewing",
+    "name": "Maewing",
+    "className": "MilkGlider_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Genesis: Part 2",
+      "MilkGlider_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "magmasaur",
+    "name": "Magmasaur",
+    "className": "Cherufe_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Cherufe_Character_BP",
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-giganotosaurus",
+    "name": "Malfunctioned Tek Giganotosaurus",
+    "className": "BionicGigant_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP_Malfunctioned.BionicGigant_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicGigant_Character_BP_Malfunctioned",
+      "Genesis: Part 1",
+      "Land",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-parasaur",
+    "name": "Malfunctioned Tek Parasaur",
+    "className": "BionicPara_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP_Malfunctioned.BionicPara_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicPara_Character_BP_Malfunctioned",
+      "Genesis: Part 1",
+      "Land",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-quetzal",
+    "name": "Malfunctioned Tek Quetzal",
+    "className": "BionicQuetz_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP_Malfunctioned.BionicQuetz_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Flying",
+    "tags": [
+      "BionicQuetz_Character_BP_Malfunctioned",
+      "Flying",
+      "Genesis: Part 1",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-raptor",
+    "name": "Malfunctioned Tek Raptor",
+    "className": "BionicRaptor_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP_Malfunctioned.BionicRaptor_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicRaptor_Character_BP_Malfunctioned",
+      "Genesis: Part 1",
+      "Land",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-rex",
+    "name": "Malfunctioned Tek Rex",
+    "className": "BionicRex_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP_Malfunctioned.BionicRex_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicRex_Character_BP_Malfunctioned",
+      "Genesis: Part 1",
+      "Land",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-stegosaurus",
+    "name": "Malfunctioned Tek Stegosaurus",
+    "className": "BionicStego_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP_Malfunctioned.BionicStego_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicStego_Character_BP_Malfunctioned",
+      "Genesis: Part 1",
+      "Land",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "malfunctioned-tek-triceratops",
+    "name": "Malfunctioned Tek Triceratops",
+    "className": "BionicTrike_Character_BP_Malfunctioned_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP_Malfunctioned.BionicTrike_Character_BP_Malfunctioned'",
+    "group": "Tek Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicTrike_Character_BP_Malfunctioned",
+      "Genesis: Part 1",
+      "Land",
+      "Tek",
+      "Tek Creatures"
+    ]
+  },
+  {
+    "id": "mammoth",
+    "name": "Mammoth",
+    "className": "Mammoth_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Mammoth_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "managarmr",
+    "name": "Managarmr",
+    "className": "IceJumper_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Extinction",
+      "Fantasy Creatures",
+      "Flying",
+      "IceJumper_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "manta",
+    "name": "Manta",
+    "className": "Manta_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fish",
+      "Manta_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "manticore-alpha",
+    "name": "Manticore (Alpha)",
+    "className": "Manticore_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP_Hard.Manticore_Character_BP_Hard'",
+    "group": "Bosses",
+    "dlc": "Scorched Earth",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Flying",
+      "Manticore_Character_BP_Hard",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "manticore-beta",
+    "name": "Manticore (Beta)",
+    "className": "Manticore_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP_Medium.Manticore_Character_BP_Medium'",
+    "group": "Bosses",
+    "dlc": "Scorched Earth",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Flying",
+      "Manticore_Character_BP_Medium",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "manticore-gamma",
+    "name": "Manticore (Gamma)",
+    "className": "Manticore_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP_Easy.Manticore_Character_BP_Easy'",
+    "group": "Bosses",
+    "dlc": "Scorched Earth",
+    "variant": "Boss",
+    "movement": "Flying",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Flying",
+      "Manticore_Character_BP_Easy",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "mantis",
+    "name": "Mantis",
+    "className": "Mantis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Land",
+      "Mantis_Character_BP",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "mantis-ghost",
+    "name": "Mantis Ghost",
+    "className": "Ghost_Mantis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Ghost_Mantis_Character_BP.Ghost_Mantis_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Ghost_Mantis_Character_BP",
+      "Land",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "mega-mek",
+    "name": "Mega Mek",
+    "className": "MegaMek_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Mek/MegaMek_Character_BP.MegaMek_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Extinction",
+      "Land",
+      "Mechanical Creatures",
+      "MegaMek_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "megachelon",
+    "name": "Megachelon",
+    "className": "GiantTurtle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "GiantTurtle_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "megalania",
+    "name": "Megalania",
+    "className": "Megalania_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Megalania_Character_BP",
+      "Normal",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megaloceros",
+    "name": "Megaloceros",
+    "className": "Stag_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Stag_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megalodon",
+    "name": "Megalodon",
+    "className": "Megalodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fish",
+      "Megalodon_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megalosaurus",
+    "name": "Megalosaurus",
+    "className": "Megalosaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Megalosaurus_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "meganeura",
+    "name": "Meganeura",
+    "className": "Dragonfly_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP.Dragonfly_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Dragonfly_Character_BP",
+      "Flying",
+      "Invertebrates",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megapithecus",
+    "name": "Megapithecus",
+    "className": "Gorilla_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Gorilla_Character_BP",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megapithecus-alpha",
+    "name": "Megapithecus (Alpha)",
+    "className": "Gorilla_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Hard.Gorilla_Character_BP_Hard'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Gorilla_Character_BP_Hard",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megapithecus-beta",
+    "name": "Megapithecus (Beta)",
+    "className": "Gorilla_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Medium.Gorilla_Character_BP_Medium'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Gorilla_Character_BP_Medium",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megapithecus-gamma",
+    "name": "Megapithecus (Gamma)",
+    "className": "Gorilla_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Easy.Gorilla_Character_BP_Easy'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Gorilla_Character_BP_Easy",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "megatherium",
+    "name": "Megatherium",
+    "className": "Megatherium_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Megatherium_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "mek",
+    "name": "Mek",
+    "className": "Mek_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Extinction",
+      "Land",
+      "Mechanical Creatures",
+      "Mek_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "mesopithecus",
+    "name": "Mesopithecus",
+    "className": "Monkey_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Monkey_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "microraptor",
+    "name": "Microraptor",
+    "className": "Microraptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Dinosaurs",
+      "Flying",
+      "Microraptor_Character_BP",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "moeder-alpha",
+    "name": "Moeder (Alpha)",
+    "className": "EelBoss_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/EelBoss/EelBoss_Character_BP_Hard.EelBoss_Character_BP_Hard'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 1",
+    "variant": "Boss",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Boss",
+      "Bosses",
+      "EelBoss_Character_BP_Hard",
+      "Genesis: Part 1"
+    ]
+  },
+  {
+    "id": "moeder-beta",
+    "name": "Moeder (Beta)",
+    "className": "EelBoss_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/EelBoss/EelBoss_Character_BP_Medium.EelBoss_Character_BP_Medium'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 1",
+    "variant": "Boss",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Boss",
+      "Bosses",
+      "EelBoss_Character_BP_Medium",
+      "Genesis: Part 1"
+    ]
+  },
+  {
+    "id": "moeder-gamma",
+    "name": "Moeder (Gamma)",
+    "className": "EelBoss_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/EelBoss/EelBoss_Character_BP_Easy.EelBoss_Character_BP_Easy'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 1",
+    "variant": "Boss",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Boss",
+      "Bosses",
+      "EelBoss_Character_BP_Easy",
+      "Genesis: Part 1"
+    ]
+  },
+  {
+    "id": "morellatops",
+    "name": "Morellatops",
+    "className": "camelsaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Scorched Earth",
+      "camelsaurus_Character_BP"
+    ]
+  },
+  {
+    "id": "mosasaurus",
+    "name": "Mosasaurus",
+    "className": "Mosa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Mosa_Character_BP",
+      "Normal",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "moschops",
+    "name": "Moschops",
+    "className": "Moschops_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP'",
+    "group": "Synapsids",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Moschops_Character_BP",
+      "Normal",
+      "Synapsids",
+      "The Island"
+    ]
+  },
+  {
+    "id": "nameless",
+    "name": "Nameless",
+    "className": "ChupaCabra_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/ChupaCabra/ChupaCabra_Character_BP.ChupaCabra_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "ChupaCabra_Character_BP",
+      "Fantasy Creatures",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "noglin",
+    "name": "Noglin",
+    "className": "BrainSlug_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP.BrainSlug_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "BrainSlug_Character_BP",
+      "Fantasy Creatures",
+      "Genesis: Part 2",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "oil-jug-bug",
+    "name": "Oil Jug Bug",
+    "className": "Jugbug_Oil_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Oil_Character_BP.Jugbug_Oil_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Jugbug_Oil_Character_BP",
+      "Land",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "onyc",
+    "name": "Onyc",
+    "className": "Bat_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Bat_Character_BP",
+      "Flying",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "otter",
+    "name": "Otter",
+    "className": "Otter_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Otter_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "overseer",
+    "name": "Overseer",
+    "className": "EndBoss_Character_C",
+    "blueprintPath": "Blueprint'/Game/EndGame/Dinos/Endboss/EndBoss_Character.EndBoss_Character'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "EndBoss_Character",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "overseer-alpha",
+    "name": "Overseer (Alpha)",
+    "className": "EndBoss_Character_Hard_C",
+    "blueprintPath": "Blueprint'/Game/EndGame/Dinos/Endboss/EndBoss_Character_Hard.EndBoss_Character_Hard'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "EndBoss_Character_Hard",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "overseer-beta",
+    "name": "Overseer (Beta)",
+    "className": "EndBoss_Character_Medium_C",
+    "blueprintPath": "Blueprint'/Game/EndGame/Dinos/Endboss/EndBoss_Character_Medium.EndBoss_Character_Medium'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "EndBoss_Character_Medium",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "overseer-gamma",
+    "name": "Overseer (Gamma)",
+    "className": "EndBoss_Character_Easy_C",
+    "blueprintPath": "Blueprint'/Game/EndGame/Dinos/Endboss/EndBoss_Character_Easy.EndBoss_Character_Easy'",
+    "group": "Bosses",
+    "dlc": "The Island",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "EndBoss_Character_Easy",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "oviraptor",
+    "name": "Oviraptor",
+    "className": "Oviraptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Oviraptor_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "ovis",
+    "name": "Ovis",
+    "className": "Sheep_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Sheep_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "pachy",
+    "name": "Pachy",
+    "className": "Pachy_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Pachy_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "pachyrhinosaurus",
+    "name": "Pachyrhinosaurus",
+    "className": "Pachyrhino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Pachyrhino_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "paraceratherium",
+    "name": "Paraceratherium",
+    "className": "Paracer_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Paracer_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "parakeet-fish-school",
+    "name": "Parakeet Fish School",
+    "className": "MicrobeSwarmChar_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/Swarms/MicrobeSwarmChar_BP.MicrobeSwarmChar_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fantasy Creatures",
+      "Genesis: Part 1",
+      "MicrobeSwarmChar_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "parasaur",
+    "name": "Parasaur",
+    "className": "Para_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Para_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "pegomastax",
+    "name": "Pegomastax",
+    "className": "Pegomastax_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Pegomastax_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "pelagornis",
+    "name": "Pelagornis",
+    "className": "Pela_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Birds",
+      "Flying",
+      "Normal",
+      "Pela_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "phiomia",
+    "name": "Phiomia",
+    "className": "Phiomia_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Phiomia_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "className": "Phoenix_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Phoenix_Character_BP",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "piranha",
+    "name": "Piranha",
+    "className": "Piranha_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP.Piranha_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fish",
+      "Normal",
+      "Piranha_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "plesiosaur",
+    "name": "Plesiosaur",
+    "className": "Plesiosaur_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Normal",
+      "Plesiosaur_Character_BP",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "poison-wyvern",
+    "name": "Poison Wyvern",
+    "className": "Wyvern_Character_BP_Poison_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Scorched Earth",
+      "Wyvern_Character_BP_Poison"
+    ]
+  },
+  {
+    "id": "procoptodon",
+    "name": "Procoptodon",
+    "className": "Procoptodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Procoptodon_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "pteranodon",
+    "name": "Pteranodon",
+    "className": "Ptero_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Dinosaurs",
+      "Flying",
+      "Normal",
+      "Ptero_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "pulmonoscorpius",
+    "name": "Pulmonoscorpius",
+    "className": "Scorpion_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "Scorpion_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "purlovia",
+    "name": "Purlovia",
+    "className": "Purlovia_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP'",
+    "group": "Synapsids",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Normal",
+      "Purlovia_Character_BP",
+      "Synapsids",
+      "The Island"
+    ]
+  },
+  {
+    "id": "quetzal",
+    "name": "Quetzal",
+    "className": "Quetz_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Normal",
+      "Quetz_Character_BP",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "r-allosaurus",
+    "name": "R-Allosaurus",
+    "className": "Allo_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Allo_Character_BP_Rockwell.Allo_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Allo_Character_BP_Rockwell",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-brontosaurus",
+    "name": "R-Brontosaurus",
+    "className": "Sauropod_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Sauropod_Character_BP_Rockwell.Sauropod_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Sauropod_Character_BP_Rockwell"
+    ]
+  },
+  {
+    "id": "r-carbonemys",
+    "name": "R-Carbonemys",
+    "className": "Turtle_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Turtle_Character_BP_Rockwell.Turtle_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Turtle_Character_BP_Rockwell"
+    ]
+  },
+  {
+    "id": "r-carnotaurus",
+    "name": "R-Carnotaurus",
+    "className": "Carno_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Carno_Character_BP_Rockwell.Carno_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Carno_Character_BP_Rockwell",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-daeodon",
+    "name": "R-Daeodon",
+    "className": "Daeodon_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Daeodon_Character_BP_Eden.Daeodon_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Daeodon_Character_BP_Eden",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-dilophosaur",
+    "name": "R-Dilophosaur",
+    "className": "Dilo_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Dilo_Character_BP_Rockwell.Dilo_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Dilo_Character_BP_Rockwell",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-dire-bear",
+    "name": "R-Dire Bear",
+    "className": "Direbear_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Direbear_Character_BP_Rockwell.Direbear_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Direbear_Character_BP_Rockwell",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-direwolf",
+    "name": "R-Direwolf",
+    "className": "Direwolf_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Direwolf_Character_BP_Eden.Direwolf_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Direwolf_Character_BP_Eden",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-equus",
+    "name": "R-Equus",
+    "className": "Equus_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Equus_Character_BP_Eden.Equus_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Equus_Character_BP_Eden",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-gasbags",
+    "name": "R-Gasbags",
+    "className": "GasBags_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/GasBags_Character_BP_Eden.GasBags_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "GasBags_Character_BP_Eden",
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-giganotosaurus",
+    "name": "R-Giganotosaurus",
+    "className": "Gigant_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Gigant_Character_BP_Rockwell.Gigant_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Gigant_Character_BP_Rockwell",
+      "Land",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-megatherium",
+    "name": "R-Megatherium",
+    "className": "Megatherium_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Megatherium_Character_BP_Eden.Megatherium_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "Megatherium_Character_BP_Eden",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-parasaur",
+    "name": "R-Parasaur",
+    "className": "Para_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Para_Character_BP_Eden.Para_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "Para_Character_BP_Eden",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-procoptodon",
+    "name": "R-Procoptodon",
+    "className": "Procoptodon_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Procoptodon_Character_BP_Eden.Procoptodon_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "Procoptodon_Character_BP_Eden",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-quetzal",
+    "name": "R-Quetzal",
+    "className": "Quetz_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Quetz_Character_BP_Rockwell.Quetz_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Genesis: Part 2",
+      "Quetz_Character_BP_Rockwell",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-reaper-king",
+    "name": "R-Reaper King",
+    "className": "Xenomorph_Character_BP_Male_Gen2_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Xenomorph_Character_BP_Male_Gen2.Xenomorph_Character_BP_Male_Gen2'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Xenomorph_Character_BP_Male_Gen2"
+    ]
+  },
+  {
+    "id": "r-reaper-king-tamed",
+    "name": "R-Reaper King (Tamed)",
+    "className": "Xenomorph_Character_BP_Male_Tamed_Gen2_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Xenomorph_Character_BP_Male_Tamed_Gen2.Xenomorph_Character_BP_Male_Tamed_Gen2'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Xenomorph_Character_BP_Male_Tamed_Gen2"
+    ]
+  },
+  {
+    "id": "r-reaper-queen",
+    "name": "R-Reaper Queen",
+    "className": "Xenomorph_Character_BP_Female_Gen2_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Xenomorph_Character_BP_Female_Gen2.Xenomorph_Character_BP_Female_Gen2'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Xenomorph_Character_BP_Female_Gen2"
+    ]
+  },
+  {
+    "id": "r-snow-owl",
+    "name": "R-Snow Owl",
+    "className": "Owl_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Owl_Character_BP_Eden.Owl_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Genesis: Part 2",
+      "Owl_Character_BP_Eden",
+      "R",
+      "R-Creatures"
+    ]
+  },
+  {
+    "id": "r-thylacoleo",
+    "name": "R-Thylacoleo",
+    "className": "Thylacoleo_Character_BP_Eden_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Thylacoleo_Character_BP_Eden.Thylacoleo_Character_BP_Eden'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Thylacoleo_Character_BP_Eden"
+    ]
+  },
+  {
+    "id": "r-velonasaur",
+    "name": "R-Velonasaur",
+    "className": "Spindles_Character_BP_Rockwell_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Spindles_Character_BP_Rockwell.Spindles_Character_BP_Rockwell'",
+    "group": "R-Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "R",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "R",
+      "R-Creatures",
+      "Spindles_Character_BP_Rockwell"
+    ]
+  },
+  {
+    "id": "raptor",
+    "name": "Raptor",
+    "className": "Raptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Raptor_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "ravager",
+    "name": "Ravager",
+    "className": "CaveWolf_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "CaveWolf_Character_BP",
+      "Fantasy Creatures",
+      "Land",
+      "Normal"
+    ]
+  },
+  {
+    "id": "reaper-king",
+    "name": "Reaper King",
+    "className": "Xenomorph_Character_BP_Male_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male.Xenomorph_Character_BP_Male'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "Xenomorph_Character_BP_Male"
+    ]
+  },
+  {
+    "id": "reaper-king-tamed",
+    "name": "Reaper King (Tamed)",
+    "className": "Xenomorph_Character_BP_Male_Tamed_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "Xenomorph_Character_BP_Male_Tamed"
+    ]
+  },
+  {
+    "id": "reaper-prince",
+    "name": "Reaper Prince",
+    "className": "Xenomorph_Character_BP_Male_InitialBuryOnly_Adolescent_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_InitialBuryOnly_Adolescent.Xenomorph_Character_BP_Male_InitialBuryOnly_Adolescent'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "Xenomorph_Character_BP_Male_InitialBuryOnly_Adolescent"
+    ]
+  },
+  {
+    "id": "reaper-queen",
+    "name": "Reaper Queen",
+    "className": "Xenomorph_Character_BP_Female_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "Xenomorph_Character_BP_Female"
+    ]
+  },
+  {
+    "id": "rex",
+    "name": "Rex",
+    "className": "Rex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Rex_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "rex-ghost",
+    "name": "Rex Ghost",
+    "className": "Ghost_Rex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Ghost_Rex_Character_BP.Ghost_Rex_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Ghost_Rex_Character_BP",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "rhyniognatha",
+    "name": "Rhyniognatha",
+    "className": "Rhynio_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Invertebrates",
+      "Normal",
+      "Rhynio_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "rock-drake",
+    "name": "Rock Drake",
+    "className": "RockDrake_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "RockDrake_Character_BP"
+    ]
+  },
+  {
+    "id": "rock-elemental",
+    "name": "Rock Elemental",
+    "className": "RockGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "RockGolem_Character_BP",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "rockwell",
+    "name": "Rockwell",
+    "className": "Rockwell_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP.Rockwell_Character_BP'",
+    "group": "Bosses",
+    "dlc": "Aberration",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Boss",
+      "Bosses",
+      "Land",
+      "Rockwell_Character_BP"
+    ]
+  },
+  {
+    "id": "rockwell-alpha",
+    "name": "Rockwell (Alpha)",
+    "className": "Rockwell_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Hard.Rockwell_Character_BP_Hard'",
+    "group": "Bosses",
+    "dlc": "Aberration",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Boss",
+      "Bosses",
+      "Land",
+      "Rockwell_Character_BP_Hard"
+    ]
+  },
+  {
+    "id": "rockwell-beta",
+    "name": "Rockwell (Beta)",
+    "className": "Rockwell_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Medium.Rockwell_Character_BP_Medium'",
+    "group": "Bosses",
+    "dlc": "Aberration",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Boss",
+      "Bosses",
+      "Land",
+      "Rockwell_Character_BP_Medium"
+    ]
+  },
+  {
+    "id": "rockwell-gamma",
+    "name": "Rockwell (Gamma)",
+    "className": "Rockwell_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Easy.Rockwell_Character_BP_Easy'",
+    "group": "Bosses",
+    "dlc": "Aberration",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Boss",
+      "Bosses",
+      "Land",
+      "Rockwell_Character_BP_Easy"
+    ]
+  },
+  {
+    "id": "rockwell-node",
+    "name": "Rockwell Node",
+    "className": "RockwellNode_Character_BP_FinalFight_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Missions/ModularMission/FinalBattleAlt/Dinos/RockwellNode_Character_BP_FinalFight.RockwellNode_Character_BP_FinalFight'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 2",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Genesis: Part 2",
+      "Land",
+      "RockwellNode_Character_BP_FinalFight"
+    ]
+  },
+  {
+    "id": "rockwell-prime",
+    "name": "Rockwell Prime",
+    "className": "RockwellNode_Character_BP_Boss_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Missions/ModularMission/FinalBattleAlt/Dinos/RockwellNode_Character_BP_Boss.RockwellNode_Character_BP_Boss'",
+    "group": "Bosses",
+    "dlc": "Genesis: Part 2",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Boss",
+      "Bosses",
+      "Genesis: Part 2",
+      "Land",
+      "RockwellNode_Character_BP_Boss"
+    ]
+  },
+  {
+    "id": "rockwell-tentacle",
+    "name": "Rockwell Tentacle",
+    "className": "RockwellTentacle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP.RockwellTentacle_Character_BP'",
+    "group": "Bosses",
+    "dlc": "Aberration",
+    "variant": "Boss",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Boss",
+      "Bosses",
+      "Land",
+      "RockwellTentacle_Character_BP"
+    ]
+  },
+  {
+    "id": "roll-rat",
+    "name": "Roll Rat",
+    "className": "MoleRat_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "MoleRat_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "rubble-golem",
+    "name": "Rubble Golem",
+    "className": "RubbleGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RubbleGolem_Character_BP.RubbleGolem_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "RubbleGolem_Character_BP",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "sabertooth",
+    "name": "Sabertooth",
+    "className": "Saber_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Saber_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "sabertooth-salmon",
+    "name": "Sabertooth Salmon",
+    "className": "Salmon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_BP.Salmon_Character_BP'",
+    "group": "Fish",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Fish",
+      "Normal",
+      "Salmon_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "sarco",
+    "name": "Sarco",
+    "className": "Sarco_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Normal",
+      "Reptiles",
+      "Sarco_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "scout",
+    "name": "Scout",
+    "className": "Scout_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Extinction",
+      "Flying",
+      "Mechanical Creatures",
+      "Normal",
+      "Scout_Character_BP"
+    ]
+  },
+  {
+    "id": "seeker",
+    "name": "Seeker",
+    "className": "Pteroteuthis_Char_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Pteroteuthis/Pteroteuthis_Char_BP.Pteroteuthis_Char_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Pteroteuthis_Char_BP"
+    ]
+  },
+  {
+    "id": "shadowmane",
+    "name": "Shadowmane",
+    "className": "LionfishLion_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Genesis: Part 2",
+      "Land",
+      "LionfishLion_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "shinehorn",
+    "name": "Shinehorn",
+    "className": "LanternGoat_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Aberration",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Fantasy Creatures",
+      "Land",
+      "LanternGoat_Character_BP",
+      "Normal"
+    ]
+  },
+  {
+    "id": "sinomacrops",
+    "name": "Sinomacrops",
+    "className": "Sinomacrops_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "Lost Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Lost Island",
+      "Normal",
+      "Reptiles",
+      "Sinomacrops_Character_BP"
+    ]
+  },
+  {
+    "id": "skeletal-bronto",
+    "name": "Skeletal Bronto",
+    "className": "Bone_Sauropod_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_Sauropod_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-carnotaurus",
+    "name": "Skeletal Carnotaurus",
+    "className": "Bone_MegaCarno_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_MegaCarno_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-giganotosaurus",
+    "name": "Skeletal Giganotosaurus",
+    "className": "Bone_Gigant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_Gigant_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-jerboa",
+    "name": "Skeletal Jerboa",
+    "className": "Bone_Jerboa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_Jerboa_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "skeletal-quetzal",
+    "name": "Skeletal Quetzal",
+    "className": "Bone_Quetz_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "Bone_Quetz_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Flying",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-raptor",
+    "name": "Skeletal Raptor",
+    "className": "Bone_MegaRaptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_MegaRaptor_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-rex",
+    "name": "Skeletal Rex",
+    "className": "Bone_MegaRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_MegaRex_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-stego",
+    "name": "Skeletal Stego",
+    "className": "Bone_Stego_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_Stego_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "skeletal-trike",
+    "name": "Skeletal Trike",
+    "className": "Bone_Trike_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Bone_Trike_Character_BP",
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island"
+    ]
+  },
+  {
+    "id": "snow-owl",
+    "name": "Snow Owl",
+    "className": "Owl_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP'",
+    "group": "Birds",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Birds",
+      "Extinction",
+      "Flying",
+      "Normal",
+      "Owl_Character_BP"
+    ]
+  },
+  {
+    "id": "snow-owl-ghost",
+    "name": "Snow Owl Ghost",
+    "className": "Ghost_Owl_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "Extinction",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Extinction",
+      "Flying",
+      "Ghost_Owl_Character_BP"
+    ]
+  },
+  {
+    "id": "spino",
+    "name": "Spino",
+    "className": "Spino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Spino_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "stegosaurus",
+    "name": "Stegosaurus",
+    "className": "Stego_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "Stego_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "summoner",
+    "name": "Summoner",
+    "className": "Summoner_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/Summoner/Summoner_Character_BP.Summoner_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Fantasy Creatures",
+      "Genesis: Part 2",
+      "Land",
+      "Normal",
+      "Summoner_Character_BP"
+    ]
+  },
+  {
+    "id": "super-turkey",
+    "name": "Super Turkey",
+    "className": "Turkey_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Turkey_Character_BP.Turkey_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island",
+      "Turkey_Character_BP"
+    ]
+  },
+  {
+    "id": "surface-reaper-king-ghost",
+    "name": "Surface Reaper King Ghost",
+    "className": "Ghost_Xenomorph_Character_BP_Male_Surface_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Ghost_Xenomorph_Character_BP_Male_Surface.Ghost_Xenomorph_Character_BP_Male_Surface'",
+    "group": "Event Creatures",
+    "dlc": "Aberration",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Aberration",
+      "Event",
+      "Event Creatures",
+      "Ghost_Xenomorph_Character_BP_Male_Surface",
+      "Land"
+    ]
+  },
+  {
+    "id": "tapejara",
+    "name": "Tapejara",
+    "className": "Tapejara_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Normal",
+      "Reptiles",
+      "Tapejara_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-giganotosaurus",
+    "name": "Tek Giganotosaurus",
+    "className": "BionicGigant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicGigant_Character_BP",
+      "Land",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-parasaur",
+    "name": "Tek Parasaur",
+    "className": "BionicPara_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicPara_Character_BP",
+      "Land",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-quetzal",
+    "name": "Tek Quetzal",
+    "className": "BionicQuetz_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Flying",
+    "tags": [
+      "BionicQuetz_Character_BP",
+      "Flying",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-raptor",
+    "name": "Tek Raptor",
+    "className": "BionicRaptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicRaptor_Character_BP",
+      "Land",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-rex",
+    "name": "Tek Rex",
+    "className": "BionicRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicRex_Character_BP",
+      "Land",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-stegosaurus",
+    "name": "Tek Stegosaurus",
+    "className": "BionicStego_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicStego_Character_BP",
+      "Land",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "tek-stryder",
+    "name": "Tek Stryder",
+    "className": "TekStrider_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 2",
+      "Land",
+      "Mechanical Creatures",
+      "Tek",
+      "TekStrider_Character_BP"
+    ]
+  },
+  {
+    "id": "tek-triceratops",
+    "name": "Tek Triceratops",
+    "className": "BionicTrike_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP'",
+    "group": "Tek Creatures",
+    "dlc": "The Island",
+    "variant": "Tek",
+    "movement": "Land",
+    "tags": [
+      "BionicTrike_Character_BP",
+      "Land",
+      "Tek",
+      "Tek Creatures",
+      "The Island"
+    ]
+  },
+  {
+    "id": "terror-bird",
+    "name": "Terror Bird",
+    "className": "TerrorBird_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP'",
+    "group": "Birds",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Birds",
+      "Land",
+      "Normal",
+      "TerrorBird_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "therizinosaur",
+    "name": "Therizinosaur",
+    "className": "Therizino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island",
+      "Therizino_Character_BP"
+    ]
+  },
+  {
+    "id": "thorny-dragon",
+    "name": "Thorny Dragon",
+    "className": "SpineyLizard_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Normal",
+      "Reptiles",
+      "Scorched Earth",
+      "SpineyLizard_Character_BP"
+    ]
+  },
+  {
+    "id": "thylacoleo",
+    "name": "Thylacoleo",
+    "className": "Thylacoleo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island",
+      "Thylacoleo_Character_BP"
+    ]
+  },
+  {
+    "id": "titanoboa",
+    "name": "Titanoboa",
+    "className": "BoaFrill_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "BoaFrill_Character_BP",
+      "Land",
+      "Normal",
+      "Reptiles",
+      "The Island"
+    ]
+  },
+  {
+    "id": "titanomyrma-drone",
+    "name": "Titanomyrma (Drone)",
+    "className": "Ant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ant/Ant_Character_BP.Ant_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Ant_Character_BP",
+      "Invertebrates",
+      "Land",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "titanomyrma-soldier",
+    "name": "Titanomyrma (Soldier)",
+    "className": "FlyingAnt_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "FlyingAnt_Character_BP",
+      "Invertebrates",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "titanosaur",
+    "name": "Titanosaur",
+    "className": "Titanosaur_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island",
+      "Titanosaur_Character_BP"
+    ]
+  },
+  {
+    "id": "triceratops",
+    "name": "Triceratops",
+    "className": "Trike_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island",
+      "Trike_Character_BP"
+    ]
+  },
+  {
+    "id": "trilobite",
+    "name": "Trilobite",
+    "className": "Trilobite_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Invertebrates",
+      "Normal",
+      "The Island",
+      "Trilobite_Character"
+    ]
+  },
+  {
+    "id": "troodon",
+    "name": "Troodon",
+    "className": "Troodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island",
+      "Troodon_Character_BP"
+    ]
+  },
+  {
+    "id": "tropeognathus",
+    "name": "Tropeognathus",
+    "className": "Tropeognathus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP'",
+    "group": "Reptiles",
+    "dlc": "Crystal Isles",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Crystal Isles",
+      "Flying",
+      "Normal",
+      "Reptiles",
+      "Tropeognathus_Character_BP"
+    ]
+  },
+  {
+    "id": "tropical-crystal-wyvern",
+    "name": "Tropical Crystal Wyvern",
+    "className": "CrystalWyvern_Character_BP_WS_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_WS.CrystalWyvern_Character_BP_WS'",
+    "group": "Fantasy Creatures",
+    "dlc": "Crystal Isles",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Crystal Isles",
+      "CrystalWyvern_Character_BP_WS",
+      "Fantasy Creatures",
+      "Flying",
+      "Normal"
+    ]
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "className": "TurkeyBase_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island",
+      "TurkeyBase_Character_BP"
+    ]
+  },
+  {
+    "id": "tusoteuthis",
+    "name": "Tusoteuthis",
+    "className": "Tusoteuthis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Invertebrates",
+      "Normal",
+      "The Island",
+      "Tusoteuthis_Character_BP"
+    ]
+  },
+  {
+    "id": "unicorn",
+    "name": "Unicorn",
+    "className": "Equus_Character_BP_Unicorn_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Equus_Character_BP_Unicorn",
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island"
+    ]
+  },
+  {
+    "id": "velonasaur",
+    "name": "Velonasaur",
+    "className": "Spindles_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP'",
+    "group": "Fantasy Creatures",
+    "dlc": "Extinction",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Extinction",
+      "Fantasy Creatures",
+      "Land",
+      "Normal",
+      "Spindles_Character_BP"
+    ]
+  },
+  {
+    "id": "voidwyrm",
+    "name": "Voidwyrm",
+    "className": "TekWyvern_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis2/Dinos/TekWyvern/TekWyvern_Character_BP.TekWyvern_Character_BP'",
+    "group": "Mechanical Creatures",
+    "dlc": "Genesis: Part 2",
+    "variant": "Tek",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Genesis: Part 2",
+      "Mechanical Creatures",
+      "Tek",
+      "TekWyvern_Character_BP"
+    ]
+  },
+  {
+    "id": "vulture",
+    "name": "Vulture",
+    "className": "Vulture_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP'",
+    "group": "Birds",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Birds",
+      "Flying",
+      "Normal",
+      "Scorched Earth",
+      "Vulture_Character_BP"
+    ]
+  },
+  {
+    "id": "water-jug-bug",
+    "name": "Water Jug Bug",
+    "className": "Jugbug_Water_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP'",
+    "group": "Invertebrates",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Invertebrates",
+      "Jugbug_Water_Character_BP",
+      "Land",
+      "Normal",
+      "Scorched Earth"
+    ]
+  },
+  {
+    "id": "woolly-rhino",
+    "name": "Woolly Rhino",
+    "className": "Rhino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "Rhino_Character_BP",
+      "The Island"
+    ]
+  },
+  {
+    "id": "wyvern-base",
+    "name": "Wyvern (Base)",
+    "className": "Wyvern_Character_BP_Base_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Base.Wyvern_Character_BP_Base'",
+    "group": "Fantasy Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Normal",
+    "movement": "Flying",
+    "tags": [
+      "Fantasy Creatures",
+      "Flying",
+      "Normal",
+      "Scorched Earth",
+      "Wyvern_Character_BP_Base"
+    ]
+  },
+  {
+    "id": "x-allosaurus",
+    "name": "X-Allosaurus",
+    "className": "Volcano_Allo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Allosaurus/Volcano_Allo_Character_BP.Volcano_Allo_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Allo_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-ankylosaurus",
+    "name": "X-Ankylosaurus",
+    "className": "Volcano_Ankylo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Ankylosaurus/Volcano_Ankylo_Character_BP.Volcano_Ankylo_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Ankylo_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-argentavis",
+    "name": "X-Argentavis",
+    "className": "Snow_Argent_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Argentavis/Snow_Argent_Character_BP.Snow_Argent_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Flying",
+    "tags": [
+      "Flying",
+      "Genesis: Part 1",
+      "Snow_Argent_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-basilosaurus",
+    "name": "X-Basilosaurus",
+    "className": "Ocean_Basilosaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Ocean_Basilosaurus_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-dunkleosteus",
+    "name": "X-Dunkleosteus",
+    "className": "Ocean_Dunkle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Dunkleosteus/Ocean_Dunkle_Character_BP.Ocean_Dunkle_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Ocean_Dunkle_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-ichthyosaurus",
+    "name": "X-Ichthyosaurus",
+    "className": "Ocean_Dolphin_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Dolphin/Ocean_Dolphin_Character_BP.Ocean_Dolphin_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Ocean_Dolphin_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-megalodon",
+    "name": "X-Megalodon",
+    "className": "Ocean_Megalodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Megalodon/Ocean_Megalodon_Character_BP.Ocean_Megalodon_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Ocean_Megalodon_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-mosasaurus",
+    "name": "X-Mosasaurus",
+    "className": "Ocean_Mosa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Mosasaurus/Ocean_Mosa_Character_BP.Ocean_Mosa_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Ocean_Mosa_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-otter",
+    "name": "X-Otter",
+    "className": "Snow_Otter_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Otter/Snow_Otter_Character_BP.Snow_Otter_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Snow_Otter_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-paraceratherium",
+    "name": "X-Paraceratherium",
+    "className": "Bog_Paracer_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/BogParaceratherium/Bog_Paracer_Character_BP.Bog_Paracer_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Bog_Paracer_Character_BP",
+      "Genesis: Part 1",
+      "Land",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-parasaur",
+    "name": "X-Parasaur",
+    "className": "Bog_Para_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/BogPara/Bog_Para_Character_BP.Bog_Para_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Bog_Para_Character_BP",
+      "Genesis: Part 1",
+      "Land",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-raptor",
+    "name": "X-Raptor",
+    "className": "Bog_Raptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Raptor/Bog_Raptor_Character_BP.Bog_Raptor_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Bog_Raptor_Character_BP",
+      "Genesis: Part 1",
+      "Land",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-rex",
+    "name": "X-Rex",
+    "className": "Volcano_Rex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Rex/Volcano_Rex_Character_BP.Volcano_Rex_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Rex_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-rock-elemental",
+    "name": "X-Rock Elemental",
+    "className": "Volcano_Golem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Lava_Golem/Volcano_Golem_Character_BP.Volcano_Golem_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Golem_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-sabertooth",
+    "name": "X-Sabertooth",
+    "className": "Snow_Saber_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Saber/Snow_Saber_Character_BP.Snow_Saber_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Snow_Saber_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-sabertooth-salmon",
+    "name": "X-Sabertooth Salmon",
+    "className": "Lunar_Salmon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Lunar_Salmon/Lunar_Salmon_Character_BP.Lunar_Salmon_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Aquatic",
+    "tags": [
+      "Aquatic",
+      "Genesis: Part 1",
+      "Lunar_Salmon_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-spino",
+    "name": "X-Spino",
+    "className": "Bog_Spino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Spino/Bog_Spino_Character_BP.Bog_Spino_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Bog_Spino_Character_BP",
+      "Genesis: Part 1",
+      "Land",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-tapejara",
+    "name": "X-Tapejara",
+    "className": "Bog_Tapejara_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Tapejara/Bog_Tapejara_Character_BP.Bog_Tapejara_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Flying",
+    "tags": [
+      "Bog_Tapejara_Character_BP",
+      "Flying",
+      "Genesis: Part 1",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-triceratops",
+    "name": "X-Triceratops",
+    "className": "Volcano_Trike_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Trike/Volcano_Trike_Character_BP.Volcano_Trike_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Volcano_Trike_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-woolly-rhino",
+    "name": "X-Woolly Rhino",
+    "className": "Snow_Rhino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_WoollyRhino/Snow_Rhino_Character_BP.Snow_Rhino_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Snow_Rhino_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "x-yutyrannus",
+    "name": "X-Yutyrannus",
+    "className": "Snow_Yutyrannus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Yutyrannus/Snow_Yutyrannus_Character_BP.Snow_Yutyrannus_Character_BP'",
+    "group": "X-Creatures",
+    "dlc": "Genesis: Part 1",
+    "variant": "X",
+    "movement": "Land",
+    "tags": [
+      "Genesis: Part 1",
+      "Land",
+      "Snow_Yutyrannus_Character_BP",
+      "X",
+      "X-Creatures"
+    ]
+  },
+  {
+    "id": "yeti",
+    "name": "Yeti",
+    "className": "Yeti_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP'",
+    "group": "Mammals",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Land",
+      "Mammals",
+      "Normal",
+      "The Island",
+      "Yeti_Character_BP"
+    ]
+  },
+  {
+    "id": "yutyrannus",
+    "name": "Yutyrannus",
+    "className": "Yutyrannus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP'",
+    "group": "Dinosaurs",
+    "dlc": "The Island",
+    "variant": "Normal",
+    "movement": "Land",
+    "tags": [
+      "Dinosaurs",
+      "Land",
+      "Normal",
+      "The Island",
+      "Yutyrannus_Character_BP"
+    ]
+  },
+  {
+    "id": "zombie-fire-wyvern",
+    "name": "Zombie Fire Wyvern",
+    "className": "Wyvern_Character_BP_ZombieFire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieFire.Wyvern_Character_BP_ZombieFire'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Flying",
+      "Scorched Earth",
+      "Wyvern_Character_BP_ZombieFire"
+    ]
+  },
+  {
+    "id": "zombie-lightning-wyvern",
+    "name": "Zombie Lightning Wyvern",
+    "className": "Wyvern_Character_BP_ZombieLightning_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieLightning.Wyvern_Character_BP_ZombieLightning'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Flying",
+      "Scorched Earth",
+      "Wyvern_Character_BP_ZombieLightning"
+    ]
+  },
+  {
+    "id": "zombie-poison-wyvern",
+    "name": "Zombie Poison Wyvern",
+    "className": "Wyvern_Character_BP_ZombiePoison_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombiePoison.Wyvern_Character_BP_ZombiePoison'",
+    "group": "Event Creatures",
+    "dlc": "Scorched Earth",
+    "variant": "Event",
+    "movement": "Flying",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Flying",
+      "Scorched Earth",
+      "Wyvern_Character_BP_ZombiePoison"
+    ]
+  },
+  {
+    "id": "zomdodo",
+    "name": "Zomdodo",
+    "className": "ZombieDodo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/ZombieDodo_Character_BP.ZombieDodo_Character_BP'",
+    "group": "Event Creatures",
+    "dlc": "The Island",
+    "variant": "Event",
+    "movement": "Land",
+    "tags": [
+      "Event",
+      "Event Creatures",
+      "Land",
+      "The Island",
+      "ZombieDodo_Character_BP"
+    ]
+  }
+]
