@@ -1,0 +1,152 @@
+> The Island
+Achatina|PE:Achatina/Achatina_Character_BP|Invertebrates|Normal|Land
+Allosaurus|PE:Allosaurus/Allo_Character_BP|Dinosaurs|Normal|Land
+Alpha Carno|PE:Carno/MegaCarno_Character_BP|Alpha Creatures|Alpha|Land
+Alpha Leedsichthys|PE:Leedsichthys/Alpha_Leedsichthys_Character_BP|Alpha Creatures|Alpha|Aquatic
+Alpha Megalodon|FULL:/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP#MegaMegalodon_Character_BP_C|Alpha Creatures|Alpha|Aquatic
+Alpha Mosasaur|PE:Mosasaurus/Mosa_Character_BP_Mega|Alpha Creatures|Alpha|Aquatic
+Alpha Raptor|PE:Raptor/MegaRaptor_Character_BP|Alpha Creatures|Alpha|Land
+Alpha T-Rex|PE:Rex/MegaRex_Character_BP|Alpha Creatures|Alpha|Land
+Alpha Tusoteuthis|PE:Tusoteuthis/Mega_Tusoteuthis_Character_BP|Alpha Creatures|Alpha|Aquatic
+Ammonite|PE:Ammonite/Ammonite_Character|Invertebrates|Normal|Aquatic
+Anglerfish|PE:Anglerfish/Angler_Character_BP|Fish|Normal|Aquatic
+Ankylosaurus|PE:Ankylo/Ankylo_Character_BP|Dinosaurs|Normal|Land
+Araneo|PE:Spider-Small/SpiderS_Character_BP|Invertebrates|Normal|Land
+Archaeopteryx|PE:Archaeopteryx/Archa_Character_BP|Birds|Normal|Flying
+Argentavis|PE:Argentavis/Argent_Character_BP|Birds|Normal|Flying
+Arthropluera|PE:Arthropluera/Arthro_Character_BP|Invertebrates|Normal|Land
+Baryonyx|PE:Baryonyx/Baryonyx_Character_BP|Dinosaurs|Normal|Land
+Basilosaurus|PE:Basilosaurus/Basilosaurus_Character_BP|Mammals|Normal|Aquatic
+Beelzebufo|PE:Toad/Toad_Character_BP|Reptiles|Normal|Land
+Brontosaurus|PE:Sauropod/Sauropod_Character_BP|Dinosaurs|Normal|Land
+Broodmother Lysrix|PE:Spider-Large/SpiderL_Character_BP|Bosses|Boss|Land
+Broodmother Lysrix (Gamma)|PE:Spider-Large/SpiderL_Character_BP_Easy|Bosses|Boss|Land
+Broodmother Lysrix (Beta)|PE:Spider-Large/SpiderL_Character_BP_Medium|Bosses|Boss|Land
+Broodmother Lysrix (Alpha)|PE:Spider-Large/SpiderL_Character_BP_Hard|Bosses|Boss|Land
+Bunny Dodo|PE:Dodo/Dodo_Character_BP_Bunny|Event Creatures|Event|Land
+Bunny Oviraptor|PE:Oviraptor/BunnyOviraptor_Character_BP|Event Creatures|Event|Land
+Carbonemys|PE:Turtle/Turtle_Character_BP|Reptiles|Normal|Land
+Carnotaurus|PE:Carno/Carno_Character_BP|Dinosaurs|Normal|Land
+Castoroides|PE:Beaver/Beaver_Character_BP|Mammals|Normal|Land
+Chalicotherium|PE:Chalicotherium/Chalico_Character_BP|Mammals|Normal|Land
+Cnidaria|PE:Cnidaria/Cnidaria_Character_BP|Invertebrates|Normal|Aquatic
+Coelacanth|PE:Coelacanth/Coel_Character_BP|Fish|Normal|Aquatic
+Compy|PE:Compy/Compy_Character_BP|Dinosaurs|Normal|Land
+Daeodon|PE:Daeodon/Daeodon_Character_BP|Mammals|Normal|Land
+Dilophosaur|PE:Dilo/Dilo_Character_BP|Dinosaurs|Normal|Land
+Dimetrodon|PE:Dimetrodon/Dimetro_Character_BP|Synapsids|Normal|Land
+Dimorphodon|PE:Dimorphodon/Dimorph_Character_BP|Dinosaurs|Normal|Flying
+Diplocaulus|PE:Diplocaulus/Diplocaulus_Character_BP|Amphibians|Normal|Aquatic
+Diplodocus|PE:Diplodocus/Diplodocus_Character_BP|Dinosaurs|Normal|Land
+Dire Bear|PE:Direbear/Direbear_Character_BP|Mammals|Normal|Land
+Direwolf|PE:Direwolf/Direwolf_Character_BP|Mammals|Normal|Land
+Direwolf Ghost|PE:Direwolf/Ghost_Direwolf_Character_BP|Event Creatures|Event|Land
+Diseased Leech|PE:Leech/Leech_Character_Diseased|Invertebrates|Normal|Land
+Dodo|PE:Dodo/Dodo_Character_BP|Birds|Normal|Land
+DodoRex|PE:DodoRex/DodoRex_Character_BP|Event Creatures|Event|Land
+Doedicurus|PE:Doedicurus/Doed_Character_BP|Mammals|Normal|Land
+Dragon (Gamma)|PE:Dragon/Dragon_Character_BP_Boss_Easy|Bosses|Boss|Flying
+Dragon (Beta)|PE:Dragon/Dragon_Character_BP_Boss_Medium|Bosses|Boss|Flying
+Dragon (Alpha)|PE:Dragon/Dragon_Character_BP_Boss_Hard|Bosses|Boss|Flying
+Dung Beetle|PE:DungBeetle/DungBeetle_Character_BP|Invertebrates|Normal|Land
+Dunkleosteus|PE:Dunkleosteus/Dunkle_Character_BP|Fish|Normal|Aquatic
+Electrophorus|PE:Eel/Eel_Character_BP|Fish|Normal|Aquatic
+Equus|PE:Equus/Equus_Character_BP|Mammals|Normal|Land
+Eurypterid|PE:Eurypterid/Euryp_Character|Invertebrates|Normal|Aquatic
+Gallimimus|PE:Gallimimus/Galli_Character_BP|Dinosaurs|Normal|Land
+Giant Bee|PE:Bee/Bee_Character_BP|Invertebrates|Normal|Flying
+Giganotosaurus|PE:Giganotosaurus/Gigant_Character_BP|Dinosaurs|Normal|Land
+Gigantopithecus|PE:Bigfoot/Bigfoot_Character_BP|Mammals|Normal|Land
+Hesperornis|PE:Hesperornis/Hesperornis_Character_BP|Birds|Normal|Aquatic
+Hyaenodon|PE:Hyaenodon/Hyaenodon_Character_BP|Mammals|Normal|Land
+Ichthyornis|PE:Ichthyornis/Ichthyornis_Character_BP|Birds|Normal|Flying
+Ichthyosaurus|PE:Dolphin/Dolphin_Character_BP|Reptiles|Normal|Aquatic
+Iguanodon|PE:Iguanodon/Iguanodon_Character_BP|Dinosaurs|Normal|Land
+Kairuku|PE:Kairuku/Kairuku_Character_BP|Birds|Normal|Land
+Kaprosuchus|PE:Kaprosuchus/Kaprosuchus_Character_BP|Reptiles|Normal|Land
+Kentrosaurus|PE:Kentrosaurus/Kentro_Character_BP|Dinosaurs|Normal|Land
+Leech|PE:Leech/Leech_Character|Invertebrates|Normal|Land
+Leedsichthys|PE:Leedsichthys/Leedsichthys_Character_BP|Fish|Normal|Aquatic
+Liopleurodon|PE:Liopleurodon/Liopleurodon_Character_BP|Reptiles|Normal|Aquatic
+Lystrosaurus|PE:Lystrosaurus/Lystro_Character_BP|Synapsids|Normal|Land
+Mammoth|PE:Mammoth/Mammoth_Character_BP|Mammals|Normal|Land
+Manta|PE:Manta/Manta_Character_BP|Fish|Normal|Aquatic
+Megalania|PE:Megalania/Megalania_Character_BP|Reptiles|Normal|Land
+Megaloceros|PE:Stag/Stag_Character_BP|Mammals|Normal|Land
+Megalodon|PE:Megalodon/Megalodon_Character_BP|Fish|Normal|Aquatic
+Megalosaurus|PE:Megalosaurus/Megalosaurus_Character_BP|Dinosaurs|Normal|Land
+Meganeura|PE:Dragonfly/Dragonfly_Character_BP|Invertebrates|Normal|Flying
+Megapithecus|PE:Gorilla/Gorilla_Character_BP|Bosses|Boss|Land
+Megapithecus (Gamma)|PE:Gorilla/Gorilla_Character_BP_Easy|Bosses|Boss|Land
+Megapithecus (Beta)|PE:Gorilla/Gorilla_Character_BP_Medium|Bosses|Boss|Land
+Megapithecus (Alpha)|PE:Gorilla/Gorilla_Character_BP_Hard|Bosses|Boss|Land
+Megatherium|PE:Megatherium/Megatherium_Character_BP|Mammals|Normal|Land
+Mesopithecus|PE:Monkey/Monkey_Character_BP|Mammals|Normal|Land
+Microraptor|PE:Microraptor/Microraptor_Character_BP|Dinosaurs|Normal|Flying
+Mosasaurus|PE:Mosasaurus/Mosa_Character_BP|Reptiles|Normal|Aquatic
+Moschops|PE:Moschops/Moschops_Character_BP|Synapsids|Normal|Land
+Onyc|PE:Bat/Bat_Character_BP|Mammals|Normal|Flying
+Otter|PE:Otter/Otter_Character_BP|Mammals|Normal|Land
+Overseer|RAW:/Game/EndGame/Dinos/Endboss/EndBoss_Character|Bosses|Boss|Land
+Overseer (Gamma)|RAW:/Game/EndGame/Dinos/Endboss/EndBoss_Character_Easy|Bosses|Boss|Land
+Overseer (Beta)|RAW:/Game/EndGame/Dinos/Endboss/EndBoss_Character_Medium|Bosses|Boss|Land
+Overseer (Alpha)|RAW:/Game/EndGame/Dinos/Endboss/EndBoss_Character_Hard|Bosses|Boss|Land
+Oviraptor|PE:Oviraptor/Oviraptor_Character_BP|Dinosaurs|Normal|Land
+Ovis|PE:Sheep/Sheep_Character_BP|Mammals|Normal|Land
+Pachy|PE:Pachy/Pachy_Character_BP|Dinosaurs|Normal|Land
+Pachyrhinosaurus|PE:Pachyrhinosaurus/Pachyrhino_Character_BP|Dinosaurs|Normal|Land
+Paraceratherium|PE:Paraceratherium/Paracer_Character_BP|Mammals|Normal|Land
+Parasaur|PE:Para/Para_Character_BP|Dinosaurs|Normal|Land
+Pegomastax|PE:Pegomastax/Pegomastax_Character_BP|Dinosaurs|Normal|Land
+Pelagornis|PE:Pelagornis/Pela_Character_BP|Birds|Normal|Flying
+Phiomia|PE:Phiomia/Phiomia_Character_BP|Mammals|Normal|Land
+Piranha|PE:Piranha/Piranha_Character_BP|Fish|Normal|Aquatic
+Plesiosaur|PE:Plesiosaur/Plesiosaur_Character_BP|Reptiles|Normal|Aquatic
+Procoptodon|PE:Procoptodon/Procoptodon_Character_BP|Mammals|Normal|Land
+Pteranodon|PE:Ptero/Ptero_Character_BP|Dinosaurs|Normal|Flying
+Pulmonoscorpius|PE:Scorpion/Scorpion_Character_BP|Invertebrates|Normal|Land
+Purlovia|PE:Purlovia/Purlovia_Character_BP|Synapsids|Normal|Land
+Quetzal|PE:Quetzalcoatlus/Quetz_Character_BP|Reptiles|Normal|Flying
+Raptor|PE:Raptor/Raptor_Character_BP|Dinosaurs|Normal|Land
+Rex|PE:Rex/Rex_Character_BP|Dinosaurs|Normal|Land
+Rex Ghost|PE:Rex/Ghost_Rex_Character_BP|Event Creatures|Event|Land
+Rhyniognatha|PE:Rhyniognatha/Rhynio_Character_BP|Invertebrates|Normal|Flying
+Sabertooth|PE:Saber/Saber_Character_BP|Mammals|Normal|Land
+Sabertooth Salmon|PE:Salmon/Salmon_Character_BP|Fish|Normal|Aquatic
+Sarco|PE:Sarco/Sarco_Character_BP|Reptiles|Normal|Land
+Skeletal Bronto|PE:Sauropod/Bone_Sauropod_Character_BP|Event Creatures|Event|Land
+Skeletal Carnotaurus|PE:Carno/Bone_MegaCarno_Character_BP|Event Creatures|Event|Land
+Skeletal Giganotosaurus|PE:Giganotosaurus/Bone_Gigant_Character_BP|Event Creatures|Event|Land
+Skeletal Quetzal|PE:Quetzalcoatlus/Bone_Quetz_Character_BP|Event Creatures|Event|Flying
+Skeletal Raptor|PE:Raptor/Bone_MegaRaptor_Character_BP|Event Creatures|Event|Land
+Skeletal Rex|PE:Rex/Bone_MegaRex_Character_BP|Event Creatures|Event|Land
+Skeletal Stego|PE:Stego/Bone_Stego_Character_BP|Event Creatures|Event|Land
+Skeletal Trike|PE:Trike/Bone_Trike_Character_BP|Event Creatures|Event|Land
+Spino|PE:Spino/Spino_Character_BP|Dinosaurs|Normal|Land
+Stegosaurus|PE:Stego/Stego_Character_BP|Dinosaurs|Normal|Land
+Super Turkey|PE:Dodo/Turkey_Character_BP|Event Creatures|Event|Land
+Tapejara|PE:Tapejara/Tapejara_Character_BP|Reptiles|Normal|Flying
+Tek Giganotosaurus|PE:Giganotosaurus/BionicGigant_Character_BP|Tek Creatures|Tek|Land
+Tek Parasaur|PE:Para/BionicPara_Character_BP|Tek Creatures|Tek|Land
+Tek Quetzal|PE:Quetzalcoatlus/BionicQuetz_Character_BP|Tek Creatures|Tek|Flying
+Tek Raptor|PE:Raptor/BionicRaptor_Character_BP|Tek Creatures|Tek|Land
+Tek Rex|PE:Rex/BionicRex_Character_BP|Tek Creatures|Tek|Land
+Tek Stegosaurus|PE:Stego/BionicStego_Character_BP|Tek Creatures|Tek|Land
+Tek Triceratops|PE:Trike/BionicTrike_Character_BP|Tek Creatures|Tek|Land
+Terror Bird|PE:TerrorBird/TerrorBird_Character_BP|Birds|Normal|Land
+Therizinosaur|PE:Therizinosaurus/Therizino_Character_BP|Dinosaurs|Normal|Land
+Thylacoleo|PE:Thylacoleo/Thylacoleo_Character_BP|Mammals|Normal|Land
+Titanoboa|PE:BoaFrill/BoaFrill_Character_BP|Reptiles|Normal|Land
+Titanomyrma (Drone)|PE:Ant/Ant_Character_BP|Invertebrates|Normal|Land
+Titanomyrma (Soldier)|PE:Ant/FlyingAnt_Character_BP|Invertebrates|Normal|Flying
+Titanosaur|RAW:/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP|Dinosaurs|Normal|Land
+Triceratops|PE:Trike/Trike_Character_BP|Dinosaurs|Normal|Land
+Trilobite|PE:Trilobite/Trilobite_Character|Invertebrates|Normal|Aquatic
+Troodon|PE:Troodon/Troodon_Character_BP|Dinosaurs|Normal|Land
+Turkey|PE:Dodo/TurkeyBase_Character_BP|Event Creatures|Event|Land
+Tusoteuthis|PE:Tusoteuthis/Tusoteuthis_Character_BP|Invertebrates|Normal|Aquatic
+Unicorn|PE:Equus/Equus_Character_BP_Unicorn|Mammals|Normal|Land
+Woolly Rhino|PE:WoollyRhino/Rhino_Character_BP|Mammals|Normal|Land
+Yeti|PE:Bigfoot/Yeti_Character_BP|Mammals|Normal|Land
+Yutyrannus|PE:Yutyrannus/Yutyrannus_Character_BP|Dinosaurs|Normal|Land
+Zomdodo|PE:Dodo/ZombieDodo_Character_BP|Event Creatures|Event|Land

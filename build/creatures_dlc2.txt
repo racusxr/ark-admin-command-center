@@ -1,0 +1,169 @@
+> Extinction
+Alpha King Titan|EX:KingKaiju/KingKaiju_Character_BP_Alpha|Bosses|Boss|Land
+Beta King Titan|EX:KingKaiju/KingKaiju_Character_BP_Beta|Bosses|Boss|Land
+Gamma King Titan|EX:KingKaiju/KingKaiju_Character_BP|Bosses|Boss|Land
+Corrupted Arthropluera|EX:Corrupt/Arthropluera/Arthro_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Carnotaurus|EX:Corrupt/Carno/Carno_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Chalicotherium|EX:Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Dilophosaur|EX:Corrupt/Dilo/Dilo_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Dimorphodon|EX:Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Flying
+Corrupted Giganotosaurus|EX:Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Paraceratherium|EX:Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Pteranodon|EX:Corrupt/Ptero/Ptero_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Flying
+Corrupted Raptor|EX:Corrupt/Raptor/Raptor_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Reaper King|EX:Corrupt/Nameless/Xenomorph_Character_BP_Male_Tamed_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Rex|EX:Corrupt/Rex/Rex_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Rock Drake|EX:Corrupt/RockDrake/RockDrake_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Flying
+Corrupted Spino|EX:Corrupt/Spino/Spino_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Stegosaurus|EX:Corrupt/Stego/Stego_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Triceratops|EX:Corrupt/Trike/Trike_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Corrupted Wyvern|EX:Corrupt/Wyvern/Wyvern_Character_BP_Fire_Corrupt|Corrupted Creatures|Corrupted|Flying
+Defense Unit|EX:Tank/Defender_Character_BP|Mechanical Creatures|Normal|Land
+Desert Titan|EX:DesertKaiju/DesertKaiju_Character_BP|Bosses|Boss|Flying
+Desert Titan Flock|EX:DesertKaiju/DesertKaiju_FirstFlockChar_BP|Bosses|Boss|Flying
+Enforcer|EX:Enforcer/Enforcer_Character_BP|Mechanical Creatures|Normal|Land
+Enraged Corrupted Rex|EX:Corrupt/Rex/MegaRex_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Enraged Triceratops|EX:Corrupt/Trike/MegaTrike_Character_BP_Corrupt|Corrupted Creatures|Corrupted|Land
+Forest Titan|EX:ForestKaiju/ForestKaiju_Character_BP|Bosses|Boss|Land
+Forest Wyvern|EX:ForestKaiju/Minion/Wyvern_Character_BP_Fire_Minion|Fantasy Creatures|Normal|Flying
+Gacha|EX:Gacha/Gacha_Character_BP|Fantasy Creatures|Normal|Land
+GachaClaus|EX:Gacha/Gacha_Claus_Character_BP|Event Creatures|Event|Land
+Gasbags|EX:GasBag/GasBags_Character_BP|Fantasy Creatures|Normal|Land
+Ice Titan|EX:IceKaiju/IceKaiju_Character_BP|Bosses|Boss|Land
+Managarmr|EX:IceJumper/IceJumper_Character_BP|Fantasy Creatures|Normal|Flying
+Mega Mek|EX:Mek/MegaMek_Character_BP|Mechanical Creatures|Normal|Land
+Mek|EX:Mek/Mek_Character_BP|Mechanical Creatures|Normal|Land
+Scout|EX:Scout/Scout_Character_BP|Mechanical Creatures|Normal|Flying
+Snow Owl|EX:Owl/Owl_Character_BP|Birds|Normal|Flying
+Snow Owl Ghost|EX:Owl/Ghost_Owl_Character_BP|Event Creatures|Event|Flying
+Velonasaur|EX:Spindles/Spindles_Character_BP|Fantasy Creatures|Normal|Land
+> Genesis: Part 1
+Astrocetus|GEN:SpaceWhale/SpaceWhale_Character_BP|Fantasy Creatures|Normal|Flying
+Bloodstalker|GEN:BogSpider/BogSpider_Character_BP|Fantasy Creatures|Normal|Land
+Ferox|GEN:Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP|Fantasy Creatures|Normal|Land
+Ferox (Large)|GEN:Shapeshifter/Shapeshifter_Large/Shapeshifter_Large_Character_BP|Fantasy Creatures|Normal|Land
+Insect Swarm|GEN:Swarms/InsectSwarmChar_BP|Fantasy Creatures|Normal|Flying
+Magmasaur|GEN:Cherufe/Cherufe_Character_BP|Fantasy Creatures|Normal|Land
+Megachelon|GEN:GiantTurtle/GiantTurtle_Character_BP|Fantasy Creatures|Normal|Aquatic
+Parakeet Fish School|GEN:Swarms/MicrobeSwarmChar_BP|Fantasy Creatures|Normal|Aquatic
+Corrupted Master Controller (Gamma)|GEN:VRMainBoss/VRMainBoss_Character_Easy|Bosses|Boss|Land
+Corrupted Master Controller (Beta)|GEN:VRMainBoss/VRMainBoss_Character_Medium|Bosses|Boss|Land
+Corrupted Master Controller (Alpha)|GEN:VRMainBoss/VRMainBoss_Character_Hard|Bosses|Boss|Land
+Moeder (Gamma)|GEN:EelBoss/EelBoss_Character_BP_Easy|Bosses|Boss|Aquatic
+Moeder (Beta)|GEN:EelBoss/EelBoss_Character_BP_Medium|Bosses|Boss|Aquatic
+Moeder (Alpha)|GEN:EelBoss/EelBoss_Character_BP_Hard|Bosses|Boss|Aquatic
+Eel Minion|GEN:EelBoss/EelMinion_Character_BP_Easy|Fantasy Creatures|Normal|Aquatic
+Corrupted Avatar|GEN:Bots/Bot_Character_BP|Fantasy Creatures|Normal|Land
+X-Allosaurus|GEN:BiomeVariants/Volcano_Allosaurus/Volcano_Allo_Character_BP|X-Creatures|X|Land
+X-Ankylosaurus|GEN:BiomeVariants/Volcano_Ankylosaurus/Volcano_Ankylo_Character_BP|X-Creatures|X|Land
+X-Argentavis|GEN:BiomeVariants/Snow_Argentavis/Snow_Argent_Character_BP|X-Creatures|X|Flying
+X-Basilosaurus|GEN:BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP|X-Creatures|X|Aquatic
+X-Dunkleosteus|GEN:BiomeVariants/Ocean_Dunkleosteus/Ocean_Dunkle_Character_BP|X-Creatures|X|Aquatic
+X-Ichthyosaurus|GEN:BiomeVariants/Ocean_Dolphin/Ocean_Dolphin_Character_BP|X-Creatures|X|Aquatic
+X-Megalodon|GEN:BiomeVariants/Ocean_Megalodon/Ocean_Megalodon_Character_BP|X-Creatures|X|Aquatic
+X-Mosasaurus|GEN:BiomeVariants/Ocean_Mosasaurus/Ocean_Mosa_Character_BP|X-Creatures|X|Aquatic
+X-Otter|GEN:BiomeVariants/Snow_Otter/Snow_Otter_Character_BP|X-Creatures|X|Land
+X-Paraceratherium|GEN:BiomeVariants/BogParaceratherium/Bog_Paracer_Character_BP|X-Creatures|X|Land
+X-Parasaur|GEN:BiomeVariants/BogPara/Bog_Para_Character_BP|X-Creatures|X|Land
+X-Raptor|GEN:BiomeVariants/Bog_Raptor/Bog_Raptor_Character_BP|X-Creatures|X|Land
+X-Rex|GEN:BiomeVariants/Volcano_Rex/Volcano_Rex_Character_BP|X-Creatures|X|Land
+X-Rock Elemental|GEN:BiomeVariants/Lava_Golem/Volcano_Golem_Character_BP|X-Creatures|X|Land
+X-Sabertooth|GEN:BiomeVariants/Snow_Saber/Snow_Saber_Character_BP|X-Creatures|X|Land
+X-Sabertooth Salmon|GEN:BiomeVariants/Lunar_Salmon/Lunar_Salmon_Character_BP|X-Creatures|X|Aquatic
+X-Spino|GEN:BiomeVariants/Bog_Spino/Bog_Spino_Character_BP|X-Creatures|X|Land
+X-Tapejara|GEN:BiomeVariants/Bog_Tapejara/Bog_Tapejara_Character_BP|X-Creatures|X|Flying
+X-Triceratops|GEN:BiomeVariants/Volcano_Trike/Volcano_Trike_Character_BP|X-Creatures|X|Land
+X-Woolly Rhino|GEN:BiomeVariants/Snow_WoollyRhino/Snow_Rhino_Character_BP|X-Creatures|X|Land
+X-Yutyrannus|GEN:BiomeVariants/Snow_Yutyrannus/Snow_Yutyrannus_Character_BP|X-Creatures|X|Land
+Alpha X-Triceratops|GEN:MissionVariants/Retrieve/Volcanic/Volcano_Trike_Character_BP_Retrieve_Alpha|Alpha Creatures|Alpha|Land
+Golden Striped Megalodon|GEN:MissionVariants/Retrieve/Ocean/Ocean_Megalodon_Character_BP_Retrieve|X-Creatures|X|Aquatic
+Brute Araneo|GEN:MissionVariants/Hunt/Bog/SpiderS_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Astrocetus|GEN:MissionVariants/Hunt/Lunar/SpaceWhale_Character_BP_Brute|Brute Creatures|Brute|Flying
+Brute Basilosaurus|GEN:MissionVariants/Hunt/Ocean/Basilosaurus_Character_BP_Hunt|Brute Creatures|Brute|Aquatic
+Brute Bloodstalker|GEN:MissionVariants/Hunt/Bog/BogSpider_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Ferox|GEN:MissionVariants/Hunt/Arctic/Shapeshifter_Large_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Fire Wyvern|GEN:MissionVariants/Gauntlet/Volcanic/Wyvern_Character_BP_Fire_GauntletBoss|Brute Creatures|Brute|Flying
+Brute Leedsichthys|GEN:MissionVariants/Hunt/Ocean/Leedsichthys_Character_BP_Hunt|Brute Creatures|Brute|Aquatic
+Brute Magmasaur|GEN:MissionVariants/Hunt/Volcanic/Cherufe_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Mammoth|GEN:MissionVariants/Hunt/Arctic/Mammoth_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Megaloceros|GEN:MissionVariants/Hunt/Arctic/Stag_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Plesiosaur|GEN:MissionVariants/Hunt/Ocean/Plesiosaur_Character_BP_Hunt|Brute Creatures|Brute|Aquatic
+Brute Sarco|GEN:MissionVariants/Hunt/Bog/Sarco_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute Tusoteuthis|GEN:MissionVariants/Hunt/Ocean/Tusoteuthis_Character_BP_Hunt|Brute Creatures|Brute|Aquatic
+Brute X-Allosaurus|GEN:MissionVariants/Hunt/Volcanic/Volcano_Allo_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute X-Megalodon|GEN:MissionVariants/Hunt/Ocean/Ocean_Megalodon_Character_BP_Hunt|Brute Creatures|Brute|Aquatic
+Brute X-Mosasaurus|GEN:MissionVariants/Hunt/Ocean/Ocean_Mosa_Character_BP_Hunt|Brute Creatures|Brute|Aquatic
+Brute X-Raptor|GEN:MissionVariants/Hunt/Bog/Bog_Raptor_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute X-Rex|GEN:MissionVariants/Hunt/Volcanic/Volcano_Rex_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute X-Rock Elemental|GEN:MissionVariants/Hunt/Volcanic/Volcano_Golem_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute X-Spino|GEN:MissionVariants/Hunt/Bog/Bog_Spino_Character_BP_Hunt|Brute Creatures|Brute|Land
+Brute X-Yutyrannus|GEN:MissionVariants/Hunt/Arctic/Snow_Yutyrannus_Character_BP_Hunt|Brute Creatures|Brute|Land
+Malfunctioned Tek Giganotosaurus|PE:Giganotosaurus/BionicGigant_Character_BP_Malfunctioned|Tek Creatures|Tek|Land
+Malfunctioned Tek Parasaur|PE:Para/BionicPara_Character_BP_Malfunctioned|Tek Creatures|Tek|Land
+Malfunctioned Tek Quetzal|PE:Quetzalcoatlus/BionicQuetz_Character_BP_Malfunctioned|Tek Creatures|Tek|Flying
+Malfunctioned Tek Raptor|PE:Raptor/BionicRaptor_Character_BP_Malfunctioned|Tek Creatures|Tek|Land
+Malfunctioned Tek Rex|PE:Rex/BionicRex_Character_BP_Malfunctioned|Tek Creatures|Tek|Land
+Malfunctioned Tek Stegosaurus|PE:Stego/BionicStego_Character_BP_Malfunctioned|Tek Creatures|Tek|Land
+Malfunctioned Tek Triceratops|PE:Trike/BionicTrike_Character_BP_Malfunctioned|Tek Creatures|Tek|Land
+> Genesis: Part 2
+Astrodelphis|GEN2:SpaceDolphin/SpaceDolphin_Character_BP|Fantasy Creatures|Normal|Flying
+Exo-Mek|GEN2:Exosuit/Exosuit_Character_BP|Mechanical Creatures|Normal|Land
+Macrophage|GEN2:Macrophage/Macrophage_Swarm_Character|Fantasy Creatures|Normal|Flying
+Maewing|GEN2:MilkGlider/MilkGlider_Character_BP|Fantasy Creatures|Normal|Flying
+Noglin|GEN2:BrainSlug/BrainSlug_Character_BP|Fantasy Creatures|Normal|Land
+Shadowmane|GEN2:LionfishLion/LionfishLion_Character_BP|Fantasy Creatures|Normal|Land
+Summoner|GEN2:Summoner/Summoner_Character_BP|Fantasy Creatures|Normal|Land
+Tek Stryder|GEN2:TekStrider/TekStrider_Character_BP|Mechanical Creatures|Tek|Land
+Voidwyrm|GEN2:TekWyvern/TekWyvern_Character_BP|Mechanical Creatures|Tek|Flying
+R-Allosaurus|GEN2:BiomeVariants/Allo_Character_BP_Rockwell|R-Creatures|R|Land
+R-Brontosaurus|GEN2:BiomeVariants/Sauropod_Character_BP_Rockwell|R-Creatures|R|Land
+R-Carbonemys|GEN2:BiomeVariants/Turtle_Character_BP_Rockwell|R-Creatures|R|Land
+R-Carnotaurus|GEN2:BiomeVariants/Carno_Character_BP_Rockwell|R-Creatures|R|Land
+R-Daeodon|GEN2:BiomeVariants/Daeodon_Character_BP_Eden|R-Creatures|R|Land
+R-Dilophosaur|GEN2:BiomeVariants/Dilo_Character_BP_Rockwell|R-Creatures|R|Land
+R-Dire Bear|GEN2:BiomeVariants/Direbear_Character_BP_Rockwell|R-Creatures|R|Land
+R-Direwolf|GEN2:BiomeVariants/Direwolf_Character_BP_Eden|R-Creatures|R|Land
+R-Equus|GEN2:BiomeVariants/Equus_Character_BP_Eden|R-Creatures|R|Land
+R-Gasbags|GEN2:BiomeVariants/GasBags_Character_BP_Eden|R-Creatures|R|Land
+R-Giganotosaurus|GEN2:BiomeVariants/Gigant_Character_BP_Rockwell|R-Creatures|R|Land
+R-Megatherium|GEN2:BiomeVariants/Megatherium_Character_BP_Eden|R-Creatures|R|Land
+R-Parasaur|GEN2:BiomeVariants/Para_Character_BP_Eden|R-Creatures|R|Land
+R-Procoptodon|GEN2:BiomeVariants/Procoptodon_Character_BP_Eden|R-Creatures|R|Land
+R-Quetzal|GEN2:BiomeVariants/Quetz_Character_BP_Rockwell|R-Creatures|R|Flying
+R-Reaper King|GEN2:BiomeVariants/Xenomorph_Character_BP_Male_Gen2|R-Creatures|R|Land
+R-Reaper King (Tamed)|GEN2:BiomeVariants/Xenomorph_Character_BP_Male_Tamed_Gen2|R-Creatures|R|Land
+R-Reaper Queen|GEN2:BiomeVariants/Xenomorph_Character_BP_Female_Gen2|R-Creatures|R|Land
+R-Snow Owl|GEN2:BiomeVariants/Owl_Character_BP_Eden|R-Creatures|R|Flying
+R-Thylacoleo|GEN2:BiomeVariants/Thylacoleo_Character_BP_Eden|R-Creatures|R|Land
+R-Velonasaur|GEN2:BiomeVariants/Spindles_Character_BP_Rockwell|R-Creatures|R|Land
+Rockwell Prime|RAW:/Game/Genesis2/Missions/ModularMission/FinalBattleAlt/Dinos/RockwellNode_Character_BP_Boss#RockwellNode_Character_BP_Boss_C|Bosses|Boss|Land
+Rockwell Node|RAW:/Game/Genesis2/Missions/ModularMission/FinalBattleAlt/Dinos/RockwellNode_Character_BP_FinalFight|Bosses|Boss|Land
+> Crystal Isles
+Alpha Blood Crystal Wyvern|PE:CrystalWyvern/CrystalWyvern_Character_BP_Mega|Alpha Creatures|Alpha|Flying
+Blood Crystal Wyvern|PE:CrystalWyvern/CrystalWyvern_Character_BP_Blood|Fantasy Creatures|Normal|Flying
+Ember Crystal Wyvern|PE:CrystalWyvern/CrystalWyvern_Character_BP_Ember|Fantasy Creatures|Normal|Flying
+Tropical Crystal Wyvern|PE:CrystalWyvern/CrystalWyvern_Character_BP_WS|Fantasy Creatures|Normal|Flying
+Crystal Wyvern Queen (Gamma)|RAW:/Game/Mods/CrystalIsles/Assets/Dinos/CIBoss/CrystalWyvern_Character_BP_Boss_Easy|Bosses|Boss|Flying
+Crystal Wyvern Queen (Beta)|RAW:/Game/Mods/CrystalIsles/Assets/Dinos/CIBoss/CrystalWyvern_Character_BP_Boss_Medium|Bosses|Boss|Flying
+Crystal Wyvern Queen (Alpha)|RAW:/Game/Mods/CrystalIsles/Assets/Dinos/CIBoss/CrystalWyvern_Character_BP_Boss_Hard|Bosses|Boss|Flying
+Giant Worker Bee|RAW:/Game/Mods/CrystalIsles/Assets/Dinos/HoneyBee/HoneyBee_Character_BP|Invertebrates|Normal|Flying
+Tropeognathus|PE:Tropeognathus/Tropeognathus_Character_BP|Reptiles|Normal|Flying
+> Lost Island
+Amargasaurus|LI:Amargasaurus/Amargasaurus_Character_BP|Dinosaurs|Normal|Land
+Dinopithecus|LI:Dinopithecus/Dinopithecus_Character_BP|Mammals|Normal|Land
+Dinopithecus King (Gamma)|RAW:/Game/LostIsland/Boss/BossDinopithecus_Character_BP_Easy|Bosses|Boss|Land
+Dinopithecus King (Beta)|RAW:/Game/LostIsland/Boss/BossDinopithecus_Character_BP_Medium|Bosses|Boss|Land
+Dinopithecus King (Alpha)|RAW:/Game/LostIsland/Boss/BossDinopithecus_Character_BP_Hard|Bosses|Boss|Land
+Sinomacrops|LI:Sinomacrops/Sinomacrops_Character_BP|Reptiles|Normal|Flying
+> Fjordur
+Andrewsarchus|FJ:Andrewsarchus/Andrewsarchus_Character_BP|Mammals|Normal|Land
+Desmodus|FJ:Desmodus/Desmodus_Character_BP|Mammals|Normal|Flying
+Fenrir|FJ:Fenrir/Fenrir_Character_BP|Fantasy Creatures|Normal|Land
+Fjordhawk|FJ:Fjordhawk/Fjordhawk_Character_BP|Birds|Normal|Flying
+> Ragnarok
+Griffin|PE:Griffin/Griffin_Character_BP|Fantasy Creatures|Normal|Flying
+Ice Wyvern|RAW:/Game/Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice|Fantasy Creatures|Normal|Flying
+> Valguero
+Chalk Golem|RAW:/Game/Mods/Valguero/Assets/Dinos/RockGolem/ChalkGolem/ChalkGolem_Character_BP|Fantasy Creatures|Normal|Land
+Deinonychus|RAW:/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP|Dinosaurs|Normal|Land
+Ice Golem|PE:IceGolem/IceGolem_Character_BP|Fantasy Creatures|Normal|Land

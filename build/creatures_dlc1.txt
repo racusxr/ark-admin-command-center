@@ -1,0 +1,103 @@
+> Scorched Earth
+Alpha Deathworm|SE:Deathworm/MegaDeathworm_Character_BP|Invertebrates|Alpha|Land
+Alpha Fire Wyvern|SE:Wyvern/MegaWyvern_Character_BP_Fire|Alpha Creatures|Alpha|Flying
+Bone Fire Wyvern|SE:Wyvern/Bone_MegaWyvern_Character_BP_Fire|Event Creatures|Event|Flying
+Deathworm|FULL:/Game/ScorchedEarth/Dinos/DeathWorm/DeathWorm_Character_BP.DeathWorm_Character_BP#Deathworm_Character_BP_C|Invertebrates|Normal|Land
+Dodo Wyvern|SE:DodoWyvern/DodoWyvern_Character_BP|Event Creatures|Event|Flying
+Fire Wyvern|SE:Wyvern/Wyvern_Character_BP_Fire|Fantasy Creatures|Normal|Flying
+Jerboa|SE:Jerboa/Jerboa_Character_BP|Mammals|Normal|Land
+Jug Bug|FULL:/Game/ScorchedEarth/Dinos/Jugbug/JugBug_Character_BaseBP.JugBug_Character_BaseBP#Jugbug_Character_BaseBP_C|Invertebrates|Normal|Land
+Lightning Wyvern|SE:Wyvern/Wyvern_Character_BP_Lightning|Fantasy Creatures|Normal|Flying
+Lymantria|SE:Moth/Moth_Character_BP|Invertebrates|Normal|Flying
+Manticore (Gamma)|SE:Manticore/Manticore_Character_BP_Easy|Bosses|Boss|Flying
+Manticore (Beta)|SE:Manticore/Manticore_Character_BP_Medium|Bosses|Boss|Flying
+Manticore (Alpha)|SE:Manticore/Manticore_Character_BP_Hard|Bosses|Boss|Flying
+Mantis|SE:Mantis/Mantis_Character_BP|Invertebrates|Normal|Land
+Mantis Ghost|SE:Mantis/Ghost_Mantis_Character_BP|Event Creatures|Event|Land
+Morellatops|SE:Camelsaurus/camelsaurus_Character_BP|Dinosaurs|Normal|Land
+Oil Jug Bug|SE:Jugbug/Jugbug_Oil_Character_BP|Invertebrates|Normal|Land
+Phoenix|SE:Phoenix/Phoenix_Character_BP|Fantasy Creatures|Normal|Flying
+Poison Wyvern|SE:Wyvern/Wyvern_Character_BP_Poison|Fantasy Creatures|Normal|Flying
+Rock Elemental|SE:RockGolem/RockGolem_Character_BP|Fantasy Creatures|Normal|Land
+Rubble Golem|SE:RockGolem/RubbleGolem_Character_BP|Fantasy Creatures|Normal|Land
+Skeletal Jerboa|SE:Jerboa/Bone_Jerboa_Character_BP|Event Creatures|Event|Land
+Thorny Dragon|SE:SpineyLizard/SpineyLizard_Character_BP|Reptiles|Normal|Land
+Vulture|SE:Vulture/Vulture_Character_BP|Birds|Normal|Flying
+Water Jug Bug|SE:Jugbug/Jugbug_Water_Character_BP|Invertebrates|Normal|Land
+Wyvern (Base)|SE:Wyvern/Wyvern_Character_BP_Base|Fantasy Creatures|Normal|Flying
+Zombie Fire Wyvern|SE:Wyvern/Wyvern_Character_BP_ZombieFire|Event Creatures|Event|Flying
+Zombie Lightning Wyvern|SE:Wyvern/Wyvern_Character_BP_ZombieLightning|Event Creatures|Event|Flying
+Zombie Poison Wyvern|SE:Wyvern/Wyvern_Character_BP_ZombiePoison|Event Creatures|Event|Flying
+> Aberration
+Aberrant Achatina|PE:Achatina/Achatina_Character_BP_Aberrant|Invertebrates|Aberrant|Land
+Aberrant Anglerfish|PE:Anglerfish/Angler_Character_BP_Aberrant|Fish|Aberrant|Aquatic
+Aberrant Ankylosaurus|PE:Ankylo/Ankylo_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Araneo|PE:Spider-Small/SpiderS_Character_BP_Aberrant|Invertebrates|Aberrant|Land
+Aberrant Arthropluera|PE:Arthropluera/Arthro_Character_BP_Aberrant|Invertebrates|Aberrant|Land
+Aberrant Baryonyx|PE:Baryonyx/Baryonyx_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Beelzebufo|PE:Toad/Toad_Character_BP_Aberrant|Reptiles|Aberrant|Land
+Aberrant Carbonemys|PE:Turtle/Turtle_Character_BP_Aberrant|Reptiles|Aberrant|Land
+Aberrant Carnotaurus|PE:Carno/Carno_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Cnidaria|PE:Cnidaria/Cnidaria_Character_BP_Aberrant|Invertebrates|Aberrant|Aquatic
+Aberrant Coelacanth|PE:Coelacanth/Coel_Character_BP_Aberrant|Fish|Aberrant|Aquatic
+Aberrant Dimetrodon|PE:Dimetrodon/Dimetro_Character_BP_Aberrant|Synapsids|Aberrant|Land
+Aberrant Dimorphodon|PE:Dimorphodon/Dimorph_Character_BP_Aberrant|Dinosaurs|Aberrant|Flying
+Aberrant Diplocaulus|PE:Diplocaulus/Diplocaulus_Character_BP_Aberrant|Amphibians|Aberrant|Aquatic
+Aberrant Diplodocus|PE:Diplodocus/Diplodocus_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Dire Bear|PE:Direbear/Direbear_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Dodo|PE:Dodo/Dodo_Character_BP_Aberrant|Birds|Aberrant|Land
+Aberrant Doedicurus|PE:Doedicurus/Doed_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Dung Beetle|PE:DungBeetle/DungBeetle_Character_BP_Aberrant|Invertebrates|Aberrant|Land
+Aberrant Electrophorus|PE:Eel/Eel_Character_BP_Aberrant|Fish|Aberrant|Aquatic
+Aberrant Equus|PE:Equus/Equus_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Gigantopithecus|PE:Bigfoot/Bigfoot_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Iguanodon|PE:Iguanodon/Iguanodon_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Lystrosaurus|PE:Lystrosaurus/Lystro_Character_BP_Aberrant|Synapsids|Aberrant|Land
+Aberrant Manta|PE:Manta/Manta_Character_BP_Aberrant|Fish|Aberrant|Aquatic
+Aberrant Megalania|PE:Megalania/Megalania_Character_BP_Aberrant|Reptiles|Aberrant|Land
+Aberrant Megalosaurus|PE:Megalosaurus/Megalosaurus_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Meganeura|PE:Dragonfly/Dragonfly_Character_BP_Aberrant|Invertebrates|Aberrant|Flying
+Aberrant Moschops|PE:Moschops/Moschops_Character_BP_Aberrant|Synapsids|Aberrant|Land
+Aberrant Otter|PE:Otter/Otter_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Ovis|PE:Sheep/Sheep_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Paraceratherium|PE:Paraceratherium/Paracer_Character_BP_Aberrant|Mammals|Aberrant|Land
+Aberrant Parasaur|PE:Para/Para_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Piranha|PE:Piranha/Piranha_Character_BP_Aberrant|Fish|Aberrant|Aquatic
+Aberrant Pulmonoscorpius|PE:Scorpion/Scorpion_Character_BP_Aberrant|Invertebrates|Aberrant|Land
+Aberrant Purlovia|PE:Purlovia/Purlovia_Character_BP_Aberrant|Synapsids|Aberrant|Land
+Aberrant Raptor|PE:Raptor/Raptor_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Sabertooth Salmon|PE:Salmon/Salmon_Character_Aberrant|Fish|Aberrant|Aquatic
+Aberrant Sarco|PE:Sarco/Sarco_Character_BP_Aberrant|Reptiles|Aberrant|Land
+Aberrant Spino|PE:Spino/Spino_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Stegosaurus|PE:Stego/Stego_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Titanoboa|PE:BoaFrill/BoaFrill_Character_BP_Aberrant|Reptiles|Aberrant|Land
+Aberrant Triceratops|PE:Trike/Trike_Character_BP_Aberrant|Dinosaurs|Aberrant|Land
+Aberrant Trilobite|PE:Trilobite/Trilobite_Character_Aberrant|Invertebrates|Aberrant|Aquatic
+Alpha Basilisk|AB:Basilisk/MegaBasilisk_Character_BP|Alpha Creatures|Alpha|Land
+Alpha Karkinos|AB:Crab/MegaCrab_Character_BP|Alpha Creatures|Alpha|Land
+Alpha Surface Reaper King|AB:Nameless/MegaXenomorph_Character_BP_Male_Surface|Alpha Creatures|Alpha|Land
+Basilisk|AB:Basilisk/Basilisk_Character_BP|Fantasy Creatures|Normal|Land
+Basilisk Ghost|AB:Basilisk/Ghost_Basilisk_Character_BP|Event Creatures|Event|Land
+Bulbdog|AB:LanternPug/LanternPug_Character_BP|Fantasy Creatures|Normal|Land
+Bulbdog Ghost|AB:LanternPug/Ghost_LanternPug_Character_BP|Event Creatures|Event|Land
+Featherlight|AB:LanternBird/LanternBird_Character_BP|Fantasy Creatures|Normal|Flying
+Glowbug|AB:Lightbug/Lightbug_Character_BaseBP|Fantasy Creatures|Normal|Flying
+Glowtail|AB:LanternLizard/LanternLizard_Character_BP|Fantasy Creatures|Normal|Land
+Karkinos|AB:Crab/Crab_Character_BP|Fantasy Creatures|Normal|Land
+Lamprey|AB:Lamprey/Lamprey_Character|Fish|Normal|Aquatic
+Nameless|AB:ChupaCabra/ChupaCabra_Character_BP|Fantasy Creatures|Normal|Land
+Ravager|AB:CaveWolf/CaveWolf_Character_BP|Fantasy Creatures|Normal|Land
+Reaper King|AB:Nameless/Xenomorph_Character_BP_Male|Fantasy Creatures|Normal|Land
+Reaper King (Tamed)|AB:Nameless/Xenomorph_Character_BP_Male_Tamed|Fantasy Creatures|Normal|Land
+Reaper Prince|AB:Nameless/Xenomorph_Character_BP_Male_InitialBuryOnly_Adolescent|Fantasy Creatures|Normal|Land
+Reaper Queen|AB:Nameless/Xenomorph_Character_BP_Female|Fantasy Creatures|Normal|Land
+Rock Drake|AB:RockDrake/RockDrake_Character_BP|Fantasy Creatures|Normal|Flying
+Rockwell|RAW:/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP|Bosses|Boss|Land
+Rockwell (Gamma)|RAW:/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Easy|Bosses|Boss|Land
+Rockwell (Beta)|RAW:/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Medium|Bosses|Boss|Land
+Rockwell (Alpha)|RAW:/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Hard|Bosses|Boss|Land
+Rockwell Tentacle|RAW:/Game/Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP|Bosses|Boss|Land
+Roll Rat|AB:MoleRat/MoleRat_Character_BP|Fantasy Creatures|Normal|Land
+Seeker|AB:Pteroteuthis/Pteroteuthis_Char_BP|Fantasy Creatures|Normal|Flying
+Shinehorn|AB:LanternGoat/LanternGoat_Character_BP|Fantasy Creatures|Normal|Land
+Surface Reaper King Ghost|AB:Nameless/Ghost_Xenomorph_Character_BP_Male_Surface|Event Creatures|Event|Land

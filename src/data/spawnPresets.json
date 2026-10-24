@@ -1,0 +1,710 @@
+{
+  "_doc": {
+    "statOrder": [
+      "Health",
+      "Stamina",
+      "Oxygen",
+      "Food",
+      "Weight",
+      "Melee Damage",
+      "Movement Speed",
+      "Crafting Skill"
+    ],
+    "notes": [
+      "SpawnExactDino espera BaseStats y AddedStats como 8 valores separados por coma en el orden de statOrder.",
+      "El wiki de ARK indica que BaseLevel debe ser la suma de BaseStats + 1 y ExtraLevels la suma de AddedStats; si no coincide, las stats de la criatura pueden quedar rotas.",
+      "Por eso cada preset 'Flex N' reparte N puntos en los 7 primeros stats (Crafting Skill no se usa en criaturas salvajes) y el nivel resultante es N*7+1.",
+      "Para agregar presets nuevos basta con anadir objetos a levelPresets o colorPresets: la interfaz los lee de este archivo.",
+      "Un preset con 'stats' (8 valores en el orden de statOrder) usa esos valores por stat en vez de statPoints; el nivel resultante sigue siendo la suma + 1.",
+      "En colorPresets, los presets se aplican solo a las regiones que el usuario tenga seleccionadas, asi que se pueden combinar varios presets en una misma criatura."
+    ]
+  },
+  "levelPresets": [
+    {
+      "id": "flex-254",
+      "label": "Flex 254",
+      "statPoints": 254,
+      "statSlots": 7,
+      "description": "254 puntos en cada stat salvaje (7 stats) -> nivel 1779"
+    },
+    {
+      "id": "flex-200",
+      "label": "Flex 200",
+      "statPoints": 200,
+      "statSlots": 7,
+      "description": "200 puntos en cada stat salvaje (7 stats) -> nivel 1401"
+    },
+    {
+      "id": "flex-100",
+      "label": "Flex 100",
+      "statPoints": 100,
+      "statSlots": 7,
+      "description": "100 puntos en cada stat salvaje (7 stats) -> nivel 701"
+    },
+    {
+      "id": "single-capped",
+      "label": "Single Capped",
+      "statPoints": null,
+      "statSlots": 7,
+      "stats": [
+        254,
+        100,
+        100,
+        100,
+        100,
+        145,
+        100,
+        0
+      ],
+      "description": "Stats 254,100,100,100,100,145,100,0 -> nivel 900"
+    },
+    {
+      "id": "double-capped",
+      "label": "Double Capped",
+      "statPoints": null,
+      "statSlots": 7,
+      "stats": [
+        254,
+        200,
+        200,
+        200,
+        200,
+        254,
+        200,
+        0
+      ],
+      "description": "Stats 254,200,200,200,200,254,200,0 -> nivel 1509"
+    },
+    {
+      "id": "custom",
+      "label": "Custom",
+      "statPoints": null,
+      "statSlots": 7,
+      "description": "Nivel y puntos de stats totalmente manuales"
+    }
+  ],
+  "colorPresets": [
+    {
+      "id": "default",
+      "label": "Default",
+      "colors": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "description": "Todas las regiones en 0: la criatura conserva sus colores aleatorios",
+      "group": "solid"
+    },
+    {
+      "id": "all-black",
+      "label": "All Black",
+      "colors": [
+        14,
+        14,
+        14,
+        14,
+        14,
+        14
+      ],
+      "description": "Color 14 (Black) en las 6 regiones",
+      "group": "solid"
+    },
+    {
+      "id": "all-white",
+      "label": "All White",
+      "colors": [
+        18,
+        18,
+        18,
+        18,
+        18,
+        18
+      ],
+      "description": "Color 18 (White) en las 6 regiones",
+      "group": "solid"
+    },
+    {
+      "id": "rainbow",
+      "label": "Rainbow",
+      "colors": [
+        1,
+        75,
+        4,
+        3,
+        2,
+        6
+      ],
+      "description": "Red, Orange, Yellow, Green, Blue, Magenta (IDs reales 1/75/4/3/2/6)",
+      "group": "theme"
+    },
+    {
+      "id": "all-red",
+      "label": "All Red",
+      "colors": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 1,1,1,1,1,1 (1 Red)"
+    },
+    {
+      "id": "all-blue",
+      "label": "All Blue",
+      "colors": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 2,2,2,2,2,2 (2 Blue)"
+    },
+    {
+      "id": "all-green",
+      "label": "All Green",
+      "colors": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 3,3,3,3,3,3 (3 Green)"
+    },
+    {
+      "id": "all-yellow",
+      "label": "All Yellow",
+      "colors": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 4,4,4,4,4,4 (4 Yellow)"
+    },
+    {
+      "id": "all-cyan",
+      "label": "All Cyan",
+      "colors": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 5,5,5,5,5,5 (5 Cyan)"
+    },
+    {
+      "id": "all-magenta",
+      "label": "All Magenta",
+      "colors": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 6,6,6,6,6,6 (6 Magenta)"
+    },
+    {
+      "id": "all-orange",
+      "label": "All Orange",
+      "colors": [
+        75,
+        75,
+        75,
+        75,
+        75,
+        75
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 75,75,75,75,75,75 (75 Orange)"
+    },
+    {
+      "id": "all-pink",
+      "label": "All Pink",
+      "colors": [
+        68,
+        68,
+        68,
+        68,
+        68,
+        68
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 68,68,68,68,68,68 (68 DeepPink)"
+    },
+    {
+      "id": "all-violet",
+      "label": "All Violet",
+      "colors": [
+        69,
+        69,
+        69,
+        69,
+        69,
+        69
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 69,69,69,69,69,69 (69 DarkViolet)"
+    },
+    {
+      "id": "all-brown",
+      "label": "All Brown",
+      "colors": [
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 15,15,15,15,15,15 (15 Brown)"
+    },
+    {
+      "id": "all-grey",
+      "label": "All Grey",
+      "colors": [
+        13,
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 13,13,13,13,13,13 (13 Dark Grey)"
+    },
+    {
+      "id": "all-teal",
+      "label": "All Teal",
+      "colors": [
+        94,
+        94,
+        94,
+        94,
+        94,
+        94
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 94,94,94,94,94,94 (94 Teal)"
+    },
+    {
+      "id": "all-lime",
+      "label": "All Lime",
+      "colors": [
+        83,
+        83,
+        83,
+        83,
+        83,
+        83
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 83,83,83,83,83,83 (83 LemonLime)"
+    },
+    {
+      "id": "all-albino",
+      "label": "All Albino",
+      "colors": [
+        36,
+        36,
+        36,
+        36,
+        36,
+        36
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 36,36,36,36,36,36 (36 Dino Albino)"
+    },
+    {
+      "id": "all-darkred",
+      "label": "All Dark Red",
+      "colors": [
+        17,
+        17,
+        17,
+        17,
+        17,
+        17
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 17,17,17,17,17,17 (17 Dark Red)"
+    },
+    {
+      "id": "all-midnight",
+      "label": "All Midnight",
+      "colors": [
+        80,
+        80,
+        80,
+        80,
+        80,
+        80
+      ],
+      "group": "solid",
+      "description": "Regiones 0-5: 80,80,80,80,80,80 (80 MidnightBlue)"
+    },
+    {
+      "id": "fire",
+      "label": "Fire",
+      "colors": [
+        73,
+        75,
+        4,
+        72,
+        17,
+        44
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 73,75,4,72,17,44 (73 Vermillion · 75 Orange · 4 Yellow · 72 MediumAutumn · 17 Dark Red · 44 DragonFire)"
+    },
+    {
+      "id": "lava",
+      "label": "Lava",
+      "colors": [
+        79,
+        17,
+        73,
+        44,
+        75,
+        4
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 79,17,73,44,75,4 (79 ActualBlack · 17 Dark Red · 73 Vermillion · 44 DragonFire · 75 Orange · 4 Yellow)"
+    },
+    {
+      "id": "ocean",
+      "label": "Ocean",
+      "colors": [
+        2,
+        94,
+        5,
+        96,
+        81,
+        59
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 2,94,5,96,81,59 (2 Blue · 94 Teal · 5 Cyan · 96 Glacial · 81 DarkBlue · 59 Turquoise)"
+    },
+    {
+      "id": "forest",
+      "label": "Forest",
+      "colors": [
+        16,
+        88,
+        85,
+        86,
+        61,
+        98
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 16,88,85,86,61,98 (16 Dark Green · 88 LeafGreen · 85 Jade · 86 PineGreen · 61 Sage · 98 DryMoss)"
+    },
+    {
+      "id": "night",
+      "label": "Night",
+      "colors": [
+        79,
+        80,
+        82,
+        89,
+        29,
+        56
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 79,80,82,89,29,56 (79 ActualBlack · 80 MidnightBlue · 82 BlackSands · 89 DarkLavender · 29 Dino Dark Blue · 56 NearBlack)"
+    },
+    {
+      "id": "pastel",
+      "label": "Pastel",
+      "colors": [
+        96,
+        7,
+        67,
+        10,
+        11,
+        95
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 96,7,67,10,11,95 (96 Glacial · 7 Light Green · 67 LightPink · 10 Light Orange · 11 Light Yellow · 95 PowderBlue)"
+    },
+    {
+      "id": "toxic",
+      "label": "Toxic",
+      "colors": [
+        83,
+        84,
+        3,
+        45,
+        88,
+        79
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 83,84,3,45,88,79 (83 LemonLime · 84 Mint · 3 Green · 45 DragonGreen0 · 88 LeafGreen · 79 ActualBlack)"
+    },
+    {
+      "id": "royal",
+      "label": "Royal",
+      "colors": [
+        90,
+        89,
+        69,
+        31,
+        49,
+        50
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 90,89,69,31,49,50 (90 MediumLavender · 89 DarkLavender · 69 DarkViolet · 31 Dino Dark Purple · 49 WyvernPurple0 · 50 WyvernPurple1)"
+    },
+    {
+      "id": "desert",
+      "label": "Desert",
+      "colors": [
+        76,
+        77,
+        99,
+        100,
+        33,
+        32
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 76,77,99,100,33,32 (76 Peach · 77 LightAutumn · 99 Custard · 100 Cream · 33 Dino Medium Brown · 32 Dino Light Brown)"
+    },
+    {
+      "id": "ice",
+      "label": "Ice",
+      "colors": [
+        96,
+        28,
+        95,
+        55,
+        18,
+        51
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 96,28,95,55,18,51 (96 Glacial · 28 Dino Light Blue · 95 PowderBlue · 55 NearWhite · 18 White · 51 WyvernBlue0)"
+    },
+    {
+      "id": "sunset",
+      "label": "Sunset",
+      "colors": [
+        68,
+        74,
+        75,
+        76,
+        70,
+        89
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 68,74,75,76,70,89 (68 DeepPink · 74 Coral · 75 Orange · 76 Peach · 70 DarkMagenta · 89 DarkLavender)"
+    },
+    {
+      "id": "cotton-candy",
+      "label": "Cotton Candy",
+      "colors": [
+        67,
+        96,
+        68,
+        95,
+        91,
+        12
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 67,96,68,95,91,12 (67 LightPink · 96 Glacial · 68 DeepPink · 95 PowderBlue · 91 Lavender · 12 Light Red)"
+    },
+    {
+      "id": "earth",
+      "label": "Earth",
+      "colors": [
+        15,
+        34,
+        71,
+        98,
+        61,
+        41
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 15,34,71,98,61,41 (15 Brown · 34 Dino Dark Brown · 71 BurntSienna · 98 DryMoss · 61 Sage · 41 DarkWolfFur)"
+    },
+    {
+      "id": "blood",
+      "label": "Blood",
+      "colors": [
+        17,
+        20,
+        70,
+        71,
+        79,
+        1
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 17,20,70,71,79,1 (17 Dark Red · 20 Dino Dark Red · 70 DarkMagenta · 71 BurntSienna · 79 ActualBlack · 1 Red)"
+    },
+    {
+      "id": "gold",
+      "label": "Gold",
+      "colors": [
+        76,
+        77,
+        4,
+        99,
+        78,
+        22
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 76,77,4,99,78,22 (76 Peach · 77 LightAutumn · 4 Yellow · 99 Custard · 78 Mustard · 22 Dino Dark Orange)"
+    },
+    {
+      "id": "greyscale",
+      "label": "Greyscale",
+      "colors": [
+        18,
+        8,
+        64,
+        13,
+        63,
+        14
+      ],
+      "group": "theme",
+      "description": "Regiones 0-5: 18,8,64,13,63,14 (18 White · 8 Light Grey · 64 LightWarmGray · 13 Dark Grey · 63 MediumWarmGray · 14 Black)"
+    },
+    {
+      "id": "black-white",
+      "label": "Black & White",
+      "colors": [
+        14,
+        18,
+        14,
+        18,
+        14,
+        18
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 14,18,14,18,14,18 (14 Black · 18 White)"
+    },
+    {
+      "id": "red-black",
+      "label": "Red & Black",
+      "colors": [
+        1,
+        14,
+        1,
+        14,
+        1,
+        14
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 1,14,1,14,1,14 (1 Red · 14 Black)"
+    },
+    {
+      "id": "blue-white",
+      "label": "Blue & White",
+      "colors": [
+        2,
+        18,
+        2,
+        18,
+        2,
+        18
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 2,18,2,18,2,18 (2 Blue · 18 White)"
+    },
+    {
+      "id": "orange-black",
+      "label": "Orange & Black",
+      "colors": [
+        75,
+        14,
+        75,
+        14,
+        75,
+        14
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 75,14,75,14,75,14 (75 Orange · 14 Black)"
+    },
+    {
+      "id": "gold-black",
+      "label": "Gold & Black",
+      "colors": [
+        76,
+        79,
+        76,
+        79,
+        76,
+        79
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 76,79,76,79,76,79 (76 Peach · 79 ActualBlack)"
+    },
+    {
+      "id": "cyan-black",
+      "label": "Cyan & Black",
+      "colors": [
+        5,
+        79,
+        5,
+        79,
+        5,
+        79
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 5,79,5,79,5,79 (5 Cyan · 79 ActualBlack)"
+    },
+    {
+      "id": "pink-white",
+      "label": "Pink & White",
+      "colors": [
+        68,
+        18,
+        68,
+        18,
+        68,
+        18
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 68,18,68,18,68,18 (68 DeepPink · 18 White)"
+    },
+    {
+      "id": "green-black",
+      "label": "Green & Black",
+      "colors": [
+        3,
+        14,
+        3,
+        14,
+        3,
+        14
+      ],
+      "group": "pair",
+      "description": "Regiones 0-5: 3,14,3,14,3,14 (3 Green · 14 Black)"
+    },
+    {
+      "id": "custom",
+      "label": "Custom",
+      "colors": null,
+      "description": "Elige cada region manualmente"
+    }
+  ]
+}

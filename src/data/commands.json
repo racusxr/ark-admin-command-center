@@ -1,0 +1,295 @@
+[
+  {
+    "id": "giveitem",
+    "name": "GiveItem",
+    "description": "Da un item a tu inventario usando su ruta de blueprint.",
+    "syntax": "admincheat GiveItem \"<BlueprintPath>\" <Quantity> <Quality> <ForceBlueprint>",
+    "example": "admincheat GiveItem \"Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponAssaultRifle.PrimalItem_WeaponAssaultRifle'\" 1 0 false",
+    "params": [
+      { "name": "BlueprintPath", "type": "item", "description": "Ruta completa del blueprint del item." },
+      { "name": "Quantity", "type": "number", "description": "Cantidad a dar.", "default": 1 },
+      { "name": "Quality", "type": "number", "description": "Calidad del item (0 = normal).", "default": 0 },
+      { "name": "ForceBlueprint", "type": "boolean", "description": "Si es true, entrega el plano (skin) en vez del item fabricado.", "default": false }
+    ],
+    "category": "Spawning"
+  },
+  {
+    "id": "giveitemnum",
+    "name": "GiveItemNum",
+    "description": "Variante legada de GiveItem que usa un ID numérico. Los IDs numéricos no son fiables entre versiones del juego, por eso esta herramienta usa GiveItem con blueprint por defecto.",
+    "syntax": "admincheat GiveItemNum <ItemID> <Quantity> <Quality> <ForceBlueprint>",
+    "example": "admincheat GiveItemNum 1 1 0 false",
+    "params": [
+      { "name": "ItemID", "type": "number", "description": "ID numérico legado del item." },
+      { "name": "Quantity", "type": "number", "description": "Cantidad a dar.", "default": 1 },
+      { "name": "Quality", "type": "number", "description": "Calidad del item.", "default": 0 },
+      { "name": "ForceBlueprint", "type": "boolean", "description": "Si es true, entrega el plano en vez del item.", "default": false }
+    ],
+    "category": "Spawning"
+  },
+  {
+    "id": "gmsummon",
+    "name": "GMSummon",
+    "description": "Genera una criatura ya adulta (o a un nivel específico) usando su class name.",
+    "syntax": "admincheat GMSummon \"<ClassName>\" <Level>",
+    "example": "admincheat GMSummon \"Rex_Character_BP_C\" 150",
+    "params": [
+      { "name": "ClassName", "type": "creature", "description": "Class name (GMSummon ID) de la criatura." },
+      { "name": "Level", "type": "number", "description": "Nivel de la criatura generada.", "default": 150 }
+    ],
+    "category": "Spawning"
+  },
+  {
+    "id": "spawndino",
+    "name": "SpawnDino",
+    "description": "Genera una criatura salvaje frente a ti, con control fino de posición y nivel.",
+    "syntax": "admincheat SpawnDino \"<BlueprintPath>\" <X> <Y> <Z> <Level> <SetTamed>",
+    "example": "admincheat SpawnDino \"Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'\" 500 0 0 150 1",
+    "params": [
+      { "name": "BlueprintPath", "type": "creature", "description": "Ruta del blueprint de la criatura." },
+      { "name": "X", "type": "number", "description": "Distancia hacia adelante desde tu posición.", "default": 500 },
+      { "name": "Y", "type": "number", "description": "Offset lateral.", "default": 0 },
+      { "name": "Z", "type": "number", "description": "Offset vertical.", "default": 0 },
+      { "name": "Level", "type": "number", "description": "Nivel de la criatura.", "default": 150 },
+      { "name": "SetTamed", "type": "boolean", "description": "1 = domesticada al aparecer, 0 = salvaje.", "default": false }
+    ],
+    "category": "Spawning"
+  },
+  {
+    "id": "summon",
+    "name": "Summon",
+    "description": "Genera una criatura salvaje a nivel base directamente en tu posición.",
+    "syntax": "admincheat Summon \"<ClassName>\"",
+    "example": "admincheat Summon \"Rex_Character_BP_C\"",
+    "params": [
+      { "name": "ClassName", "type": "creature", "description": "Class name de la criatura a generar." }
+    ],
+    "category": "Spawning"
+  },
+  {
+    "id": "destroywilddinos",
+    "name": "DestroyWildDinos",
+    "description": "Destruye todas las criaturas salvajes del mapa (no afecta a las domesticadas).",
+    "syntax": "admincheat DestroyWildDinos",
+    "example": "admincheat DestroyWildDinos",
+    "params": [],
+    "category": "World"
+  },
+  {
+    "id": "teleport",
+    "name": "Teleport",
+    "description": "Te teletransporta en la dirección hacia la que estás mirando.",
+    "syntax": "admincheat Teleport",
+    "example": "admincheat Teleport",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "teleportplayeridtome",
+    "name": "TeleportPlayerIDToMe",
+    "description": "Trae a un jugador hacia tu posición usando su Player ID.",
+    "syntax": "admincheat TeleportPlayerIDToMe <PlayerID>",
+    "example": "admincheat TeleportPlayerIDToMe 123456789",
+    "params": [
+      { "name": "PlayerID", "type": "player", "description": "ID numérico del jugador." }
+    ],
+    "category": "Player"
+  },
+  {
+    "id": "teleporttoplayer",
+    "name": "TeleportToPlayer",
+    "description": "Te teletransporta hacia un jugador por nombre o ID.",
+    "syntax": "admincheat TeleportToPlayer <PlayerName_or_ID>",
+    "example": "admincheat TeleportToPlayer Rodrigo",
+    "params": [
+      { "name": "PlayerName_or_ID", "type": "player", "description": "Nombre o ID del jugador destino." }
+    ],
+    "category": "Player"
+  },
+  {
+    "id": "fly",
+    "name": "Fly",
+    "description": "Activa el modo de vuelo libre para tu personaje.",
+    "syntax": "admincheat Fly",
+    "example": "admincheat Fly",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "walk",
+    "name": "Walk",
+    "description": "Desactiva el modo vuelo y vuelve al movimiento normal.",
+    "syntax": "admincheat Walk",
+    "example": "admincheat Walk",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "description": "Activa el modo fantasma, atravesando objetos y terreno.",
+    "syntax": "admincheat Ghost",
+    "example": "admincheat Ghost",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "god",
+    "name": "God",
+    "description": "Activa invulnerabilidad e inmunidad a hambre/sed para tu personaje.",
+    "syntax": "admincheat God",
+    "example": "admincheat God",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "infinitestats",
+    "name": "InfiniteStats",
+    "description": "Mantiene todas tus estadísticas (salud, estamina, peso, etc.) al máximo.",
+    "syntax": "admincheat InfiniteStats",
+    "example": "admincheat InfiniteStats",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "enemyinvisible",
+    "name": "EnemyInvisible",
+    "description": "Vuelve a tu personaje invisible para criaturas salvajes.",
+    "syntax": "admincheat EnemyInvisible <true/false>",
+    "example": "admincheat EnemyInvisible true",
+    "params": [
+      { "name": "Enabled", "type": "boolean", "description": "true para activar, false para desactivar.", "default": true }
+    ],
+    "category": "Player"
+  },
+  {
+    "id": "forcetame",
+    "name": "ForceTame",
+    "description": "Domestica instantáneamente a la criatura que tienes en la mira.",
+    "syntax": "admincheat ForceTame",
+    "example": "admincheat ForceTame",
+    "params": [],
+    "category": "Cheats"
+  },
+  {
+    "id": "kill",
+    "name": "Kill",
+    "description": "Mata a tu propio personaje.",
+    "syntax": "admincheat Kill",
+    "example": "admincheat Kill",
+    "params": [],
+    "category": "Player"
+  },
+  {
+    "id": "destroymytarget",
+    "name": "DestroyMyTarget",
+    "description": "Destruye por completo la criatura o estructura que tienes en la mira.",
+    "syntax": "admincheat DestroyMyTarget",
+    "example": "admincheat DestroyMyTarget",
+    "params": [],
+    "category": "World"
+  },
+  {
+    "id": "setplayerpos",
+    "name": "SetPlayerPos",
+    "description": "Coloca a tu personaje en una coordenada exacta del mapa.",
+    "syntax": "admincheat SetPlayerPos <X> <Y> <Z>",
+    "example": "admincheat SetPlayerPos 0 0 0",
+    "params": [
+      { "name": "X", "type": "number", "description": "Coordenada X.", "default": 0 },
+      { "name": "Y", "type": "number", "description": "Coordenada Y.", "default": 0 },
+      { "name": "Z", "type": "number", "description": "Coordenada Z.", "default": 0 }
+    ],
+    "category": "Player"
+  },
+  {
+    "id": "giveallstructure",
+    "name": "GiveAllStructure",
+    "description": "Te da acceso de administrador sobre la estructura que tienes en la mira.",
+    "syntax": "admincheat GiveAllStructure",
+    "example": "admincheat GiveAllStructure",
+    "params": [],
+    "category": "World"
+  },
+  {
+    "id": "giveallDino",
+    "name": "GiveAllDino",
+    "description": "Te transfiere la propiedad de todas las criaturas domesticadas cercanas.",
+    "syntax": "admincheat GiveAllDino",
+    "example": "admincheat GiveAllDino",
+    "params": [],
+    "category": "World"
+  },
+  {
+    "id": "givetome",
+    "name": "GiveToMe",
+    "description": "Te transfiere la propiedad de la criatura o estructura en la mira.",
+    "syntax": "admincheat GiveToMe",
+    "example": "admincheat GiveToMe",
+    "params": [],
+    "category": "World"
+  },
+  {
+    "id": "addexperience",
+    "name": "AddExperience",
+    "description": "Añade experiencia a tu personaje (o a la criatura que domas/montas).",
+    "syntax": "admincheat AddExperience <Amount> <FromTribeShare> <PreventSharingWithTribe>",
+    "example": "admincheat AddExperience 1000 false false",
+    "params": [
+      { "name": "Amount", "type": "number", "description": "Cantidad de experiencia.", "default": 1000 },
+      { "name": "FromTribeShare", "type": "boolean", "description": "Si cuenta como compartida por la tribu.", "default": false },
+      { "name": "PreventSharingWithTribe", "type": "boolean", "description": "Evita que se comparta con la tribu.", "default": false }
+    ],
+    "category": "Player"
+  },
+  {
+    "id": "setplayerstat",
+    "name": "SetPlayerStat",
+    "description": "Ajusta un stat específico de tu personaje.",
+    "syntax": "admincheat SetPlayerStat <Stat> <0/1> <Amount>",
+    "example": "admincheat SetPlayerStat Health 1 100",
+    "params": [
+      { "name": "Stat", "type": "text", "description": "Nombre del stat (Health, Stamina, Food, Water, etc.)." },
+      { "name": "AddOrSet", "type": "number", "description": "1 para establecer el valor directamente.", "default": 1 },
+      { "name": "Amount", "type": "number", "description": "Valor a asignar.", "default": 100 }
+    ],
+    "category": "Player"
+  },
+  {
+    "id": "settargetdinocolor",
+    "name": "SetTargetDinoColor",
+    "description": "Cambia el color de una región específica de la criatura en la mira.",
+    "syntax": "admincheat SetTargetDinoColor <ColorRegion> <ColorID>",
+    "example": "admincheat SetTargetDinoColor 0 6",
+    "params": [
+      { "name": "ColorRegion", "type": "number", "description": "Índice de región de color (0-5).", "default": 0 },
+      { "name": "ColorID", "type": "number", "description": "ID del color a aplicar.", "default": 0 }
+    ],
+    "category": "Cheats"
+  },
+  {
+    "id": "sdf",
+    "name": "SDF",
+    "description": "Alias corto de SpawnDino, con la misma sintaxis.",
+    "syntax": "admincheat SDF \"<BlueprintPath>\" <X> <Y> <Z> <Level> <SetTamed>",
+    "example": "admincheat SDF \"Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'\" 500 0 0 150 1",
+    "params": [
+      { "name": "BlueprintPath", "type": "creature", "description": "Ruta del blueprint de la criatura." },
+      { "name": "X", "type": "number", "description": "Distancia hacia adelante.", "default": 500 },
+      { "name": "Y", "type": "number", "description": "Offset lateral.", "default": 0 },
+      { "name": "Z", "type": "number", "description": "Offset vertical.", "default": 0 },
+      { "name": "Level", "type": "number", "description": "Nivel de la criatura.", "default": 150 },
+      { "name": "SetTamed", "type": "boolean", "description": "1 = domesticada, 0 = salvaje.", "default": false }
+    ],
+    "category": "Spawning"
+  },
+  {
+    "id": "saveworld",
+    "name": "SaveWorld",
+    "description": "Fuerza un guardado inmediato del estado del servidor/mundo.",
+    "syntax": "admincheat SaveWorld",
+    "example": "admincheat SaveWorld",
+    "params": [],
+    "category": "Server"
+  }
+]

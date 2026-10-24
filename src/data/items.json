@@ -1,0 +1,5032 @@
+[
+  {
+    "id": "absorbent-substrate",
+    "name": "Absorbent Substrate",
+    "category": "Resources",
+    "className": "PrimalItemResource_SubstrateAbsorbent_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_SubstrateAbsorbent.PrimalItemResource_SubstrateAbsorbent'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_SubstrateAbsorbent",
+      "Resources"
+    ]
+  },
+  {
+    "id": "advanced-bullet",
+    "name": "Advanced Bullet",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_AdvancedBullet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedBullet.PrimalItemAmmo_AdvancedBullet'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_AdvancedBullet"
+    ]
+  },
+  {
+    "id": "advanced-rifle-bullet",
+    "name": "Advanced Rifle Bullet",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_AdvancedRifleBullet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_AdvancedRifleBullet"
+    ]
+  },
+  {
+    "id": "advanced-sniper-bullet",
+    "name": "Advanced Sniper Bullet",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_AdvancedSniperBullet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_AdvancedSniperBullet"
+    ]
+  },
+  {
+    "id": "allosaurus-egg",
+    "name": "Allosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Allo_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Allo.PrimalItemConsumable_Egg_Allo'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Allo"
+    ]
+  },
+  {
+    "id": "amarberry",
+    "name": "Amarberry",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Berry_Amarberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Amarberry.PrimalItemConsumable_Berry_Amarberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Berry_Amarberry"
+    ]
+  },
+  {
+    "id": "amarberry-seed",
+    "name": "Amarberry Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Amarberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Amarberry"
+    ]
+  },
+  {
+    "id": "ambergris",
+    "name": "Ambergris",
+    "category": "Resources",
+    "className": "PrimalItemResource_Ambergris_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Ambergris.PrimalItemResource_Ambergris'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Ambergris",
+      "Resources"
+    ]
+  },
+  {
+    "id": "angler-gel",
+    "name": "Angler Gel",
+    "category": "Resources",
+    "className": "PrimalItemResource_AnglerGel_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_AnglerGel",
+      "Resources"
+    ]
+  },
+  {
+    "id": "ankylo-egg",
+    "name": "Ankylo Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Ankylo_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ankylo.PrimalItemConsumable_Egg_Ankylo'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Ankylo"
+    ]
+  },
+  {
+    "id": "ankylo-saddle",
+    "name": "Ankylo Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_AnkyloSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AnkyloSaddle.PrimalItemArmor_AnkyloSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_AnkyloSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "archaeopteryx-egg",
+    "name": "Archaeopteryx Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Archa_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Archa.PrimalItemConsumable_Egg_Archa'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Archa"
+    ]
+  },
+  {
+    "id": "argentavis-egg",
+    "name": "Argentavis Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Argent_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Argent.PrimalItemConsumable_Egg_Argent'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Argent"
+    ]
+  },
+  {
+    "id": "argentavis-saddle",
+    "name": "Argentavis Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_ArgentavisSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArgentavisSaddle.PrimalItemArmor_ArgentavisSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_ArgentavisSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "argentavis-talon",
+    "name": "Argentavis Talon",
+    "category": "Resources",
+    "className": "PrimalItemResource_ApexDrop_Argentavis_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Argentavis.PrimalItemResource_ApexDrop_Argentavis'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ApexDrop_Argentavis",
+      "Resources"
+    ],
+    "itemNumId": 155
+  },
+  {
+    "id": "artifact-of-the-brute",
+    "name": "Artifact of the Brute",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_12_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_12.PrimalItemArtifact_12'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_12"
+    ]
+  },
+  {
+    "id": "artifact-of-the-clever",
+    "name": "Artifact of the Clever",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_05_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_05.PrimalItemArtifact_05'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_05"
+    ],
+    "itemNumId": 150
+  },
+  {
+    "id": "artifact-of-the-cunning",
+    "name": "Artifact of the Cunning",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_11_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_11.PrimalItemArtifact_11'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_11"
+    ]
+  },
+  {
+    "id": "artifact-of-the-devious",
+    "name": "Artifact of the Devious",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_04_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_04.PrimalItemArtifact_04'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_04"
+    ],
+    "itemNumId": 149
+  },
+  {
+    "id": "artifact-of-the-devourer",
+    "name": "Artifact of the Devourer",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_07_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_07.PrimalItemArtifact_07'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_07"
+    ],
+    "itemNumId": 152
+  },
+  {
+    "id": "artifact-of-the-hunter",
+    "name": "Artifact of the Hunter",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_01_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_01.PrimalItemArtifact_01'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_01"
+    ],
+    "itemNumId": 146
+  },
+  {
+    "id": "artifact-of-the-immune",
+    "name": "Artifact of the Immune",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_08_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_08.PrimalItemArtifact_08'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_08"
+    ],
+    "itemNumId": 153
+  },
+  {
+    "id": "artifact-of-the-massive",
+    "name": "Artifact of the Massive",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_03_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_03.PrimalItemArtifact_03'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_03"
+    ],
+    "itemNumId": 148
+  },
+  {
+    "id": "artifact-of-the-pack",
+    "name": "Artifact of the Pack",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_02_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_02"
+    ],
+    "itemNumId": 147
+  },
+  {
+    "id": "artifact-of-the-skylord",
+    "name": "Artifact of the Skylord",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_06_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_06"
+    ],
+    "itemNumId": 151
+  },
+  {
+    "id": "artifact-of-the-strong",
+    "name": "Artifact of the Strong",
+    "category": "Artifacts",
+    "className": "PrimalItemArtifact_09_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_09.PrimalItemArtifact_09'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Artifacts",
+      "PrimalItemArtifact_09"
+    ],
+    "itemNumId": 154
+  },
+  {
+    "id": "assault-rifle",
+    "name": "Assault Rifle",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponAssaultRifle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponAssaultRifle.PrimalItem_WeaponAssaultRifle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponAssaultRifle",
+      "Weapons"
+    ],
+    "itemNumId": 2
+  },
+  {
+    "id": "azulberry",
+    "name": "Azulberry",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Berry_Azulberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Azulberry.PrimalItemConsumable_Berry_Azulberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Berry_Azulberry"
+    ]
+  },
+  {
+    "id": "azulberry-seed",
+    "name": "Azulberry Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Azulberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Azulberry"
+    ]
+  },
+  {
+    "id": "baryonyx-egg",
+    "name": "Baryonyx Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Baryonyx_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Baryonyx.PrimalItemConsumable_Egg_Baryonyx'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Baryonyx"
+    ]
+  },
+  {
+    "id": "baryonyx-saddle",
+    "name": "Baryonyx Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_BaryonyxSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BaryonyxSaddle.PrimalItemArmor_BaryonyxSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_BaryonyxSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "basilosaurus-saddle",
+    "name": "Basilosaurus Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_BasiloSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_BasiloSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "beelzebufo-saddle",
+    "name": "Beelzebufo Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_ToadSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ToadSaddle.PrimalItemArmor_ToadSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_ToadSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "bio-toxin",
+    "name": "Bio Toxin",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_JellyVenom_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_JellyVenom"
+    ]
+  },
+  {
+    "id": "black-coloring",
+    "name": "Black Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Black_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Black.PrimalItemDye_Black'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Black"
+    ]
+  },
+  {
+    "id": "black-pearl",
+    "name": "Black Pearl",
+    "category": "Resources",
+    "className": "PrimalItemResource_BlackPearl_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_BlackPearl",
+      "Resources"
+    ]
+  },
+  {
+    "id": "blue-coloring",
+    "name": "Blue Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Blue_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Blue.PrimalItemDye_Blue'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Blue"
+    ]
+  },
+  {
+    "id": "blue-crystalized-sap",
+    "name": "Blue Crystalized Sap",
+    "category": "Resources",
+    "className": "PrimalItemResource_Gem_BioLum_Crafted_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gem_BioLum_Crafted.PrimalItemResource_Gem_BioLum_Crafted'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Gem_BioLum_Crafted",
+      "Resources"
+    ]
+  },
+  {
+    "id": "blue-gem",
+    "name": "Blue Gem",
+    "category": "Resources",
+    "className": "PrimalItemResource_Gem_BioLum_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gem_BioLum.PrimalItemResource_Gem_BioLum'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Gem_BioLum",
+      "Resources"
+    ]
+  },
+  {
+    "id": "bola",
+    "name": "Bola",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponBola_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBola.PrimalItem_WeaponBola'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponBola",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "boulder",
+    "name": "Boulder",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_Boulder_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Boulder.PrimalItemAmmo_Boulder'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_Boulder"
+    ]
+  },
+  {
+    "id": "bow",
+    "name": "Bow",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponBow_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBow.PrimalItem_WeaponBow'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponBow",
+      "Weapons"
+    ],
+    "itemNumId": 5
+  },
+  {
+    "id": "bronto-egg",
+    "name": "Bronto Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Sauropod_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sauropod.PrimalItemConsumable_Egg_Sauropod'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Sauropod"
+    ]
+  },
+  {
+    "id": "bronto-saddle",
+    "name": "Bronto Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_SauroSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SauroSaddle.PrimalItemArmor_SauroSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_SauroSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "brown-coloring",
+    "name": "Brown Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Brown_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Brown.PrimalItemDye_Brown'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Brown"
+    ]
+  },
+  {
+    "id": "cactus-sap",
+    "name": "Cactus Sap",
+    "category": "Resources",
+    "className": "PrimalItemResource_CactusSap_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_CactusSap.PrimalItemResource_CactusSap'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_CactusSap",
+      "Resources"
+    ]
+  },
+  {
+    "id": "cannon-ball",
+    "name": "Cannon Ball",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_CannonBall_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CannonBall.PrimalItemAmmo_CannonBall'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_CannonBall"
+    ]
+  },
+  {
+    "id": "carno-egg",
+    "name": "Carno Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Carno_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Carno.PrimalItemConsumable_Egg_Carno'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Carno"
+    ]
+  },
+  {
+    "id": "carno-saddle",
+    "name": "Carno Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_CarnoSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_CarnoSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "castoroides-saddle",
+    "name": "Castoroides Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_BeaverSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BeaverSaddle.PrimalItemArmor_BeaverSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_BeaverSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "cementing-paste",
+    "name": "Cementing Paste",
+    "category": "Resources",
+    "className": "PrimalItemResource_ChitinPaste_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ChitinPaste",
+      "Resources"
+    ]
+  },
+  {
+    "id": "charcoal",
+    "name": "Charcoal",
+    "category": "Resources",
+    "className": "PrimalItemResource_Charcoal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Charcoal.PrimalItemResource_Charcoal'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Charcoal",
+      "Resources"
+    ]
+  },
+  {
+    "id": "chitin",
+    "name": "Chitin",
+    "category": "Resources",
+    "className": "PrimalItemResource_Chitin_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Chitin",
+      "Resources"
+    ],
+    "itemNumId": 11
+  },
+  {
+    "id": "chitin-boots",
+    "name": "Chitin Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ChitinBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinBoots.PrimalItemArmor_ChitinBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ChitinBoots"
+    ],
+    "itemNumId": 30
+  },
+  {
+    "id": "chitin-chestpiece",
+    "name": "Chitin Chestpiece",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ChitinShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinShirt.PrimalItemArmor_ChitinShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ChitinShirt"
+    ],
+    "itemNumId": 28
+  },
+  {
+    "id": "chitin-gauntlets",
+    "name": "Chitin Gauntlets",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ChitinGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinGloves.PrimalItemArmor_ChitinGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ChitinGloves"
+    ],
+    "itemNumId": 31
+  },
+  {
+    "id": "chitin-helmet",
+    "name": "Chitin Helmet",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ChitinHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinHelmet.PrimalItemArmor_ChitinHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ChitinHelmet"
+    ],
+    "itemNumId": 29
+  },
+  {
+    "id": "chitin-leggings",
+    "name": "Chitin Leggings",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ChitinPants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinPants.PrimalItemArmor_ChitinPants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ChitinPants"
+    ],
+    "itemNumId": 27
+  },
+  {
+    "id": "chitin-or-keratin",
+    "name": "Chitin or Keratin",
+    "category": "Resources",
+    "className": "PrimalItemResource_ChitinOrKeratin_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinOrKeratin.PrimalItemResource_ChitinOrKeratin'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ChitinOrKeratin",
+      "Resources"
+    ]
+  },
+  {
+    "id": "citronal",
+    "name": "Citronal",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Veggie_Citronal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Citronal.PrimalItemConsumable_Veggie_Citronal'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Veggie_Citronal"
+    ]
+  },
+  {
+    "id": "citronal-seed",
+    "name": "Citronal Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Citronal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Citronal"
+    ]
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "category": "Resources",
+    "className": "PrimalItemResource_Clay_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Clay",
+      "Resources"
+    ]
+  },
+  {
+    "id": "cloth-boots",
+    "name": "Cloth Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ClothBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ClothBoots"
+    ],
+    "itemNumId": 20
+  },
+  {
+    "id": "cloth-gloves",
+    "name": "Cloth Gloves",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ClothGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ClothGloves"
+    ],
+    "itemNumId": 21
+  },
+  {
+    "id": "cloth-hat",
+    "name": "Cloth Hat",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ClothHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ClothHelmet"
+    ],
+    "itemNumId": 19
+  },
+  {
+    "id": "cloth-pants",
+    "name": "Cloth Pants",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ClothPants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ClothPants"
+    ],
+    "itemNumId": 17
+  },
+  {
+    "id": "cloth-shirt",
+    "name": "Cloth Shirt",
+    "category": "Armor",
+    "className": "PrimalItemArmor_ClothShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_ClothShirt"
+    ],
+    "itemNumId": 18
+  },
+  {
+    "id": "coal",
+    "name": "Coal",
+    "category": "Resources",
+    "className": "PrimalItemResource_Coal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Coal.PrimalItemResource_Coal'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Coal",
+      "Resources"
+    ]
+  },
+  {
+    "id": "compass",
+    "name": "Compass",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponCompass_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompass.PrimalItem_WeaponCompass'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponCompass",
+      "Tools"
+    ]
+  },
+  {
+    "id": "compound-bow",
+    "name": "Compound Bow",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponCompoundBow_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponCompoundBow",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "compy-egg",
+    "name": "Compy Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Compy_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Compy.PrimalItemConsumable_Egg_Compy'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Compy"
+    ]
+  },
+  {
+    "id": "congealed-gas-ball",
+    "name": "Congealed Gas Ball",
+    "category": "Resources",
+    "className": "PrimalItemResource_Gas_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gas.PrimalItemResource_Gas'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Gas",
+      "Resources"
+    ]
+  },
+  {
+    "id": "cooked-fish-meat",
+    "name": "Cooked Fish Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedMeat_Fish_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish'",
+    "stackSize": 50,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedMeat_Fish"
+    ]
+  },
+  {
+    "id": "cooked-lamb-chop",
+    "name": "Cooked Lamb Chop",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedLambChop_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedLambChop.PrimalItemConsumable_CookedLambChop'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedLambChop"
+    ]
+  },
+  {
+    "id": "cooked-meat",
+    "name": "Cooked Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedMeat_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat'",
+    "stackSize": 50,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedMeat"
+    ],
+    "itemNumId": 14
+  },
+  {
+    "id": "cooked-meat-jerky",
+    "name": "Cooked Meat Jerky",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedMeat_Jerky_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Jerky.PrimalItemConsumable_CookedMeat_Jerky'",
+    "stackSize": 30,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedMeat_Jerky"
+    ]
+  },
+  {
+    "id": "cooked-prime-fish-meat",
+    "name": "Cooked Prime Fish Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedPrimeMeat_Fish_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedPrimeMeat_Fish"
+    ]
+  },
+  {
+    "id": "cooked-prime-meat",
+    "name": "Cooked Prime Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedPrimeMeat_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat.PrimalItemConsumable_CookedPrimeMeat'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedPrimeMeat"
+    ]
+  },
+  {
+    "id": "crossbow",
+    "name": "Crossbow",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponCrossbow_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponCrossbow",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "cryopod",
+    "name": "Cryopod",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponEmptyCryopod_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/CoreBlueprints/Weapons/PrimalItem_WeaponEmptyCryopod.PrimalItem_WeaponEmptyCryopod'",
+    "stackSize": 10,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponEmptyCryopod",
+      "Tools"
+    ]
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal",
+    "category": "Resources",
+    "className": "PrimalItemResource_Crystal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Crystal",
+      "Resources"
+    ]
+  },
+  {
+    "id": "cyan-coloring",
+    "name": "Cyan Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Cyan_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Cyan.PrimalItemDye_Cyan'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Cyan"
+    ]
+  },
+  {
+    "id": "dilophosaur-egg",
+    "name": "Dilophosaur Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Dilo_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dilo.PrimalItemConsumable_Egg_Dilo'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Dilo"
+    ]
+  },
+  {
+    "id": "dimorph-egg",
+    "name": "Dimorph Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Dimorph_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dimorph.PrimalItemConsumable_Egg_Dimorph'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Dimorph"
+    ]
+  },
+  {
+    "id": "diplo-egg",
+    "name": "Diplo Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Diplodocus_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Diplodocus.PrimalItemConsumable_Egg_Diplodocus'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Diplodocus"
+    ]
+  },
+  {
+    "id": "direbear-saddle",
+    "name": "Direbear Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_DirebearSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DirebearSaddle.PrimalItemArmor_DirebearSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_DirebearSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "dodo-egg",
+    "name": "Dodo Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Dodo_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dodo.PrimalItemConsumable_Egg_Dodo'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Dodo"
+    ]
+  },
+  {
+    "id": "doedicurus-saddle",
+    "name": "Doedicurus Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_DoedSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DoedSaddle.PrimalItemArmor_DoedSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_DoedSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "category": "Resources",
+    "className": "PrimalItemResource_Electronics_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Electronics",
+      "Resources"
+    ]
+  },
+  {
+    "id": "element",
+    "name": "Element",
+    "category": "Resources",
+    "className": "PrimalItemResource_Element_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Element",
+      "Resources"
+    ]
+  },
+  {
+    "id": "element-ore",
+    "name": "Element Ore",
+    "category": "Resources",
+    "className": "PrimalItemResource_ElementOre_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementOre.PrimalItemResource_ElementOre'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ElementOre",
+      "Resources"
+    ]
+  },
+  {
+    "id": "element-shard",
+    "name": "Element Shard",
+    "category": "Resources",
+    "className": "PrimalItemResource_ElementShard_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'",
+    "stackSize": 1000,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ElementShard",
+      "Resources"
+    ]
+  },
+  {
+    "id": "energy-brew",
+    "name": "Energy Brew",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Soup_EnergyBrew_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_EnergyBrew.PrimalItemConsumable_Soup_EnergyBrew'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Soup_EnergyBrew"
+    ]
+  },
+  {
+    "id": "equus-saddle",
+    "name": "Equus Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_EquusSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_EquusSaddle.PrimalItemArmor_EquusSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_EquusSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "fabricated-pistol",
+    "name": "Fabricated Pistol",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponMachinedPistol_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponMachinedPistol",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "fabricated-sniper-rifle",
+    "name": "Fabricated Sniper Rifle",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponMachinedSniper_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponMachinedSniper",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "fertilized-allosaurus-egg",
+    "name": "Fertilized Allosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Allo_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Allo_Fertilized.PrimalItemConsumable_Egg_Allo_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Allo_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-ankylo-egg",
+    "name": "Fertilized Ankylo Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Ankylo_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ankylo_Fertilized.PrimalItemConsumable_Egg_Ankylo_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Ankylo_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-archaeopteryx-egg",
+    "name": "Fertilized Archaeopteryx Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Archa_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Archa_Fertilized.PrimalItemConsumable_Egg_Archa_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Archa_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-argentavis-egg",
+    "name": "Fertilized Argentavis Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Argent_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Argent_Fertilized.PrimalItemConsumable_Egg_Argent_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Argent_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-baryonyx-egg",
+    "name": "Fertilized Baryonyx Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Baryonyx_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Baryonyx_Fertilized.PrimalItemConsumable_Egg_Baryonyx_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Baryonyx_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-bronto-egg",
+    "name": "Fertilized Bronto Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Sauropod_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sauropod_Fertilized.PrimalItemConsumable_Egg_Sauropod_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Sauropod_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-carno-egg",
+    "name": "Fertilized Carno Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Carno_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Carno_Fertilized.PrimalItemConsumable_Egg_Carno_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Carno_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-compy-egg",
+    "name": "Fertilized Compy Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Compy_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Compy_Fertilized.PrimalItemConsumable_Egg_Compy_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Compy_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-dilophosaur-egg",
+    "name": "Fertilized Dilophosaur Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Dilo_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dilo_Fertilized.PrimalItemConsumable_Egg_Dilo_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Dilo_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-dimorph-egg",
+    "name": "Fertilized Dimorph Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Dimorph_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dimorph_Fertilized.PrimalItemConsumable_Egg_Dimorph_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Dimorph_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-diplo-egg",
+    "name": "Fertilized Diplo Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Diplodocus_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Diplodocus_Fertilized.PrimalItemConsumable_Egg_Diplodocus_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Diplodocus_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-dodo-egg",
+    "name": "Fertilized Dodo Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Dodo_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dodo_Fertilized.PrimalItemConsumable_Egg_Dodo_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Dodo_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-galli-egg",
+    "name": "Fertilized Galli Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Galli_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Galli_Fertilized.PrimalItemConsumable_Egg_Galli_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Galli_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-giganotosaurus-egg",
+    "name": "Fertilized Giganotosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Gigant_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Gigant_Fertilized.PrimalItemConsumable_Egg_Gigant_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Gigant_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-iguanodon-egg",
+    "name": "Fertilized Iguanodon Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Iguanodon_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Iguanodon_Fertilized.PrimalItemConsumable_Egg_Iguanodon_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Iguanodon_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-kaprosuchus-egg",
+    "name": "Fertilized Kaprosuchus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Kaprosuchus_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kaprosuchus_Fertilized.PrimalItemConsumable_Egg_Kaprosuchus_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Kaprosuchus_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-kentrosaurus-egg",
+    "name": "Fertilized Kentrosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Kentro_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kentro_Fertilized.PrimalItemConsumable_Egg_Kentro_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Kentro_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-lystrosaurus-egg",
+    "name": "Fertilized Lystrosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Lystro_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Lystro_Fertilized.PrimalItemConsumable_Egg_Lystro_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Lystro_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-megalosaurus-egg",
+    "name": "Fertilized Megalosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Megalosaurus_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Megalosaurus_Fertilized.PrimalItemConsumable_Egg_Megalosaurus_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Megalosaurus_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-microraptor-egg",
+    "name": "Fertilized Microraptor Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Microraptor_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Microraptor_Fertilized.PrimalItemConsumable_Egg_Microraptor_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Microraptor_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-moschops-egg",
+    "name": "Fertilized Moschops Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Moschops_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Moschops_Fertilized.PrimalItemConsumable_Egg_Moschops_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Moschops_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-oviraptor-egg",
+    "name": "Fertilized Oviraptor Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Oviraptor_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor_Fertilized.PrimalItemConsumable_Egg_Oviraptor_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Oviraptor_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-pachy-egg",
+    "name": "Fertilized Pachy Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Pachy_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy_Fertilized.PrimalItemConsumable_Egg_Pachy_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Pachy_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-pachyrhinosaurus-egg",
+    "name": "Fertilized Pachyrhinosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Pachyrhino_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachyrhino_Fertilized.PrimalItemConsumable_Egg_Pachyrhino_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Pachyrhino_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-parasaur-egg",
+    "name": "Fertilized Parasaur Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Para_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para_Fertilized.PrimalItemConsumable_Egg_Para_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Para_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-pegomastax-egg",
+    "name": "Fertilized Pegomastax Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Pegomastax_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax_Fertilized.PrimalItemConsumable_Egg_Pegomastax_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Pegomastax_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-pteranodon-egg",
+    "name": "Fertilized Pteranodon Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Ptero_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero_Fertilized.PrimalItemConsumable_Egg_Ptero_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Ptero_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-pulmonoscorpius-egg",
+    "name": "Fertilized Pulmonoscorpius Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Scorpion_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Scorpion_Fertilized.PrimalItemConsumable_Egg_Scorpion_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Scorpion_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-quetzal-egg",
+    "name": "Fertilized Quetzal Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Quetz_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Fertilized.PrimalItemConsumable_Egg_Quetz_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Quetz_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-raptor-egg",
+    "name": "Fertilized Raptor Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Raptor_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor_Fertilized.PrimalItemConsumable_Egg_Raptor_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Raptor_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-rex-egg",
+    "name": "Fertilized Rex Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Rex_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Fertilized.PrimalItemConsumable_Egg_Rex_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Rex_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-sarco-egg",
+    "name": "Fertilized Sarco Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Sarco_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco_Fertilized.PrimalItemConsumable_Egg_Sarco_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Sarco_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-spino-egg",
+    "name": "Fertilized Spino Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Spino_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino_Fertilized.PrimalItemConsumable_Egg_Spino_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Spino_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-stego-egg",
+    "name": "Fertilized Stego Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Stego_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego_Fertilized.PrimalItemConsumable_Egg_Stego_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Stego_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-tapejara-egg",
+    "name": "Fertilized Tapejara Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Tapejara_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara_Fertilized.PrimalItemConsumable_Egg_Tapejara_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Tapejara_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-terror-bird-egg",
+    "name": "Fertilized Terror Bird Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_TerrorBird_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird_Fertilized.PrimalItemConsumable_Egg_TerrorBird_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_TerrorBird_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-therizinosaur-egg",
+    "name": "Fertilized Therizinosaur Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Therizino_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino_Fertilized.PrimalItemConsumable_Egg_Therizino_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Therizino_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-titanoboa-egg",
+    "name": "Fertilized Titanoboa Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Boa_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Boa_Fertilized.PrimalItemConsumable_Egg_Boa_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Boa_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-trike-egg",
+    "name": "Fertilized Trike Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Trike_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike_Fertilized.PrimalItemConsumable_Egg_Trike_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Trike_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-troodon-egg",
+    "name": "Fertilized Troodon Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Troodon_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon_Fertilized.PrimalItemConsumable_Egg_Troodon_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Troodon_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-turtle-egg",
+    "name": "Fertilized Turtle Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Turtle_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle_Fertilized.PrimalItemConsumable_Egg_Turtle_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Turtle_Fertilized"
+    ]
+  },
+  {
+    "id": "fertilized-yutyrannus-egg",
+    "name": "Fertilized Yutyrannus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Yutyrannus_Fertilized_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Yutyrannus_Fertilized.PrimalItemConsumable_Egg_Yutyrannus_Fertilized'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Yutyrannus_Fertilized"
+    ]
+  },
+  {
+    "id": "fiber",
+    "name": "Fiber",
+    "category": "Resources",
+    "className": "PrimalItemResource_Fibers_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Fibers",
+      "Resources"
+    ]
+  },
+  {
+    "id": "fishing-rod",
+    "name": "Fishing Rod",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponFishingRod_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFishingRod.PrimalItem_WeaponFishingRod'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponFishingRod",
+      "Tools"
+    ]
+  },
+  {
+    "id": "flak-boots",
+    "name": "Flak Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_MetalBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_MetalBoots"
+    ]
+  },
+  {
+    "id": "flak-chestpiece",
+    "name": "Flak Chestpiece",
+    "category": "Armor",
+    "className": "PrimalItemArmor_MetalShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_MetalShirt"
+    ]
+  },
+  {
+    "id": "flak-gauntlets",
+    "name": "Flak Gauntlets",
+    "category": "Armor",
+    "className": "PrimalItemArmor_MetalGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_MetalGloves"
+    ]
+  },
+  {
+    "id": "flak-helmet",
+    "name": "Flak Helmet",
+    "category": "Armor",
+    "className": "PrimalItemArmor_MetalHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_MetalHelmet"
+    ]
+  },
+  {
+    "id": "flak-leggings",
+    "name": "Flak Leggings",
+    "category": "Armor",
+    "className": "PrimalItemArmor_MetalPants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_MetalPants"
+    ]
+  },
+  {
+    "id": "flame-arrow",
+    "name": "Flame Arrow",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_ArrowFlame_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowFlame.PrimalItemAmmo_ArrowFlame'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_ArrowFlame"
+    ]
+  },
+  {
+    "id": "flamethrower",
+    "name": "Flamethrower",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponFlamethrower_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFlamethrower.PrimalItem_WeaponFlamethrower'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponFlamethrower",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "flare-gun",
+    "name": "Flare Gun",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponFlareGun_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFlareGun.PrimalItem_WeaponFlareGun'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponFlareGun",
+      "Tools"
+    ]
+  },
+  {
+    "id": "flint",
+    "name": "Flint",
+    "category": "Resources",
+    "className": "PrimalItemResource_Flint_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Flint",
+      "Resources"
+    ]
+  },
+  {
+    "id": "fungal-wood",
+    "name": "Fungal Wood",
+    "category": "Resources",
+    "className": "PrimalItemResource_FungalWood_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_FungalWood.PrimalItemResource_FungalWood'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_FungalWood",
+      "Resources"
+    ]
+  },
+  {
+    "id": "fur-boots",
+    "name": "Fur Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_FurBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurBoots.PrimalItemArmor_FurBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_FurBoots"
+    ]
+  },
+  {
+    "id": "fur-cap",
+    "name": "Fur Cap",
+    "category": "Armor",
+    "className": "PrimalItemArmor_FurHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurHelmet.PrimalItemArmor_FurHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_FurHelmet"
+    ]
+  },
+  {
+    "id": "fur-chestpiece",
+    "name": "Fur Chestpiece",
+    "category": "Armor",
+    "className": "PrimalItemArmor_FurShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurShirt.PrimalItemArmor_FurShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_FurShirt"
+    ]
+  },
+  {
+    "id": "fur-gauntlets",
+    "name": "Fur Gauntlets",
+    "category": "Armor",
+    "className": "PrimalItemArmor_FurGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurGloves.PrimalItemArmor_FurGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_FurGloves"
+    ]
+  },
+  {
+    "id": "fur-leggings",
+    "name": "Fur Leggings",
+    "category": "Armor",
+    "className": "PrimalItemArmor_FurPants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurPants.PrimalItemArmor_FurPants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_FurPants"
+    ]
+  },
+  {
+    "id": "galli-egg",
+    "name": "Galli Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Galli_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Galli.PrimalItemConsumable_Egg_Galli'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Galli"
+    ]
+  },
+  {
+    "id": "ghillie-boots",
+    "name": "Ghillie Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_GhillieBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieBoots.PrimalItemArmor_GhillieBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_GhillieBoots"
+    ]
+  },
+  {
+    "id": "ghillie-chestpiece",
+    "name": "Ghillie Chestpiece",
+    "category": "Armor",
+    "className": "PrimalItemArmor_GhillieShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieShirt.PrimalItemArmor_GhillieShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_GhillieShirt"
+    ]
+  },
+  {
+    "id": "ghillie-gauntlets",
+    "name": "Ghillie Gauntlets",
+    "category": "Armor",
+    "className": "PrimalItemArmor_GhillieGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieGloves.PrimalItemArmor_GhillieGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_GhillieGloves"
+    ]
+  },
+  {
+    "id": "ghillie-leggings",
+    "name": "Ghillie Leggings",
+    "category": "Armor",
+    "className": "PrimalItemArmor_GhilliePants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhilliePants.PrimalItemArmor_GhilliePants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_GhilliePants"
+    ]
+  },
+  {
+    "id": "ghillie-mask",
+    "name": "Ghillie Mask",
+    "category": "Armor",
+    "className": "PrimalItemArmor_GhillieHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieHelmet.PrimalItemArmor_GhillieHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_GhillieHelmet"
+    ]
+  },
+  {
+    "id": "giganotosaurus-egg",
+    "name": "Giganotosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Gigant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Gigant.PrimalItemConsumable_Egg_Gigant'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Gigant"
+    ]
+  },
+  {
+    "id": "giganotosaurus-saddle",
+    "name": "Giganotosaurus Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_GigantSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_GigantSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "gps",
+    "name": "GPS",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponGPS_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponGPS.PrimalItem_WeaponGPS'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponGPS",
+      "Tools"
+    ]
+  },
+  {
+    "id": "green-coloring",
+    "name": "Green Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Green_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Green.PrimalItemDye_Green'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Green"
+    ]
+  },
+  {
+    "id": "green-gem",
+    "name": "Green Gem",
+    "category": "Resources",
+    "className": "PrimalItemResource_Gem_Fertile_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gem_Fertile.PrimalItemResource_Gem_Fertile'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Gem_Fertile",
+      "Resources"
+    ]
+  },
+  {
+    "id": "grenade",
+    "name": "Grenade",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponGrenade_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponGrenade.PrimalItem_WeaponGrenade'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponGrenade",
+      "Weapons"
+    ],
+    "itemNumId": 6
+  },
+  {
+    "id": "griffin-saddle",
+    "name": "Griffin Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_GriffinSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GriffinSaddle.PrimalItemArmor_GriffinSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_GriffinSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "gunpowder",
+    "name": "Gunpowder",
+    "category": "Resources",
+    "className": "PrimalItemResource_Gunpowder_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Gunpowder",
+      "Resources"
+    ]
+  },
+  {
+    "id": "handcuffs",
+    "name": "Handcuffs",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponHandcuffs_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHandcuffs.PrimalItem_WeaponHandcuffs'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponHandcuffs",
+      "Tools"
+    ]
+  },
+  {
+    "id": "hide",
+    "name": "Hide",
+    "category": "Resources",
+    "className": "PrimalItemResource_Hide_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Hide",
+      "Resources"
+    ],
+    "itemNumId": 10
+  },
+  {
+    "id": "hide-boots",
+    "name": "Hide Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_HideBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Hide/PrimalItemArmor_HideBoots.PrimalItemArmor_HideBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_HideBoots"
+    ],
+    "itemNumId": 25
+  },
+  {
+    "id": "hide-gloves",
+    "name": "Hide Gloves",
+    "category": "Armor",
+    "className": "PrimalItemArmor_HideGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Hide/PrimalItemArmor_HideGloves.PrimalItemArmor_HideGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_HideGloves"
+    ],
+    "itemNumId": 26
+  },
+  {
+    "id": "hide-hat",
+    "name": "Hide Hat",
+    "category": "Armor",
+    "className": "PrimalItemArmor_HideHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Hide/PrimalItemArmor_HideHelmet.PrimalItemArmor_HideHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_HideHelmet"
+    ],
+    "itemNumId": 24
+  },
+  {
+    "id": "hide-pants",
+    "name": "Hide Pants",
+    "category": "Armor",
+    "className": "PrimalItemArmor_HidePants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Hide/PrimalItemArmor_HidePants.PrimalItemArmor_HidePants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_HidePants"
+    ],
+    "itemNumId": 22
+  },
+  {
+    "id": "hide-shirt",
+    "name": "Hide Shirt",
+    "category": "Armor",
+    "className": "PrimalItemArmor_HideShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Hide/PrimalItemArmor_HideShirt.PrimalItemArmor_HideShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_HideShirt"
+    ],
+    "itemNumId": 23
+  },
+  {
+    "id": "iguanodon-egg",
+    "name": "Iguanodon Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Iguanodon_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Iguanodon.PrimalItemConsumable_Egg_Iguanodon'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Iguanodon"
+    ]
+  },
+  {
+    "id": "kaprosuchus-egg",
+    "name": "Kaprosuchus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Kaprosuchus_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kaprosuchus.PrimalItemConsumable_Egg_Kaprosuchus'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Kaprosuchus"
+    ]
+  },
+  {
+    "id": "karkinos-saddle",
+    "name": "Karkinos Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_CrabSaddle_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CrabSaddle.PrimalItemArmor_CrabSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_CrabSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "kentrosaurus-egg",
+    "name": "Kentrosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Kentro_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kentro.PrimalItemConsumable_Egg_Kentro'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Kentro"
+    ]
+  },
+  {
+    "id": "keratin",
+    "name": "Keratin",
+    "category": "Resources",
+    "className": "PrimalItemResource_Keratin_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Keratin",
+      "Resources"
+    ]
+  },
+  {
+    "id": "leech-blood",
+    "name": "Leech Blood",
+    "category": "Resources",
+    "className": "PrimalItemResource_LeechBlood_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_LeechBlood",
+      "Resources"
+    ]
+  },
+  {
+    "id": "longneck-rifle",
+    "name": "Longneck Rifle",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponOneShotRifle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponOneShotRifle",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "longrass",
+    "name": "Longrass",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Veggie_Longrass_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Longrass.PrimalItemConsumable_Veggie_Longrass'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Veggie_Longrass"
+    ]
+  },
+  {
+    "id": "longrass-seed",
+    "name": "Longrass Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Longrass_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass.PrimalItemConsumable_Seed_Longrass'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Longrass"
+    ]
+  },
+  {
+    "id": "lystrosaurus-egg",
+    "name": "Lystrosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Lystro_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Lystro.PrimalItemConsumable_Egg_Lystro'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Lystro"
+    ]
+  },
+  {
+    "id": "magenta-coloring",
+    "name": "Magenta Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Magenta_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Magenta.PrimalItemDye_Magenta'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Magenta"
+    ]
+  },
+  {
+    "id": "magnifying-glass",
+    "name": "Magnifying Glass",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponMagnifyingGlass_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMagnifyingGlass.PrimalItem_WeaponMagnifyingGlass'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponMagnifyingGlass",
+      "Tools"
+    ]
+  },
+  {
+    "id": "mammoth-saddle",
+    "name": "Mammoth Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_MammothSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MammothSaddle.PrimalItemArmor_MammothSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_MammothSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "managarmr-saddle",
+    "name": "Managarmr Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_IceJumperSaddle_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_IceJumperSaddle.PrimalItemArmor_IceJumperSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_IceJumperSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "medical-brew",
+    "name": "Medical Brew",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Soup_MedicalBrew_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_MedicalBrew.PrimalItemConsumable_Soup_MedicalBrew'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Soup_MedicalBrew"
+    ]
+  },
+  {
+    "id": "megalodon-saddle",
+    "name": "Megalodon Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_MegalodonSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalodonSaddle.PrimalItemArmor_MegalodonSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_MegalodonSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "megalodon-tooth",
+    "name": "Megalodon Tooth",
+    "category": "Resources",
+    "className": "PrimalItemResource_ApexDrop_Megalodon_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalodon.PrimalItemResource_ApexDrop_Megalodon'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ApexDrop_Megalodon",
+      "Resources"
+    ],
+    "itemNumId": 156
+  },
+  {
+    "id": "megalosaurus-egg",
+    "name": "Megalosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Megalosaurus_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Megalosaurus.PrimalItemConsumable_Egg_Megalosaurus'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Megalosaurus"
+    ]
+  },
+  {
+    "id": "mejoberry",
+    "name": "Mejoberry",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Berry_Mejoberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Mejoberry.PrimalItemConsumable_Berry_Mejoberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Berry_Mejoberry"
+    ]
+  },
+  {
+    "id": "mejoberry-seed",
+    "name": "Mejoberry Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Mejoberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Mejoberry"
+    ]
+  },
+  {
+    "id": "metal",
+    "name": "Metal",
+    "category": "Resources",
+    "className": "PrimalItemResource_Metal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Metal",
+      "Resources"
+    ],
+    "itemNumId": 9
+  },
+  {
+    "id": "metal-arrow",
+    "name": "Metal Arrow",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_ArrowMetal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowMetal.PrimalItemAmmo_ArrowMetal'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_ArrowMetal"
+    ]
+  },
+  {
+    "id": "metal-ceiling",
+    "name": "Metal Ceiling",
+    "category": "Structures",
+    "className": "PrimalItemStructure_MetalCeiling_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeiling.PrimalItemStructure_MetalCeiling'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_MetalCeiling",
+      "Structures"
+    ]
+  },
+  {
+    "id": "metal-door",
+    "name": "Metal Door",
+    "category": "Structures",
+    "className": "PrimalItemStructure_MetalDoor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalDoor.PrimalItemStructure_MetalDoor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_MetalDoor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "metal-doorframe",
+    "name": "Metal Doorframe",
+    "category": "Structures",
+    "className": "PrimalItemStructure_MetalDoorframe_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalDoorframe.PrimalItemStructure_MetalDoorframe'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_MetalDoorframe",
+      "Structures"
+    ]
+  },
+  {
+    "id": "metal-foundation",
+    "name": "Metal Foundation",
+    "category": "Structures",
+    "className": "PrimalItemStructure_MetalFloor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_MetalFloor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "metal-hatchet",
+    "name": "Metal Hatchet",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponMetalHatchet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponMetalHatchet",
+      "Tools"
+    ],
+    "itemNumId": 36
+  },
+  {
+    "id": "metal-ingot",
+    "name": "Metal Ingot",
+    "category": "Resources",
+    "className": "PrimalItemResource_MetalIngot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_MetalIngot",
+      "Resources"
+    ]
+  },
+  {
+    "id": "metal-pick",
+    "name": "Metal Pick",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponMetalPick_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponMetalPick",
+      "Tools"
+    ],
+    "itemNumId": 35
+  },
+  {
+    "id": "metal-shield",
+    "name": "Metal Shield",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponShield_Metal_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShield_Metal.PrimalItem_WeaponShield_Metal'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponShield_Metal",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "metal-sickle",
+    "name": "Metal Sickle",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponSickle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSickle.PrimalItem_WeaponSickle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponSickle",
+      "Tools"
+    ]
+  },
+  {
+    "id": "metal-wall",
+    "name": "Metal Wall",
+    "category": "Structures",
+    "className": "PrimalItemStructure_MetalWall_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_MetalWall",
+      "Structures"
+    ]
+  },
+  {
+    "id": "microraptor-egg",
+    "name": "Microraptor Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Microraptor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Microraptor.PrimalItemConsumable_Egg_Microraptor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Microraptor"
+    ]
+  },
+  {
+    "id": "mosasaur-saddle",
+    "name": "Mosasaur Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_MosaSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle.PrimalItemArmor_MosaSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_MosaSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "moschops-egg",
+    "name": "Moschops Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Moschops_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Moschops.PrimalItemConsumable_Egg_Moschops'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Moschops"
+    ]
+  },
+  {
+    "id": "narcoberry",
+    "name": "Narcoberry",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Berry_Narcoberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Berry_Narcoberry"
+    ]
+  },
+  {
+    "id": "narcoberry-seed",
+    "name": "Narcoberry Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Narcoberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Narcoberry"
+    ]
+  },
+  {
+    "id": "narcotic",
+    "name": "Narcotic",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Narcotic_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Narcotic"
+    ]
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "category": "Resources",
+    "className": "PrimalItemResource_Obsidian_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Obsidian",
+      "Resources"
+    ]
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "category": "Resources",
+    "className": "PrimalItemResource_Oil_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Oil",
+      "Resources"
+    ]
+  },
+  {
+    "id": "orange-coloring",
+    "name": "Orange Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Orange_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Orange.PrimalItemDye_Orange'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Orange"
+    ]
+  },
+  {
+    "id": "organic-polymer",
+    "name": "Organic Polymer",
+    "category": "Resources",
+    "className": "PrimalItemResource_Polymer_Organic_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Polymer_Organic",
+      "Resources"
+    ]
+  },
+  {
+    "id": "oviraptor-egg",
+    "name": "Oviraptor Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Oviraptor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor.PrimalItemConsumable_Egg_Oviraptor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Oviraptor"
+    ]
+  },
+  {
+    "id": "pachy-egg",
+    "name": "Pachy Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Pachy_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy.PrimalItemConsumable_Egg_Pachy'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Pachy"
+    ]
+  },
+  {
+    "id": "pachyrhinosaurus-egg",
+    "name": "Pachyrhinosaurus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Pachyrhino_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachyrhino.PrimalItemConsumable_Egg_Pachyrhino'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Pachyrhino"
+    ]
+  },
+  {
+    "id": "paintbrush",
+    "name": "Paintbrush",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponPaintbrush_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPaintbrush.PrimalItem_WeaponPaintbrush'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponPaintbrush",
+      "Tools"
+    ]
+  },
+  {
+    "id": "parachute",
+    "name": "Parachute",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponParachute_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponParachute.PrimalItem_WeaponParachute'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponParachute",
+      "Tools"
+    ]
+  },
+  {
+    "id": "parasaur-egg",
+    "name": "Parasaur Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Para_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para.PrimalItemConsumable_Egg_Para'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Para"
+    ]
+  },
+  {
+    "id": "parasaur-saddle",
+    "name": "Parasaur Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_ParaSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParaSaddle.PrimalItemArmor_ParaSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_ParaSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "pegomastax-egg",
+    "name": "Pegomastax Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Pegomastax_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax.PrimalItemConsumable_Egg_Pegomastax'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Pegomastax"
+    ]
+  },
+  {
+    "id": "pelt",
+    "name": "Pelt",
+    "category": "Resources",
+    "className": "PrimalItemResource_Pelt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Pelt",
+      "Resources"
+    ]
+  },
+  {
+    "id": "pike",
+    "name": "Pike",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponPike_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPike.PrimalItem_WeaponPike'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponPike",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "plant-species-x",
+    "name": "Plant Species X",
+    "category": "Structures",
+    "className": "PrimalItemStructure_TurretPlant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretPlant.PrimalItemStructure_TurretPlant'",
+    "stackSize": 1,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_TurretPlant",
+      "Structures"
+    ]
+  },
+  {
+    "id": "plant-species-x-seed",
+    "name": "Plant Species X Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_DefensePlant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_DefensePlant.PrimalItemConsumable_Seed_DefensePlant'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_DefensePlant"
+    ]
+  },
+  {
+    "id": "plesiosaur-saddle",
+    "name": "Plesiosaur Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_PlesiaSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PlesiaSaddle.PrimalItemArmor_PlesiaSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_PlesiaSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "polymer",
+    "name": "Polymer",
+    "category": "Resources",
+    "className": "PrimalItemResource_Polymer_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Polymer",
+      "Resources"
+    ]
+  },
+  {
+    "id": "prime-meat-jerky",
+    "name": "Prime Meat Jerky",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_CookedPrimeMeat_Jerky_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Jerky.PrimalItemConsumable_CookedPrimeMeat_Jerky'",
+    "stackSize": 30,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_CookedPrimeMeat_Jerky"
+    ]
+  },
+  {
+    "id": "propellant",
+    "name": "Propellant",
+    "category": "Resources",
+    "className": "PrimalItemResource_Propellant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Propellant.PrimalItemResource_Propellant'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Propellant",
+      "Resources"
+    ]
+  },
+  {
+    "id": "pteranodon-egg",
+    "name": "Pteranodon Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Ptero_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero.PrimalItemConsumable_Egg_Ptero'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Ptero"
+    ]
+  },
+  {
+    "id": "pteranodon-saddle",
+    "name": "Pteranodon Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_PteroSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PteroSaddle.PrimalItemArmor_PteroSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_PteroSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "pulmonoscorpius-egg",
+    "name": "Pulmonoscorpius Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Scorpion_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Scorpion.PrimalItemConsumable_Egg_Scorpion'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Scorpion"
+    ]
+  },
+  {
+    "id": "pump-action-shotgun",
+    "name": "Pump-Action Shotgun",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponMachinedShotgun_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponMachinedShotgun",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "quetz-saddle",
+    "name": "Quetz Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_QuetzSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_QuetzSaddle.PrimalItemArmor_QuetzSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_QuetzSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "quetzal-egg",
+    "name": "Quetzal Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Quetz_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz.PrimalItemConsumable_Egg_Quetz'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Quetz"
+    ]
+  },
+  {
+    "id": "raptor-egg",
+    "name": "Raptor Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Raptor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor.PrimalItemConsumable_Egg_Raptor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Raptor"
+    ]
+  },
+  {
+    "id": "raptor-saddle",
+    "name": "Raptor Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_RaptorSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RaptorSaddle.PrimalItemArmor_RaptorSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_RaptorSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "rare-flower",
+    "name": "Rare Flower",
+    "category": "Resources",
+    "className": "PrimalItemResource_RareFlower_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_RareFlower",
+      "Resources"
+    ]
+  },
+  {
+    "id": "rare-mushroom",
+    "name": "Rare Mushroom",
+    "category": "Resources",
+    "className": "PrimalItemResource_RareMushroom_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_RareMushroom",
+      "Resources"
+    ]
+  },
+  {
+    "id": "raw-fish-meat",
+    "name": "Raw Fish Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_RawMeat_Fish_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish'",
+    "stackSize": 40,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_RawMeat_Fish"
+    ]
+  },
+  {
+    "id": "raw-meat",
+    "name": "Raw Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_RawMeat_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
+    "stackSize": 40,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_RawMeat"
+    ],
+    "itemNumId": 12
+  },
+  {
+    "id": "raw-mutton",
+    "name": "Raw Mutton",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_RawMutton_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_RawMutton"
+    ]
+  },
+  {
+    "id": "raw-prime-fish-meat",
+    "name": "Raw Prime Fish Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_RawPrimeMeat_Fish_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_RawPrimeMeat_Fish"
+    ]
+  },
+  {
+    "id": "raw-prime-meat",
+    "name": "Raw Prime Meat",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_RawPrimeMeat_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'",
+    "stackSize": 20,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_RawPrimeMeat"
+    ]
+  },
+  {
+    "id": "raw-salt",
+    "name": "Raw Salt",
+    "category": "Resources",
+    "className": "PrimalItemResource_RawSalt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_RawSalt",
+      "Resources"
+    ]
+  },
+  {
+    "id": "red-coloring",
+    "name": "Red Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Red_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Red.PrimalItemDye_Red'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Red"
+    ]
+  },
+  {
+    "id": "red-gem",
+    "name": "Red Gem",
+    "category": "Resources",
+    "className": "PrimalItemResource_Gem_Element_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gem_Element.PrimalItemResource_Gem_Element'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Gem_Element",
+      "Resources"
+    ]
+  },
+  {
+    "id": "rex-egg",
+    "name": "Rex Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Rex_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex.PrimalItemConsumable_Egg_Rex'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Rex"
+    ]
+  },
+  {
+    "id": "rex-saddle",
+    "name": "Rex Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_RexSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_RexSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "riot-boots",
+    "name": "Riot Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_RiotBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotBoots.PrimalItemArmor_RiotBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_RiotBoots"
+    ]
+  },
+  {
+    "id": "riot-chestpiece",
+    "name": "Riot Chestpiece",
+    "category": "Armor",
+    "className": "PrimalItemArmor_RiotShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotShirt.PrimalItemArmor_RiotShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_RiotShirt"
+    ]
+  },
+  {
+    "id": "riot-gauntlets",
+    "name": "Riot Gauntlets",
+    "category": "Armor",
+    "className": "PrimalItemArmor_RiotGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotGloves.PrimalItemArmor_RiotGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_RiotGloves"
+    ]
+  },
+  {
+    "id": "riot-helmet",
+    "name": "Riot Helmet",
+    "category": "Armor",
+    "className": "PrimalItemArmor_RiotHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotHelmet.PrimalItemArmor_RiotHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_RiotHelmet"
+    ]
+  },
+  {
+    "id": "riot-leggings",
+    "name": "Riot Leggings",
+    "category": "Armor",
+    "className": "PrimalItemArmor_RiotPants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotPants.PrimalItemArmor_RiotPants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_RiotPants"
+    ]
+  },
+  {
+    "id": "riot-shield",
+    "name": "Riot Shield",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponShield_Riot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShield_Riot.PrimalItem_WeaponShield_Riot'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponShield_Riot",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "rock-drake-saddle",
+    "name": "Rock Drake Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_RockDrakeSaddle_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RockDrakeSaddle.PrimalItemArmor_RockDrakeSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_RockDrakeSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "rockarrot",
+    "name": "Rockarrot",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Veggie_Rockarrot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Rockarrot.PrimalItemConsumable_Veggie_Rockarrot'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Veggie_Rockarrot"
+    ]
+  },
+  {
+    "id": "rockarrot-seed",
+    "name": "Rockarrot Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Rockarrot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot.PrimalItemConsumable_Seed_Rockarrot'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Rockarrot"
+    ]
+  },
+  {
+    "id": "rocket-homing-missile",
+    "name": "Rocket Homing Missile",
+    "category": "Weapons",
+    "className": "PrimalItemAmmo_RocketHomingMissile_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RocketHomingMissile.PrimalItemAmmo_RocketHomingMissile'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemAmmo_RocketHomingMissile",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "rocket-launcher",
+    "name": "Rocket Launcher",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponRocketLauncher_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRocketLauncher.PrimalItem_WeaponRocketLauncher'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponRocketLauncher",
+      "Weapons"
+    ],
+    "itemNumId": 3
+  },
+  {
+    "id": "rocket-propelled-grenade",
+    "name": "Rocket Propelled Grenade",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_Rocket_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Rocket.PrimalItemAmmo_Rocket'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_Rocket"
+    ]
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "category": "Resources",
+    "className": "PrimalItemResource_Sand_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Sand",
+      "Resources"
+    ]
+  },
+  {
+    "id": "sap",
+    "name": "Sap",
+    "category": "Resources",
+    "className": "PrimalItemResource_Sap_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Sap",
+      "Resources"
+    ]
+  },
+  {
+    "id": "sarco-egg",
+    "name": "Sarco Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Sarco_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco.PrimalItemConsumable_Egg_Sarco'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Sarco"
+    ]
+  },
+  {
+    "id": "sarco-saddle",
+    "name": "Sarco Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_SarcoSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SarcoSaddle.PrimalItemArmor_SarcoSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_SarcoSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "sauropod-vertebra",
+    "name": "Sauropod Vertebra",
+    "category": "Resources",
+    "className": "PrimalItemResource_ApexDrop_Sauropod_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sauropod.PrimalItemResource_ApexDrop_Sauropod'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ApexDrop_Sauropod",
+      "Resources"
+    ]
+  },
+  {
+    "id": "savoroot",
+    "name": "Savoroot",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Veggie_Savoroot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Savoroot.PrimalItemConsumable_Veggie_Savoroot'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Veggie_Savoroot"
+    ]
+  },
+  {
+    "id": "savoroot-seed",
+    "name": "Savoroot Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Savoroot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Savoroot.PrimalItemConsumable_Seed_Savoroot'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Savoroot"
+    ]
+  },
+  {
+    "id": "scissors",
+    "name": "Scissors",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponScissors_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponScissors.PrimalItem_WeaponScissors'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponScissors",
+      "Tools"
+    ]
+  },
+  {
+    "id": "shotgun",
+    "name": "Shotgun",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponShotgun_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponShotgun",
+      "Weapons"
+    ],
+    "itemNumId": 263
+  },
+  {
+    "id": "silica-pearls",
+    "name": "Silica Pearls",
+    "category": "Resources",
+    "className": "PrimalItemResource_Silicon_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Silicon",
+      "Resources"
+    ]
+  },
+  {
+    "id": "silk",
+    "name": "Silk",
+    "category": "Resources",
+    "className": "PrimalItemResource_Silk_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Silk",
+      "Resources"
+    ]
+  },
+  {
+    "id": "simple-bullet",
+    "name": "Simple Bullet",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_SimpleBullet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleBullet.PrimalItemAmmo_SimpleBullet'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_SimpleBullet"
+    ],
+    "itemNumId": 4
+  },
+  {
+    "id": "simple-pistol",
+    "name": "Simple Pistol",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponGun_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponGun.PrimalItem_WeaponGun'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponGun",
+      "Weapons"
+    ],
+    "itemNumId": 1
+  },
+  {
+    "id": "simple-rifle-ammo",
+    "name": "Simple Rifle Ammo",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_SimpleRifleBullet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_SimpleRifleBullet"
+    ]
+  },
+  {
+    "id": "simple-shotgun-ammo",
+    "name": "Simple Shotgun Ammo",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_SimpleShotgunBullet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_SimpleShotgunBullet"
+    ]
+  },
+  {
+    "id": "slingshot",
+    "name": "Slingshot",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponSlingshot_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSlingshot.PrimalItem_WeaponSlingshot'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponSlingshot",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "snow-owl-saddle",
+    "name": "Snow Owl Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_OwlSaddle_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_OwlSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "sparkpowder",
+    "name": "Sparkpowder",
+    "category": "Resources",
+    "className": "PrimalItemResource_Sparkpowder_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sparkpowder.PrimalItemResource_Sparkpowder'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Sparkpowder",
+      "Resources"
+    ]
+  },
+  {
+    "id": "spear",
+    "name": "Spear",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponSpear_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSpear.PrimalItem_WeaponSpear'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponSpear",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "spino-egg",
+    "name": "Spino Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Spino_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino.PrimalItemConsumable_Egg_Spino'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Spino"
+    ]
+  },
+  {
+    "id": "spino-saddle",
+    "name": "Spino Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_SpinoSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpinoSaddle.PrimalItemArmor_SpinoSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_SpinoSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "spoiled-meat",
+    "name": "Spoiled Meat",
+    "category": "Resources",
+    "className": "PrimalItemConsumable_SpoiledMeat_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemConsumable_SpoiledMeat",
+      "Resources"
+    ],
+    "itemNumId": 13
+  },
+  {
+    "id": "spray-painter",
+    "name": "Spray Painter",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponSprayPainter_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSprayPainter.PrimalItem_WeaponSprayPainter'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponSprayPainter",
+      "Tools"
+    ]
+  },
+  {
+    "id": "spyglass",
+    "name": "Spyglass",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponSpyglass_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSpyglass.PrimalItem_WeaponSpyglass'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponSpyglass",
+      "Tools"
+    ]
+  },
+  {
+    "id": "stego-egg",
+    "name": "Stego Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Stego_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego.PrimalItemConsumable_Egg_Stego'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Stego"
+    ]
+  },
+  {
+    "id": "stego-saddle",
+    "name": "Stego Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_StegoSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_StegoSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "stimberry",
+    "name": "Stimberry",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Berry_Stimberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Stimberry.PrimalItemConsumable_Berry_Stimberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Berry_Stimberry"
+    ]
+  },
+  {
+    "id": "stimberry-seed",
+    "name": "Stimberry Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Stimberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Stimberry"
+    ]
+  },
+  {
+    "id": "stimulant",
+    "name": "Stimulant",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Stimulant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Stimulant.PrimalItemConsumable_Stimulant'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Stimulant"
+    ]
+  },
+  {
+    "id": "stone",
+    "name": "Stone",
+    "category": "Resources",
+    "className": "PrimalItemResource_Stone_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Stone",
+      "Resources"
+    ],
+    "itemNumId": 8
+  },
+  {
+    "id": "stone-arrow",
+    "name": "Stone Arrow",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_ArrowStone_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowStone.PrimalItemAmmo_ArrowStone'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_ArrowStone"
+    ],
+    "itemNumId": 32
+  },
+  {
+    "id": "stone-ceiling",
+    "name": "Stone Ceiling",
+    "category": "Structures",
+    "className": "PrimalItemStructure_StoneCeiling_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneCeiling.PrimalItemStructure_StoneCeiling'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_StoneCeiling",
+      "Structures"
+    ]
+  },
+  {
+    "id": "stone-door",
+    "name": "Stone Door",
+    "category": "Structures",
+    "className": "PrimalItemStructure_StoneDoor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneDoor.PrimalItemStructure_StoneDoor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_StoneDoor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "stone-doorframe",
+    "name": "Stone Doorframe",
+    "category": "Structures",
+    "className": "PrimalItemStructure_StoneDoorframe_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneDoorframe.PrimalItemStructure_StoneDoorframe'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_StoneDoorframe",
+      "Structures"
+    ]
+  },
+  {
+    "id": "stone-foundation",
+    "name": "Stone Foundation",
+    "category": "Structures",
+    "className": "PrimalItemStructure_StoneFloor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneFloor.PrimalItemStructure_StoneFloor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_StoneFloor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "stone-hatchet",
+    "name": "Stone Hatchet",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponStoneHatchet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStoneHatchet.PrimalItem_WeaponStoneHatchet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponStoneHatchet",
+      "Tools"
+    ],
+    "itemNumId": 34
+  },
+  {
+    "id": "stone-pick",
+    "name": "Stone Pick",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponStonePick_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStonePick.PrimalItem_WeaponStonePick'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponStonePick",
+      "Tools"
+    ],
+    "itemNumId": 33
+  },
+  {
+    "id": "stone-wall",
+    "name": "Stone Wall",
+    "category": "Structures",
+    "className": "PrimalItemStructure_StoneWall_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneWall.PrimalItemStructure_StoneWall'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_StoneWall",
+      "Structures"
+    ]
+  },
+  {
+    "id": "sulfur",
+    "name": "Sulfur",
+    "category": "Resources",
+    "className": "PrimalItemResource_Sulfur_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Sulfur",
+      "Resources"
+    ]
+  },
+  {
+    "id": "sword",
+    "name": "Sword",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponSword_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponSword",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "tapejara-egg",
+    "name": "Tapejara Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Tapejara_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara.PrimalItemConsumable_Egg_Tapejara'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Tapejara"
+    ]
+  },
+  {
+    "id": "tapejara-saddle",
+    "name": "Tapejara Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_TapejaraSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TapejaraSaddle.PrimalItemArmor_TapejaraSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_TapejaraSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "tek-boots",
+    "name": "Tek Boots",
+    "category": "Armor",
+    "className": "PrimalItemArmor_TekBoots_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_TekBoots"
+    ]
+  },
+  {
+    "id": "tek-ceiling",
+    "name": "Tek Ceiling",
+    "category": "Structures",
+    "className": "PrimalItemStructure_TekCeiling_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekCeiling.PrimalItemStructure_TekCeiling'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_TekCeiling",
+      "Structures"
+    ]
+  },
+  {
+    "id": "tek-chestpiece",
+    "name": "Tek Chestpiece",
+    "category": "Armor",
+    "className": "PrimalItemArmor_TekShirt_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_TekShirt"
+    ]
+  },
+  {
+    "id": "tek-door",
+    "name": "Tek Door",
+    "category": "Structures",
+    "className": "PrimalItemStructure_TekDoor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekDoor.PrimalItemStructure_TekDoor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_TekDoor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "tek-doorframe",
+    "name": "Tek Doorframe",
+    "category": "Structures",
+    "className": "PrimalItemStructure_TekDoorframe_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekDoorframe.PrimalItemStructure_TekDoorframe'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_TekDoorframe",
+      "Structures"
+    ]
+  },
+  {
+    "id": "tek-foundation",
+    "name": "Tek Foundation",
+    "category": "Structures",
+    "className": "PrimalItemStructure_TekFloor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekFloor.PrimalItemStructure_TekFloor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_TekFloor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "tek-gauntlets",
+    "name": "Tek Gauntlets",
+    "category": "Armor",
+    "className": "PrimalItemArmor_TekGloves_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_TekGloves"
+    ]
+  },
+  {
+    "id": "tek-helmet",
+    "name": "Tek Helmet",
+    "category": "Armor",
+    "className": "PrimalItemArmor_TekHelmet_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_TekHelmet"
+    ]
+  },
+  {
+    "id": "tek-leggings",
+    "name": "Tek Leggings",
+    "category": "Armor",
+    "className": "PrimalItemArmor_TekPants_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": false,
+    "tags": [
+      "Armor",
+      "PrimalItemArmor_TekPants"
+    ]
+  },
+  {
+    "id": "tek-rex-saddle",
+    "name": "Tek Rex Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_RexSaddle_Tek_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_RexSaddle_Tek",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "tek-rifle",
+    "name": "Tek Rifle",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponTekRifle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTekRifle.PrimalItem_WeaponTekRifle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponTekRifle",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "tek-rock-drake-saddle",
+    "name": "Tek Rock Drake Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_RockDrakeSaddle_Tek_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RockDrakeSaddle_Tek.PrimalItemArmor_RockDrakeSaddle_Tek'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_RockDrakeSaddle_Tek",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "tek-sword",
+    "name": "Tek Sword",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponTekSword_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTekSword.PrimalItem_WeaponTekSword'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponTekSword",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "tek-wall",
+    "name": "Tek Wall",
+    "category": "Structures",
+    "className": "PrimalItemStructure_TekWall_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWall.PrimalItemStructure_TekWall'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_TekWall",
+      "Structures"
+    ]
+  },
+  {
+    "id": "terror-bird-egg",
+    "name": "Terror Bird Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_TerrorBird_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird.PrimalItemConsumable_Egg_TerrorBird'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_TerrorBird"
+    ]
+  },
+  {
+    "id": "thatch",
+    "name": "Thatch",
+    "category": "Resources",
+    "className": "PrimalItemResource_Thatch_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Thatch",
+      "Resources"
+    ]
+  },
+  {
+    "id": "thatch-ceiling",
+    "name": "Thatch Ceiling",
+    "category": "Structures",
+    "className": "PrimalItemStructure_ThatchCeiling_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchCeiling.PrimalItemStructure_ThatchCeiling'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_ThatchCeiling",
+      "Structures"
+    ]
+  },
+  {
+    "id": "thatch-door",
+    "name": "Thatch Door",
+    "category": "Structures",
+    "className": "PrimalItemStructure_ThatchDoor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchDoor.PrimalItemStructure_ThatchDoor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_ThatchDoor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "thatch-doorframe",
+    "name": "Thatch Doorframe",
+    "category": "Structures",
+    "className": "PrimalItemStructure_ThatchDoorframe_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchDoorframe.PrimalItemStructure_ThatchDoorframe'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_ThatchDoorframe",
+      "Structures"
+    ]
+  },
+  {
+    "id": "thatch-foundation",
+    "name": "Thatch Foundation",
+    "category": "Structures",
+    "className": "PrimalItemStructure_ThatchFloor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchFloor.PrimalItemStructure_ThatchFloor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_ThatchFloor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "thatch-wall",
+    "name": "Thatch Wall",
+    "category": "Structures",
+    "className": "PrimalItemStructure_ThatchWall_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchWall.PrimalItemStructure_ThatchWall'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_ThatchWall",
+      "Structures"
+    ]
+  },
+  {
+    "id": "therizinosaur-egg",
+    "name": "Therizinosaur Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Therizino_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino.PrimalItemConsumable_Egg_Therizino'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Therizino"
+    ]
+  },
+  {
+    "id": "therizinosaur-saddle",
+    "name": "Therizinosaur Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_TherizinoSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinoSaddle.PrimalItemArmor_TherizinoSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_TherizinoSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "thylacoleo-saddle",
+    "name": "Thylacoleo Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_ThylacoSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ThylacoSaddle.PrimalItemArmor_ThylacoSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_ThylacoSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "tintoberry",
+    "name": "Tintoberry",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Berry_Tintoberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Tintoberry.PrimalItemConsumable_Berry_Tintoberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Berry_Tintoberry"
+    ]
+  },
+  {
+    "id": "tintoberry-seed",
+    "name": "Tintoberry Seed",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Seed_Tintoberry_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Seed_Tintoberry"
+    ]
+  },
+  {
+    "id": "titanoboa-egg",
+    "name": "Titanoboa Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Boa_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Boa.PrimalItemConsumable_Egg_Boa'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Boa"
+    ]
+  },
+  {
+    "id": "torch",
+    "name": "Torch",
+    "category": "Tools",
+    "className": "PrimalItem_WeaponTorch_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTorch.PrimalItem_WeaponTorch'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponTorch",
+      "Tools"
+    ]
+  },
+  {
+    "id": "tranquilizer-arrow",
+    "name": "Tranquilizer Arrow",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_ArrowTranq_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_ArrowTranq"
+    ]
+  },
+  {
+    "id": "tranquilizer-dart",
+    "name": "Tranquilizer Dart",
+    "category": "Ammo",
+    "className": "PrimalItemAmmo_TranqDart_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "Ammo",
+      "PrimalItemAmmo_TranqDart"
+    ]
+  },
+  {
+    "id": "trike-egg",
+    "name": "Trike Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Trike_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike.PrimalItemConsumable_Egg_Trike'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Trike"
+    ]
+  },
+  {
+    "id": "trike-saddle",
+    "name": "Trike Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_TrikeSaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_TrikeSaddle",
+      "Saddles"
+    ]
+  },
+  {
+    "id": "troodon-egg",
+    "name": "Troodon Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Troodon_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon.PrimalItemConsumable_Egg_Troodon'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Troodon"
+    ]
+  },
+  {
+    "id": "turtle-egg",
+    "name": "Turtle Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Turtle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle.PrimalItemConsumable_Egg_Turtle'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Turtle"
+    ]
+  },
+  {
+    "id": "tyrannosaurus-arm",
+    "name": "Tyrannosaurus Arm",
+    "category": "Resources",
+    "className": "PrimalItemResource_ApexDrop_Rex_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Rex.PrimalItemResource_ApexDrop_Rex'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_ApexDrop_Rex",
+      "Resources"
+    ]
+  },
+  {
+    "id": "white-coloring",
+    "name": "White Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_White_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_White.PrimalItemDye_White'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_White"
+    ]
+  },
+  {
+    "id": "wood",
+    "name": "Wood",
+    "category": "Resources",
+    "className": "PrimalItemResource_Wood_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
+    "stackSize": 200,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Wood",
+      "Resources"
+    ],
+    "itemNumId": 7
+  },
+  {
+    "id": "wooden-ceiling",
+    "name": "Wooden Ceiling",
+    "category": "Structures",
+    "className": "PrimalItemStructure_WoodCeiling_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wood/PrimalItemStructure_WoodCeiling.PrimalItemStructure_WoodCeiling'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_WoodCeiling",
+      "Structures"
+    ]
+  },
+  {
+    "id": "wooden-club",
+    "name": "Wooden Club",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponStoneClub_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStoneClub.PrimalItem_WeaponStoneClub'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponStoneClub",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "wooden-door",
+    "name": "Wooden Door",
+    "category": "Structures",
+    "className": "PrimalItemStructure_WoodDoor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wood/PrimalItemStructure_WoodDoor.PrimalItemStructure_WoodDoor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_WoodDoor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "wooden-doorframe",
+    "name": "Wooden Doorframe",
+    "category": "Structures",
+    "className": "PrimalItemStructure_WoodDoorframe_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wood/PrimalItemStructure_WoodDoorframe.PrimalItemStructure_WoodDoorframe'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_WoodDoorframe",
+      "Structures"
+    ]
+  },
+  {
+    "id": "wooden-foundation",
+    "name": "Wooden Foundation",
+    "category": "Structures",
+    "className": "PrimalItemStructure_WoodFloor_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wood/PrimalItemStructure_WoodFloor.PrimalItemStructure_WoodFloor'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_WoodFloor",
+      "Structures"
+    ]
+  },
+  {
+    "id": "wooden-shield",
+    "name": "Wooden Shield",
+    "category": "Weapons",
+    "className": "PrimalItem_WeaponShield_Wood_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShield_Wood.PrimalItem_WeaponShield_Wood'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItem_WeaponShield_Wood",
+      "Weapons"
+    ]
+  },
+  {
+    "id": "wooden-wall",
+    "name": "Wooden Wall",
+    "category": "Structures",
+    "className": "PrimalItemStructure_WoodWall_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wood/PrimalItemStructure_WoodWall.PrimalItemStructure_WoodWall'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": false,
+    "tags": [
+      "PrimalItemStructure_WoodWall",
+      "Structures"
+    ]
+  },
+  {
+    "id": "wool",
+    "name": "Wool",
+    "category": "Resources",
+    "className": "PrimalItemResource_Wool_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "PrimalItemResource_Wool",
+      "Resources"
+    ]
+  },
+  {
+    "id": "yellow-coloring",
+    "name": "Yellow Coloring",
+    "category": "Cosmetics",
+    "className": "PrimalItemDye_Yellow_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Yellow.PrimalItemDye_Yellow'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Cosmetics",
+      "PrimalItemDye_Yellow"
+    ]
+  },
+  {
+    "id": "yutyrannus-egg",
+    "name": "Yutyrannus Egg",
+    "category": "Consumables",
+    "className": "PrimalItemConsumable_Egg_Yutyrannus_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Yutyrannus.PrimalItemConsumable_Egg_Yutyrannus'",
+    "stackSize": 100,
+    "canBeBlueprint": false,
+    "verified": true,
+    "tags": [
+      "Consumables",
+      "PrimalItemConsumable_Egg_Yutyrannus"
+    ]
+  },
+  {
+    "id": "yutyrannus-saddle",
+    "name": "Yutyrannus Saddle",
+    "category": "Saddles",
+    "className": "PrimalItemArmor_YutySaddle_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle'",
+    "stackSize": 1,
+    "canBeBlueprint": true,
+    "verified": true,
+    "tags": [
+      "PrimalItemArmor_YutySaddle",
+      "Saddles"
+    ]
+  }
+]

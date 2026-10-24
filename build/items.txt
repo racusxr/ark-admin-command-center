@@ -1,0 +1,327 @@
+# name | spec | category | stack | blueprintable | itemNumId
+> Resources
+Wood|RES:Wood|200|0|7
+Stone|RES:Stone|200|0|8
+Thatch|RES:Thatch|200|0|
+Fiber|RES:Fibers|200|0|
+Flint|RES:Flint|200|0|
+Metal|RES:Metal|200|0|9
+Metal Ingot|RES:MetalIngot|200|0|
+Hide|RES:Hide|200|0|10
+Chitin|RES:Chitin|200|0|11
+Keratin|RES:Keratin|200|0|
+Chitin or Keratin|RES:ChitinOrKeratin|200|0|
+Crystal|RES:Crystal|100|0|
+Obsidian|RES:Obsidian|100|0|
+Oil|RES:Oil|100|0|
+Silica Pearls|RES:Silicon|100|0|
+Black Pearl|RES:BlackPearl|100|0|
+Pelt|RES:Pelt|200|0|
+Polymer|RES:Polymer|100|0|
+Organic Polymer|RES:Polymer_Organic|20|0|
+Cementing Paste|RES:ChitinPaste|200|0|
+Sparkpowder|RES:Sparkpowder|100|0|
+Gunpowder|RES:Gunpowder|100|0|
+Charcoal|RES:Charcoal|100|0|
+Electronics|RES:Electronics|100|0|
+Element|RES:Element|100|0|
+Element Shard|RES:ElementShard|1000|0|
+Element Ore|RES:ElementOre|100|0|
+Blue Gem|RES:Gem_BioLum|100|0|
+Green Gem|RES:Gem_Fertile|100|0|
+Red Gem|RES:Gem_Element|100|0|
+Congealed Gas Ball|RES:Gas|100|0|
+Sap|RES:Sap|100|0|
+Rare Flower|RES:RareFlower|100|0|
+Rare Mushroom|RES:RareMushroom|100|0|
+Leech Blood|RES:LeechBlood|100|0|
+Angler Gel|RES:AnglerGel|100|0|
+Silk|RES:Silk|100|0|
+Propellant|RES:Propellant|100|0|
+Sulfur|RES:Sulfur|100|0|
+Clay|RES:Clay|100|0|
+Cactus Sap|RES:CactusSap|100|0|
+Raw Salt|RES:RawSalt|100|0|
+Sand|RES:Sand|100|0|
+Wool|RES:Wool|100|0|
+Fungal Wood|RES:FungalWood|200|0|
+Ambergris|RES:Ambergris|100|0|
+Blue Crystalized Sap|RES:Gem_BioLum_Crafted|100|0|
+Coal|RES:Coal|200|0|
+Absorbent Substrate|RES:SubstrateAbsorbent|100|0|
+Argentavis Talon|RES:ApexDrop_Argentavis|100|0|155
+Megalodon Tooth|RES:ApexDrop_Megalodon|100|0|156
+Tyrannosaurus Arm|RES:ApexDrop_Rex|100|0|
+Sauropod Vertebra|RES:ApexDrop_Sauropod|100|0|
+Spoiled Meat|CON:SpoiledMeat|100|0|13
+> Consumables
+Raw Meat|CON:RawMeat|40|0|12
+Cooked Meat|CON:CookedMeat|50|0|14
+Raw Prime Meat|CON:RawPrimeMeat|20|0|
+Cooked Prime Meat|CON:CookedPrimeMeat|20|0|
+Raw Fish Meat|CON:RawMeat_Fish|40|0|
+Cooked Fish Meat|CON:CookedMeat_Fish|50|0|
+Raw Prime Fish Meat|CON:RawPrimeMeat_Fish|20|0|
+Cooked Prime Fish Meat|CON:CookedPrimeMeat_Fish|20|0|
+Raw Mutton|CON:RawMutton|20|0|
+Cooked Lamb Chop|CON:CookedLambChop|20|0|
+Amarberry|CON:Berry_Amarberry|100|0|
+Azulberry|CON:Berry_Azulberry|100|0|
+Mejoberry|CON:Berry_Mejoberry|100|0|
+Narcoberry|CON:Berry_Narcoberry|100|0|
+Stimberry|CON:Berry_Stimberry|100|0|
+Tintoberry|CON:Berry_Tintoberry|100|0|
+Citronal|CON:Veggie_Citronal|100|0|
+Longrass|CON:Veggie_Longrass|100|0|
+Rockarrot|CON:Veggie_Rockarrot|100|0|
+Savoroot|CON:Veggie_Savoroot|100|0|
+Narcotic|CON:Narcotic|100|0|
+Stimulant|CON:Stimulant|100|0|
+Medical Brew|CON:Soup_MedicalBrew|100|0|
+Energy Brew|CON:Soup_EnergyBrew|100|0|
+Bio Toxin|CON:JellyVenom|100|0|
+Cooked Meat Jerky|CON:CookedMeat_Jerky|30|0|
+Prime Meat Jerky|CON:CookedPrimeMeat_Jerky|30|0|
+> Seeds
+Amarberry Seed|SEED:Amarberry|100|0|
+Azulberry Seed|SEED:Azulberry|100|0|
+Citronal Seed|SEED:Citronal|100|0|
+Longrass Seed|SEED:Longrass|100|0|
+Mejoberry Seed|SEED:Mejoberry|100|0|
+Narcoberry Seed|SEED:Narcoberry|100|0|
+Rockarrot Seed|SEED:Rockarrot|100|0|
+Savoroot Seed|SEED:Savoroot|100|0|
+Stimberry Seed|SEED:Stimberry|100|0|
+Tintoberry Seed|SEED:Tintoberry|100|0|
+Plant Species X Seed|SEED:DefensePlant|100|0|
+> Weapons
+Simple Pistol|WPN:Gun|1|1|1
+Assault Rifle|WPN:AssaultRifle|1|1|2
+Rocket Launcher|WPN:RocketLauncher|1|1|3
+Bow|WPN:Bow|1|1|5
+Crossbow|WPN:Crossbow|1|1|
+Longneck Rifle|WPN:OneShotRifle|1|1|
+Fabricated Sniper Rifle|WPN:MachinedSniper|1|1|
+Fabricated Pistol|WPN:MachinedPistol|1|1|
+Shotgun|WPN:Shotgun|1|1|263
+Pump-Action Shotgun|WPN:MachinedShotgun|1|1|
+Compound Bow|WPN:CompoundBow|1|1|
+Spear|WPN:Spear|1|1|
+Pike|WPN:Pike|1|1|
+Sword|WPN:Sword|1|1|
+Wooden Club|WPN:StoneClub|1|1|
+Slingshot|WPN:Slingshot|1|1|
+Bola|WPN:Bola|1|1|
+Grenade|WPN:Grenade|1|0|6
+Rocket Homing Missile|AMMO:RocketHomingMissile|100|0|
+Flamethrower|WPN:Flamethrower|1|1|
+Wooden Shield|WPN:Shield_Wood|1|1|
+Metal Shield|WPN:Shield_Metal|1|1|
+Riot Shield|WPN:Shield_Riot|1|1|
+Tek Rifle|WPN:TekRifle|1|1|
+Tek Sword|WPN:TekSword|1|1|
+> Tools
+Stone Pick|WPN:StonePick|1|1|33
+Stone Hatchet|WPN:StoneHatchet|1|1|34
+Metal Pick|WPN:MetalPick|1|1|35
+Metal Hatchet|WPN:MetalHatchet|1|1|36
+Metal Sickle|WPN:Sickle|1|1|
+Torch|WPN:Torch|1|1|
+Spyglass|WPN:Spyglass|1|1|
+GPS|WPN:GPS|1|1|
+Compass|WPN:Compass|1|1|
+Parachute|WPN:Parachute|1|1|
+Magnifying Glass|WPN:MagnifyingGlass|1|1|
+Fishing Rod|WPN:FishingRod|1|1|
+Paintbrush|WPN:Paintbrush|1|1|
+Spray Painter|WPN:SprayPainter|1|1|
+Flare Gun|WPN:FlareGun|1|1|
+Handcuffs|WPN:Handcuffs|1|1|
+Scissors|WPN:Scissors|1|1|
+Cryopod|RAW:/Game/Extinction/CoreBlueprints/Weapons/PrimalItem_WeaponEmptyCryopod|10|0|
+> Ammo
+Stone Arrow|AMMO:ArrowStone|100|0|32
+Tranquilizer Arrow|AMMO:ArrowTranq|100|0|
+Metal Arrow|AMMO:ArrowMetal|100|0|
+Flame Arrow|AMMO:ArrowFlame|100|0|
+Tranquilizer Dart|AMMO:TranqDart|100|0|
+Simple Bullet|AMMO:SimpleBullet|100|0|4
+Simple Rifle Ammo|AMMO:SimpleRifleBullet|100|0|
+Advanced Rifle Bullet|AMMO:AdvancedRifleBullet|100|0|
+Advanced Bullet|AMMO:AdvancedBullet|100|0|
+Simple Shotgun Ammo|AMMO:SimpleShotgunBullet|100|0|
+Advanced Sniper Bullet|AMMO:AdvancedSniperBullet|100|0|
+Rocket Propelled Grenade|AMMO:Rocket|100|0|
+Boulder|AMMO:Boulder|100|0|
+Cannon Ball|AMMO:CannonBall|100|0|
+> Armor
+Cloth Hat|ARM:Cloth/ClothHelmet|1|1|19
+Cloth Shirt|ARM:Cloth/ClothShirt|1|1|18
+Cloth Pants|ARM:Cloth/ClothPants|1|1|17
+Cloth Boots|ARM:Cloth/ClothBoots|1|1|20
+Cloth Gloves|ARM:Cloth/ClothGloves|1|1|21
+Hide Hat|ARM:Hide/HideHelmet|1|1|24
+Hide Shirt|ARM:Hide/HideShirt|1|1|23
+Hide Pants|ARM:Hide/HidePants|1|1|22
+Hide Boots|ARM:Hide/HideBoots|1|1|25
+Hide Gloves|ARM:Hide/HideGloves|1|1|26
+Chitin Helmet|ARM:Chitin/ChitinHelmet|1|1|29
+Chitin Chestpiece|ARM:Chitin/ChitinShirt|1|1|28
+Chitin Leggings|ARM:Chitin/ChitinPants|1|1|27
+Chitin Boots|ARM:Chitin/ChitinBoots|1|1|30
+Chitin Gauntlets|ARM:Chitin/ChitinGloves|1|1|31
+Flak Helmet|ARM:Metal/MetalHelmet|1|1|
+Flak Chestpiece|ARM:Metal/MetalShirt|1|1|
+Flak Leggings|ARM:Metal/MetalPants|1|1|
+Flak Boots|ARM:Metal/MetalBoots|1|1|
+Flak Gauntlets|ARM:Metal/MetalGloves|1|1|
+Fur Cap|ARM:Fur/FurHelmet|1|1|
+Fur Chestpiece|ARM:Fur/FurShirt|1|1|
+Fur Leggings|ARM:Fur/FurPants|1|1|
+Fur Boots|ARM:Fur/FurBoots|1|1|
+Fur Gauntlets|ARM:Fur/FurGloves|1|1|
+Ghillie Mask|ARM:Ghillie/GhillieHelmet|1|1|
+Ghillie Chestpiece|ARM:Ghillie/GhillieShirt|1|1|
+Ghillie Leggings|ARM:Ghillie/GhilliePants|1|1|
+Ghillie Boots|ARM:Ghillie/GhillieBoots|1|1|
+Ghillie Gauntlets|ARM:Ghillie/GhillieGloves|1|1|
+Riot Helmet|ARM:Riot/RiotHelmet|1|1|
+Riot Chestpiece|ARM:Riot/RiotShirt|1|1|
+Riot Leggings|ARM:Riot/RiotPants|1|1|
+Riot Boots|ARM:Riot/RiotBoots|1|1|
+Riot Gauntlets|ARM:Riot/RiotGloves|1|1|
+Tek Helmet|ARM:Tek/TekHelmet|1|1|
+Tek Chestpiece|ARM:Tek/TekShirt|1|1|
+Tek Leggings|ARM:Tek/TekPants|1|1|
+Tek Boots|ARM:Tek/TekBoots|1|1|
+Tek Gauntlets|ARM:Tek/TekGloves|1|1|
+> Saddles
+Raptor Saddle|SAD:RaptorSaddle|1|1|
+Rex Saddle|SAD:RexSaddle|1|1|
+Trike Saddle|SAD:TrikeSaddle|1|1|
+Parasaur Saddle|SAD:ParaSaddle|1|1|
+Stego Saddle|SAD:StegoSaddle|1|1|
+Ankylo Saddle|SAD:AnkyloSaddle|1|1|
+Bronto Saddle|SAD:SauroSaddle|1|1|
+Carno Saddle|SAD:CarnoSaddle|1|1|
+Sarco Saddle|SAD:SarcoSaddle|1|1|
+Spino Saddle|SAD:SpinoSaddle|1|1|
+Argentavis Saddle|SAD:ArgentavisSaddle|1|1|
+Pteranodon Saddle|SAD:PteroSaddle|1|1|
+Quetz Saddle|SAD:QuetzSaddle|1|1|
+Tapejara Saddle|SAD:TapejaraSaddle|1|1|
+Griffin Saddle|SAD:GriffinSaddle|1|1|
+Megalodon Saddle|SAD:MegalodonSaddle|1|1|
+Mosasaur Saddle|SAD:MosaSaddle|1|1|
+Plesiosaur Saddle|SAD:PlesiaSaddle|1|1|
+Basilosaurus Saddle|SAD:BasiloSaddle|1|1|
+Therizinosaur Saddle|SAD:TherizinoSaddle|1|1|
+Yutyrannus Saddle|SAD:YutySaddle|1|1|
+Giganotosaurus Saddle|SAD:GigantSaddle|1|1|
+Mammoth Saddle|SAD:MammothSaddle|1|1|
+Direbear Saddle|SAD:DirebearSaddle|1|1|
+Doedicurus Saddle|SAD:DoedSaddle|1|1|
+Beelzebufo Saddle|SAD:ToadSaddle|1|1|
+Castoroides Saddle|SAD:BeaverSaddle|1|1|
+Thylacoleo Saddle|SAD:ThylacoSaddle|1|1|
+Baryonyx Saddle|SAD:BaryonyxSaddle|1|1|
+Equus Saddle|SAD:EquusSaddle|1|1|
+Rock Drake Saddle|RAW:/Game/Aberration/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RockDrakeSaddle|1|1|
+Karkinos Saddle|RAW:/Game/Aberration/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CrabSaddle|1|1|
+Snow Owl Saddle|RAW:/Game/Extinction/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_OwlSaddle|1|1|
+Managarmr Saddle|RAW:/Game/Extinction/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_IceJumperSaddle|1|1|
+Tek Rex Saddle|SAD:RexSaddle_Tek|1|1|
+Tek Rock Drake Saddle|RAW:/Game/Aberration/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RockDrakeSaddle_Tek|1|1|
+> Artifacts
+Artifact of the Hunter|ART:01|1|0|146
+Artifact of the Pack|ART:02|1|0|147
+Artifact of the Massive|ART:03|1|0|148
+Artifact of the Devious|ART:04|1|0|149
+Artifact of the Clever|ART:05|1|0|150
+Artifact of the Skylord|ART:06|1|0|151
+Artifact of the Devourer|ART:07|1|0|152
+Artifact of the Immune|ART:08|1|0|153
+Artifact of the Strong|ART:09|1|0|154
+Artifact of the Cunning|ART:11|1|0|
+Artifact of the Brute|ART:12|1|0|
+> Structures
+Thatch Foundation|STR:Thatch/ThatchFloor|100|0|
+Thatch Wall|STR:Thatch/ThatchWall|100|0|
+Thatch Ceiling|STR:Thatch/ThatchCeiling|100|0|
+Thatch Doorframe|STR:Thatch/ThatchDoorframe|100|0|
+Thatch Door|STR:Thatch/ThatchDoor|100|0|
+Wooden Foundation|STR:Wood/WoodFloor|100|0|
+Wooden Wall|STR:Wood/WoodWall|100|0|
+Wooden Ceiling|STR:Wood/WoodCeiling|100|0|
+Wooden Doorframe|STR:Wood/WoodDoorframe|100|0|
+Wooden Door|STR:Wood/WoodDoor|100|0|
+Stone Foundation|STR:Stone/StoneFloor|100|0|
+Stone Wall|STR:Stone/StoneWall|100|0|
+Stone Ceiling|STR:Stone/StoneCeiling|100|0|
+Stone Doorframe|STR:Stone/StoneDoorframe|100|0|
+Stone Door|STR:Stone/StoneDoor|100|0|
+Metal Foundation|STR:Metal/MetalFloor|100|0|
+Metal Wall|STR:Metal/MetalWall|100|0|
+Metal Ceiling|STR:Metal/MetalCeiling|100|0|
+Metal Doorframe|STR:Metal/MetalDoorframe|100|0|
+Metal Door|STR:Metal/MetalDoor|100|0|
+Tek Foundation|STR:Tek/TekFloor|100|0|
+Tek Wall|STR:Tek/TekWall|100|0|
+Tek Ceiling|STR:Tek/TekCeiling|100|0|
+Tek Doorframe|STR:Tek/TekDoorframe|100|0|
+Tek Door|STR:Tek/TekDoor|100|0|
+Plant Species X|STR:Misc/TurretPlant|1|0|
+> Dye
+Black Coloring|DYE:Black|100|0|
+Blue Coloring|DYE:Blue|100|0|
+Brown Coloring|DYE:Brown|100|0|
+Cyan Coloring|DYE:Cyan|100|0|
+Green Coloring|DYE:Green|100|0|
+Magenta Coloring|DYE:Magenta|100|0|
+Orange Coloring|DYE:Orange|100|0|
+Red Coloring|DYE:Red|100|0|
+White Coloring|DYE:White|100|0|
+Yellow Coloring|DYE:Yellow|100|0|
+> Eggs
+Rex Egg|EGG:Rex|100|0|
+Argentavis Egg|EGG:Argent|100|0|
+Raptor Egg|EGG:Raptor|100|0|
+Stego Egg|EGG:Stego|100|0|
+Trike Egg|EGG:Trike|100|0|
+Spino Egg|EGG:Spino|100|0|
+Quetzal Egg|EGG:Quetz|100|0|
+Pteranodon Egg|EGG:Ptero|100|0|
+Dodo Egg|EGG:Dodo|100|0|
+Parasaur Egg|EGG:Para|100|0|
+Ankylo Egg|EGG:Ankylo|100|0|
+Carno Egg|EGG:Carno|100|0|
+Sarco Egg|EGG:Sarco|100|0|
+Bronto Egg|EGG:Sauropod|100|0|
+Giganotosaurus Egg|EGG:Gigant|100|0|
+Therizinosaur Egg|EGG:Therizino|100|0|
+Yutyrannus Egg|EGG:Yutyrannus|100|0|
+Baryonyx Egg|EGG:Baryonyx|100|0|
+Allosaurus Egg|EGG:Allo|100|0|
+Pachy Egg|EGG:Pachy|100|0|
+Kentrosaurus Egg|EGG:Kentro|100|0|
+Pachyrhinosaurus Egg|EGG:Pachyrhino|100|0|
+Tapejara Egg|EGG:Tapejara|100|0|
+Dimorph Egg|EGG:Dimorph|100|0|
+Compy Egg|EGG:Compy|100|0|
+Dilophosaur Egg|EGG:Dilo|100|0|
+Galli Egg|EGG:Galli|100|0|
+Iguanodon Egg|EGG:Iguanodon|100|0|
+Lystrosaurus Egg|EGG:Lystro|100|0|
+Megalosaurus Egg|EGG:Megalosaurus|100|0|
+Microraptor Egg|EGG:Microraptor|100|0|
+Moschops Egg|EGG:Moschops|100|0|
+Oviraptor Egg|EGG:Oviraptor|100|0|
+Pegomastax Egg|EGG:Pegomastax|100|0|
+Pulmonoscorpius Egg|EGG:Scorpion|100|0|
+Titanoboa Egg|EGG:Boa|100|0|
+Troodon Egg|EGG:Troodon|100|0|
+Turtle Egg|EGG:Turtle|100|0|
+Diplo Egg|EGG:Diplodocus|100|0|
+Kaprosuchus Egg|EGG:Kaprosuchus|100|0|
+Archaeopteryx Egg|EGG:Archa|100|0|
+Terror Bird Egg|EGG:TerrorBird|100|0|

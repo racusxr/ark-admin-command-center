@@ -1,0 +1,146 @@
+{
+  "giveitem": {
+    "description": "Gives an item to your inventory using its blueprint path.",
+    "params": {
+      "BlueprintPath": "Full blueprint path of the item.",
+      "Quantity": "Amount to give.",
+      "Quality": "Item quality (0 = normal).",
+      "ForceBlueprint": "If true, gives the blueprint (schematic) instead of the crafted item."
+    }
+  },
+  "giveitemnum": {
+    "description": "Legacy variant of GiveItem that uses a numeric ID. Numeric IDs are not reliable across game versions, which is why this tool uses blueprint-based GiveItem by default.",
+    "params": {
+      "ItemID": "Legacy numeric item ID.",
+      "Quantity": "Amount to give.",
+      "Quality": "Item quality.",
+      "ForceBlueprint": "If true, gives the blueprint instead of the item."
+    }
+  },
+  "gmsummon": {
+    "description": "Spawns an already-adult creature (or one at a specific level) using its class name.",
+    "params": {
+      "ClassName": "Creature class name (GMSummon ID).",
+      "Level": "Level of the spawned creature."
+    }
+  },
+  "spawndino": {
+    "description": "Spawns a wild creature in front of you, with fine control over position and level.",
+    "params": {
+      "BlueprintPath": "Creature blueprint path.",
+      "X": "Distance forward from your position.",
+      "Y": "Lateral offset.",
+      "Z": "Vertical offset.",
+      "Level": "Creature level.",
+      "SetTamed": "1 = tamed on spawn, 0 = wild."
+    }
+  },
+  "summon": {
+    "description": "Spawns a wild base-level creature right at your position.",
+    "params": {
+      "ClassName": "Class name of the creature to spawn."
+    }
+  },
+  "destroywilddinos": {
+    "description": "Destroys all wild creatures on the map (tamed ones are not affected)."
+  },
+  "teleport": {
+    "description": "Teleports you in the direction you are looking."
+  },
+  "teleportplayeridtome": {
+    "description": "Brings a player to your position using their Player ID.",
+    "params": {
+      "PlayerID": "Numeric player ID."
+    }
+  },
+  "teleporttoplayer": {
+    "description": "Teleports you to a player by name or ID.",
+    "params": {
+      "PlayerName_or_ID": "Name or ID of the destination player."
+    }
+  },
+  "fly": {
+    "description": "Enables free-flight mode for your character."
+  },
+  "walk": {
+    "description": "Disables flight mode and returns to normal movement."
+  },
+  "ghost": {
+    "description": "Enables ghost mode, letting you pass through objects and terrain."
+  },
+  "god": {
+    "description": "Enables invulnerability and immunity to hunger/thirst for your character."
+  },
+  "infinitestats": {
+    "description": "Keeps all your stats (health, stamina, weight, etc.) at maximum."
+  },
+  "enemyinvisible": {
+    "description": "Makes your character invisible to wild creatures.",
+    "params": {
+      "Enabled": "true to enable, false to disable."
+    }
+  },
+  "forcetame": {
+    "description": "Instantly tames the creature you are aiming at."
+  },
+  "kill": {
+    "description": "Kills your own character."
+  },
+  "destroymytarget": {
+    "description": "Completely destroys the creature or structure you are aiming at."
+  },
+  "setplayerpos": {
+    "description": "Places your character at an exact map coordinate.",
+    "params": {
+      "X": "X coordinate.",
+      "Y": "Y coordinate.",
+      "Z": "Z coordinate."
+    }
+  },
+  "giveallstructure": {
+    "description": "Gives you admin access over the structure you are aiming at."
+  },
+  "giveallDino": {
+    "description": "Transfers ownership of all nearby tamed creatures to you."
+  },
+  "givetome": {
+    "description": "Transfers ownership of the creature or structure you are aiming at to you."
+  },
+  "addexperience": {
+    "description": "Adds experience to your character (or to the creature you are taming/riding).",
+    "params": {
+      "Amount": "Amount of experience.",
+      "FromTribeShare": "Whether it counts as shared by the tribe.",
+      "PreventSharingWithTribe": "Prevents it from being shared with the tribe."
+    }
+  },
+  "setplayerstat": {
+    "description": "Sets a specific stat of your character.",
+    "params": {
+      "Stat": "Stat name (Health, Stamina, Food, Water, etc.).",
+      "AddOrSet": "1 to set the value directly.",
+      "Amount": "Value to assign."
+    }
+  },
+  "settargetdinocolor": {
+    "description": "Changes the color of a specific region of the creature you are aiming at.",
+    "params": {
+      "ColorRegion": "Color region index (0-5).",
+      "ColorID": "ID of the color to apply."
+    }
+  },
+  "sdf": {
+    "description": "Short alias of SpawnDino, with the same syntax.",
+    "params": {
+      "BlueprintPath": "Creature blueprint path.",
+      "X": "Distance forward.",
+      "Y": "Lateral offset.",
+      "Z": "Vertical offset.",
+      "Level": "Creature level.",
+      "SetTamed": "1 = tamed, 0 = wild."
+    }
+  },
+  "saveworld": {
+    "description": "Forces an immediate save of the server/world state."
+  }
+}
